@@ -4,11 +4,39 @@ https://www.linuxidc.com/Linux/2011-10/44809.htm
 
 ![classdiagram](https://raw.githubusercontent.com/mowang111/image-hosting/master/typora_images/ClassDiagram)
 
-1. 如何处理某个节点的绑定事件
-   + webkit [节点对应的点击事件处理api](https://webkitgtk.org/reference/webkitdomgtk/stable/WebKitDOMHTMLElement.html#webkit-dom-html-element-click)
+1. [请求url](https://webkitgtk.org/reference/webkit2gtk/stable/WebKitURIRequest.html#webkit-uri-request-get-uri)
+   
+   + webkit_uri_request_new ()
+   + webkit_uri_request_get_uri ()
+   
+2. 如何处理某个节点的绑定事件
+
+   + //webkit [节点对应的点击事件处理api](https://webkitgtk.org/reference/webkitdomgtk/stable/WebKitDOMHTMLElement.html#webkit-dom-html-element-click)
+
    + [webkit_web_frame_get_dom_document ()](https://webkitgtk.org/reference/webkitgtk/stable/WebKitWebFrame.html#webkit-web-frame-get-global-context)
 
-## [tutrial](https://wiki.gnome.org/Projects/WebKitGtk/ProgrammingGuide/)
+     + ```
+       JSGlobalContextRef
+       webkit_web_frame_get_global_context (WebKitWebFrame *frame);
+       ```
+
+       Use this function to bridge between the WebKit and JavaScriptCore APIs
+
+       >需要将串口屏上的控件和webkitwebFrame类绑定起来
+
+   + [webkit_web_page_get_dom_document ()](https://webkitgtk.org/reference/webkit2gtk/stable/WebKitWebPage.html#webkit-web-page-get-dom-document)
+
+   + [webkit_dom_document_get_elements_by_tag_name_as_html_collection ()](https://webkitgtk.org/reference/webkitdomgtk/stable/WebKitDOMDocument.html#webkit-dom-document-get-elements-by-tag-name-as-html-collection)
+
+     + 根据标签tag找到对应的dom节点
+
+3. 如何提取出正在运行中的webkit的页面控件类webkitwebFreame类
+   + 是不是需要[webkitdomgtk](https://webkitgtk.org/reference/webkitdomgtk/stable/index.html)中寻找含有某一特殊标记的webkitwebFreame类的方法
+   + Frame类图关系
+   + ![img](https://www.pianshen.com/images/821/8a6ca5d9e741993b44f0e6b211e5541d.JPEG)
+   + 事件处理者，我们在网页上（确切的说是在一个frame上）点击一个按钮，或者移动鼠标，首先底层会将该事件截获然后报给WebView（Page专题中有提到）,然后通过Page找到RootFrame，将该事件交给RootFrame的EventHandler，RootFrame的EventHandler如果发现其所在Frame有subFrame，会交给subFrame的EventHandler来处理，如果处理成功就返回，否则自己继续处理。
+
+## [tutrial](https://wiki.gnome.org/Projects/WebKitGtk/ProgrammingGuide)
 
 ```c++
    1 /*
@@ -95,3 +123,6 @@ https://www.linuxidc.com/Linux/2011-10/44809.htm
   82 }
 ```
 
+## 参考资料
+
+[深入剖析webkit](http://www.starming.com/2017/10/11/deeply-analyse-webkit/#/%E6%9E%B6%E6%9E%84)
