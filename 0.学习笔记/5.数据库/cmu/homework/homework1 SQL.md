@@ -7,13 +7,16 @@ Get all unique `ShipNames` from the Order table that contain a hyphen `'-'`.
 **Details:** In addition, get all the characters preceding the (first) hyphen. Return ship names alphabetically. Your first row should look like `Bottom-Dollar Markets|Bottom`
 
 ```sql
-SELECT DISTINCT ShipName from 'Order'
+SELECT DISTINCT ShipName, substr(ShipName, 0, instr(ShipName, '-')) as PreHyphen
+FROM 'Order'
 WHERE ShipName LIKE '%-%'
-ORDER BY ShipName;
+ORDER BY ShipName ASC;
 ```
 
 > + 筛选重复数据使用DISTINCT
 > + ORDER BY放在最后
+> + SUBSTR(*string*, *start*, *length*)
+> + INSTR(*string1*, *string2*)
 
 ### Q3 [5 POINTS] (Q3_NORTHAMERICAN):
 
@@ -27,13 +30,16 @@ Order by the primary key (`Id`) ascending and return 20 rows starting from Order
 >+ 需要知道如何增加一列，通过判断`ShipCountry`来决定这一列的值
 
 ```sql
-SELECT Id,ShipCountry,
-CASE WHEN ShipCOuntry IN ('USA','Mexico','Canada')
-THEN 'NorthAmerica'
-ELSE 'OtherPlace'
-END AS ShipCountryGroup
-FROM 'Other'
-WHERE Id >= 15445 LIMIT 20；
+SELECT Id, ShipCountry, 
+       CASE 
+              WHEN ShipCountry IN ('USA', 'Mexico','Canada')
+              THEN 'NorthAmerica'
+              ELSE 'OtherPlace'
+       END
+FROM 'Order'
+WHERE Id >= 15445
+ORDER BY Id ASC
+LIMIT 20;
 ```
 
 ### Q4 [10 POINTS] (Q4_DELAYPERCENT):
@@ -43,12 +49,21 @@ For each `Shipper`, find the percentage of orders which are late.
 **Details:** An order is considered late if `ShippedDate > RequiredDate`. Print the following format, order by descending precentage, rounded to the nearest hundredths, like `United Package|23.44`
 
 ```sql
-SELECT CompanyName,ROUND(count(CASE WHEN ShippedDate > RequiredDate THEN 1 ELSE NULL END)*100.0/count(*),2)
-AS Percentage
-FROM 'Order',Shipper
-WHERE 'Order'.ShipVia=Shipper.Id
-Group By CompanyName
-ORDER BY Percentage DESC;
+SELECT CompanyName, round(delaycnt * 100.0 / cnt, 2) AS pct
+FROM (
+      SELECT ShipVia, COUNT(*) AS cnt 
+      FROM 'Order'
+      GROUP BY ShipVia
+     ) AS totalCnt
+INNER JOIN (
+            SELECT ShipVia, COUNT(*) AS delaycnt 
+            FROM 'Order'
+            WHERE ShippedDate > RequiredDate 
+            GROUP BY ShipVia
+           ) AS delayCnt
+          ON totalCnt.ShipVia = delayCnt.ShipVia
+INNER JOIN Shipper on totalCnt.ShipVia = Shipper.Id
+ORDER BY pct DESC;
 ```
 
 ### Q5 [10 POINTS] (Q5_AGGREGATES):
@@ -61,3 +76,26 @@ Order by `Category Id`. Your output should look like `Beverages|12|37.98|4.5|263
 > 思考
 >
 > + 得到一个种类产品（产品数量超过10）的所有数量，平均价格，最小单价，最大单价，总共单数
+> + 通过Product可以找出所有产品数量超过10的种类id CategoryId
+> + 再通过Category找到种类名称
+
+```sql
+SELECT CategoryName
+    , COUNT(*) AS ProductnumofCate
+    , ROUND(AVG(UnitPrice),2) AS UnitPriceAVG
+    , MIN(UnitPrice) AS MinUnitPrice
+    , MAX(UnitPrice) AS MAXUnitPrice
+    , SUM(UnitsOnOrder) AS TotalUnitsOnOrder
+from Product
+INNER JOIN Category ON Category.Id = Product.CategoryId
+GROUP BY CategoryId
+HAVING ProductnumofCate > 10
+ORDER BY CategoryId
+```
+
+### Q6 [10 POINTS] (Q6_DISCONTINUED):
+
+For each of the 8 discontinued products in the database, which customer made the first ever order for the product? Output the customer's `CompanyName` and `ContactName`
+
+**Details:** Print the following format, order by `ProductName` alphabetically: `Alice Mutton|Consolidated Holdings|Elizabeth Brown`
+
