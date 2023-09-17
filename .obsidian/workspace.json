@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "9055019b683e4b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "1785a17225f9f503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cfa06951502b450",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea8e23f3d14a419b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8cd5bba1bfe95d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97312fc640307feb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8eb060317ebd9fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9632457313a7ccb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8ee8aad8f25c0a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "29a4d99b1967dd6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5183dbb69be9d8bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe74198d0ca37c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f7e5e65b28ad204",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4189abf648c2996",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ff763fa9d2712d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d4059670f9e4401",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6ab5b8c7db999f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "27b32a9cb47c6a5e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "9cfa06951502b450",
+  "lastOpenFiles": [
+    "0.学习笔记/a01.语言/汇编/基本语法.md",
+    "0.学习笔记/a05.设计模式/单例模式.md",
+    "0.学习笔记/web服务器项目/网络编程/4. Test TCP(ttcp).md",
+    "0.学习笔记/web服务器项目/网络编程/3. 课程大纲.md",
+    "0.学习笔记/web服务器项目/网络编程/2. TCP小实验.md",
+    "0.学习笔记/web服务器项目/网络编程/1. 网络编程概要.md",
+    "0.学习笔记/a05.设计模式",
+    "0.学习笔记/z01.面试相关/tinywebserver/http状态机.md",
+    "0.学习笔记/z01.面试相关/资源/http状态机.md",
+    "0.学习笔记/z01.面试相关/操作系统面试题/内存管理.md",
+    "0.学习笔记/z01.面试相关/tinywebserver/线程池.md",
+    "0.学习笔记/z01.面试相关/tinywebserver/练习.md",
+    "0.学习笔记/z01.面试相关/tinywebserver/定时器处理非活动连接.md",
+    "0.学习笔记/z01.面试相关/针对简历面试.md",
+    "0.学习笔记/z01.面试相关/重点面试整理.md",
+    "0.学习笔记/z01.面试相关/设计模式/常见的九种设计模式.md",
+    "0.学习笔记/z01.面试相关/操作系统面试题/资源/虚拟内存.md",
+    "0.学习笔记/z01.面试相关/操作系统面试题/资源/直接使用物理内存的问题.md",
+    "0.学习笔记/7.面试相关/操作系统面试题/资源/直接使用物理内存带来的问题.md",
+    "0.学习笔记/z01.面试相关/操作系统面试题/操作系统面试题.md",
+    "0.学习笔记/7.面试相关/操作系统面试题/资源/未命名思维导图.md",
+    "0.学习笔记/z01.面试相关/操作系统面试题/资源",
+    "0.学习笔记/z01.面试相关/资源",
+    "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
+    "().md",
+    "0.学习笔记/a01.语言/3.C++/资源/c++11新特性.md",
+    "0.学习笔记/01.语言/3.C++/图片/Drawing 2023-09-11 08.12.24.excalidraw.md",
+    "0.学习笔记/a01.语言/3.C++/资源",
+    "0.学习笔记/a01.语言/3.C++/其他/原子类型和内存模型.md",
+    "0.学习笔记/a01.语言/3.C++/其他/图片/内存模型.md",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/SOTA.png",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/logo.png",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/join.png",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/section",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/LICENSE",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/data",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database",
+    "归档（废弃）/14.编译原理/编译原理之美/1.实验一门脚本语言（原理篇）",
+    "未命名.canvas",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
+  ]
+}

@@ -1,0 +1,2 @@
+# STAThread和MTAThread
+
