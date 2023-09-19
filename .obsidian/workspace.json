@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md"
               }
             }
           },
@@ -189,7 +189,7 @@
   "active": "212b17bedd77b2d9",
   "lastOpenFiles": [
     "0.学习笔记/z01.面试相关/tinywebserver/http状态机.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
     "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md",
     "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
     "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
