@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1785a17225f9f503",
+        "id": "580df6e8a9161886",
         "type": "tabs",
         "children": [
           {
-            "id": "9cfa06951502b450",
+            "id": "212b17bedd77b2d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"title\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
+              }
             }
           },
           {
@@ -156,68 +166,68 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 352.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9cfa06951502b450",
+  "active": "212b17bedd77b2d9",
   "lastOpenFiles": [
-    "0.学习笔记/a01.语言/汇编/基本语法.md",
-    "0.学习笔记/a05.设计模式/单例模式.md",
-    "0.学习笔记/web服务器项目/网络编程/4. Test TCP(ttcp).md",
-    "0.学习笔记/web服务器项目/网络编程/3. 课程大纲.md",
-    "0.学习笔记/web服务器项目/网络编程/2. TCP小实验.md",
-    "0.学习笔记/web服务器项目/网络编程/1. 网络编程概要.md",
-    "0.学习笔记/a05.设计模式",
     "0.学习笔记/z01.面试相关/tinywebserver/http状态机.md",
-    "0.学习笔记/z01.面试相关/资源/http状态机.md",
-    "0.学习笔记/z01.面试相关/操作系统面试题/内存管理.md",
-    "0.学习笔记/z01.面试相关/tinywebserver/线程池.md",
-    "0.学习笔记/z01.面试相关/tinywebserver/练习.md",
-    "0.学习笔记/z01.面试相关/tinywebserver/定时器处理非活动连接.md",
-    "0.学习笔记/z01.面试相关/针对简历面试.md",
-    "0.学习笔记/z01.面试相关/重点面试整理.md",
-    "0.学习笔记/z01.面试相关/设计模式/常见的九种设计模式.md",
-    "0.学习笔记/z01.面试相关/操作系统面试题/资源/虚拟内存.md",
-    "0.学习笔记/z01.面试相关/操作系统面试题/资源/直接使用物理内存的问题.md",
-    "0.学习笔记/7.面试相关/操作系统面试题/资源/直接使用物理内存带来的问题.md",
-    "0.学习笔记/z01.面试相关/操作系统面试题/操作系统面试题.md",
-    "0.学习笔记/7.面试相关/操作系统面试题/资源/未命名思维导图.md",
-    "0.学习笔记/z01.面试相关/操作系统面试题/资源",
-    "0.学习笔记/z01.面试相关/资源",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+    "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md",
     "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
-    "().md",
-    "0.学习笔记/a01.语言/3.C++/资源/c++11新特性.md",
-    "0.学习笔记/01.语言/3.C++/图片/Drawing 2023-09-11 08.12.24.excalidraw.md",
-    "0.学习笔记/a01.语言/3.C++/资源",
-    "0.学习笔记/a01.语言/3.C++/其他/原子类型和内存模型.md",
+    "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型",
+    "0.学习笔记/a02.人工智能/机器学习/决策树和随机森林.md",
+    "生活/健身餐.md",
+    "未命名.canvas",
+    "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
+    "0.学习笔记/z01.面试相关/设计模式/常见的九种设计模式.md",
+    "0.学习笔记/z01.面试相关/资源/http状态机.md",
+    "0.学习笔记/a01.语言/3.C++/其他/图片/左值右值.md",
+    "0.学习笔记/z01.面试相关/操作系统面试题/资源/直接使用物理内存的问题.md",
+    "0.学习笔记/z01.面试相关/操作系统面试题/资源/虚拟内存.md",
     "0.学习笔记/a01.语言/3.C++/其他/图片/内存模型.md",
+    "0.学习笔记/web服务器项目/网络编程/1. 网络编程概要.md",
+    "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-14 三个主题.md",
+    "0.学习笔记/a01.语言/3.C++/c++实战笔记/1.概论/1.生命周期和编程范式.md",
+    "生活/实习租房相关.md",
+    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
+    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/2.malloc free.md",
+    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/未命名.md",
+    "0.学习笔记/a01.语言/3.C++/资源/c++11新特性.md",
+    "0.学习笔记/a01.语言/3.C++/c++核心编程/04.类和对象.md",
+    "0.学习笔记/a01.语言/3.C++/c++核心编程/03.函数高级.md",
+    "0.学习笔记/a01.语言/3.C++/c++核心编程/01.程序的内存模型.md",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/0.前置知识.md",
+    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/a.exe",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.exe",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/新建文件夹",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.c",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/SOTA.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/logo.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/join.png",
-    "归档（废弃）/Artificial-Intelligence-Terminology-Database/section",
-    "归档（废弃）/Artificial-Intelligence-Terminology-Database/LICENSE",
-    "归档（废弃）/Artificial-Intelligence-Terminology-Database/data",
-    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets",
-    "归档（废弃）/Artificial-Intelligence-Terminology-Database",
-    "归档（废弃）/14.编译原理/编译原理之美/1.实验一门脚本语言（原理篇）",
-    "未命名.canvas",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
   ]
