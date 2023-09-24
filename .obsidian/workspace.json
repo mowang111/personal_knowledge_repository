@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6f4d9c842aafb1",
+        "id": "2770819965fbda1d",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1d34d205fdb2e9",
+            "id": "799320affafcf90e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -145,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名.canvas"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -180,7 +186,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "799320affafcf90e",
   "lastOpenFiles": [
     "未命名.canvas",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异.md",
