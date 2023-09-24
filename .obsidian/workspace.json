@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36f177021bba068c",
+        "id": "fb6f4d9c842aafb1",
         "type": "tabs",
         "children": [
           {
-            "id": "ee89566d963fab1e",
+            "id": "3d1d34d205fdb2e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.canvas"
+              }
             }
           },
           {
@@ -142,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "未命名.canvas"
+              }
             }
           },
           {
@@ -176,8 +189,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee89566d963fab1e",
+  "active": "3d1d34d205fdb2e9",
   "lastOpenFiles": [
+    "未命名.canvas",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
@@ -209,9 +223,7 @@
     "新建 Text Document.txt",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源",
     "0.学习笔记/z01.面试相关/tinywebserver/http状态机.md",
-    "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型",
-    "未命名.canvas",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/a.exe",
