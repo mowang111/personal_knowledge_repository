@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ee287ef7014d3f1e",
+        "id": "36f177021bba068c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b539de9dd45d3a4",
+            "id": "c60c273d7ec52b48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/window核心编程.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/window核心编程.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/window核心编程.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/window核心编程.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/window核心编程.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -184,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b539de9dd45d3a4",
+  "active": "c60c273d7ec52b48",
   "lastOpenFiles": [
-    "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
     "Excalidraw/window核心编程.md",
+    "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
     "1.项目/v2ray/v2ray源码结构.md",
     "1.项目/v2ray/proxy/dns/dns简介.md",
     "1.项目/v2ray/proxy/dns/dns单元测试.md",
