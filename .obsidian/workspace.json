@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2770819965fbda1d",
+        "id": "a95473868aa34d33",
         "type": "tabs",
         "children": [
           {
-            "id": "799320affafcf90e",
+            "id": "bbd45542fb30725f",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -164,12 +166,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,14 +185,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "bbd45542fb30725f",
   "lastOpenFiles": [
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "未命名.canvas",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
     "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-13 c++标准库.md",
@@ -218,7 +219,6 @@
     "0.学习笔记/未命名",
     "新建 Text Document.txt",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源",
-    "0.学习笔记/z01.面试相关/tinywebserver/http状态机.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
