@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c60c273d7ec52b48",
+            "id": "ee89566d963fab1e",
             "type": "leaf",
             "state": {
               "type": "mindmapView",
               "state": {
-                "file": "未命名思维导图.md"
-              }
-            }
-          },
-          {
-            "id": "ee89566d963fab1e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 06.23.11.excalidraw.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/未命名思维导图.md"
               }
             }
           }
@@ -101,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名思维导图.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名思维导图.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名思维导图.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -159,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名思维导图.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -194,11 +184,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c60c273d7ec52b48",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/未命名思维导图.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
-    "未命名思维导图.md",
+    "Excalidraw/Drawing 2023-09-25 06.25.31.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 06.23.11.excalidraw.md",
+    "未命名思维导图.md",
     "Excalidraw/window核心编程.md",
     "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
     "1.项目/v2ray/v2ray源码结构.md",
@@ -209,7 +202,6 @@
     "1.项目/v2ray/proxy/dns",
     "1.项目/v2ray/proxy",
     "1.项目/v2ray",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "0.学习笔记/未命名",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
     "新建 Text Document.txt",
@@ -228,8 +220,6 @@
     "0.学习笔记/a01.语言/3.C++/其他/图片/左值右值.md",
     "0.学习笔记/z01.面试相关/操作系统面试题/资源/直接使用物理内存的问题.md",
     "0.学习笔记/z01.面试相关/操作系统面试题/资源/虚拟内存.md",
-    "0.学习笔记/a01.语言/3.C++/其他/图片/内存模型.md",
-    "0.学习笔记/web服务器项目/网络编程/1. 网络编程概要.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/a.exe",
