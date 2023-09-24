@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bee21373c6beec43",
+        "id": "b627e219f847583e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5313a9ad39ab20",
+            "id": "4d98a4c5cb260a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md",
+                "file": "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f10daa5b39a3976c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/window核心编程.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md",
+                "file": "Excalidraw/window核心编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md",
+                "file": "Excalidraw/window核心编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md"
+                "file": "Excalidraw/window核心编程.md"
               }
             }
           },
@@ -151,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md"
+                "file": "Excalidraw/window核心编程.md"
               }
             }
           },
@@ -185,15 +196,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "4f5313a9ad39ab20",
+  "active": "f10daa5b39a3976c",
   "lastOpenFiles": [
+    "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
+    "Excalidraw/window核心编程.md",
+    "1.项目/v2ray/v2ray源码结构.md",
     "1.项目/v2ray/proxy/dns/dns简介.md",
     "1.项目/v2ray/proxy/dns/dns单元测试.md",
     "V2Ray 源代码分析.md",
     "1.项目/v2ray/proxy/未命名 1.md",
     "1.项目/v2ray/proxy/dns",
     "1.项目/v2ray/proxy",
-    "1.项目/v2ray/v2ray源码结构.md",
     "1.项目/v2ray",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "0.学习笔记/未命名",
@@ -219,8 +232,6 @@
     "0.学习笔记/web服务器项目/网络编程/1. 网络编程概要.md",
     "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-14 三个主题.md",
     "0.学习笔记/a01.语言/3.C++/c++实战笔记/1.概论/1.生命周期和编程范式.md",
-    "生活/实习租房相关.md",
-    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/a.exe",
