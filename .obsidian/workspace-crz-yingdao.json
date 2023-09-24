@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "580df6e8a9161886",
+        "id": "b419ccbd21e51b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "212b17bedd77b2d9",
+            "id": "96975a3c0b83ba24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e51121e99b178d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"title\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
+                "file": "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
+                "file": "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md"
+                "file": "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md"
               }
             }
           },
@@ -161,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,56 +160,48 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e51121e99b178d2",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
-    "新建 Text Document.txt",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源",
-    "0.学习笔记/z01.面试相关/tinywebserver/http状态机.md",
-    "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md",
-    "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
-    "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型",
-    "0.学习笔记/a02.人工智能/机器学习/决策树和随机森林.md",
-    "生活/健身餐.md",
-    "未命名.canvas",
-    "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
+    "0.学习笔记/a01.语言/3.C++/Untitled",
     "0.学习笔记/z01.面试相关/设计模式/常见的九种设计模式.md",
+    "0.学习笔记/a05.设计模式/单例模式（Singleton Design Pattern）.md",
     "0.学习笔记/z01.面试相关/资源/http状态机.md",
     "0.学习笔记/a01.语言/3.C++/其他/图片/左值右值.md",
     "0.学习笔记/z01.面试相关/操作系统面试题/资源/直接使用物理内存的问题.md",
     "0.学习笔记/z01.面试相关/操作系统面试题/资源/虚拟内存.md",
     "0.学习笔记/a01.语言/3.C++/其他/图片/内存模型.md",
     "0.学习笔记/web服务器项目/网络编程/1. 网络编程概要.md",
+    "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
     "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-14 三个主题.md",
     "0.学习笔记/a01.语言/3.C++/c++实战笔记/1.概论/1.生命周期和编程范式.md",
     "生活/实习租房相关.md",
+    "未命名.canvas",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/2.malloc free.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/未命名.md",
     "0.学习笔记/a01.语言/3.C++/资源/c++11新特性.md",
     "0.学习笔记/a01.语言/3.C++/c++核心编程/04.类和对象.md",
+    "0.学习笔记/a01.语言/3.C++/c++核心编程/03.函数高级.md",
+    "0.学习笔记/a01.语言/3.C++/c++核心编程/01.程序的内存模型.md",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/0.前置知识.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/a.exe",
@@ -234,6 +209,14 @@
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/新建文件夹",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.c",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理",
+    "0.学习笔记/a01.语言/C",
+    "0.学习笔记/a01.语言/汇编/基本语法.md",
+    "0.学习笔记/web服务器项目/网络编程/4. Test TCP(ttcp).md",
+    "0.学习笔记/web服务器项目/网络编程/3. 课程大纲.md",
+    "0.学习笔记/web服务器项目/网络编程/2. TCP小实验.md",
+    "0.学习笔记/z01.面试相关/tinywebserver/http状态机.md",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/SOTA.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/logo.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/join.png",
