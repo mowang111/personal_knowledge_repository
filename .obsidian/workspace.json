@@ -11,9 +11,11 @@
             "id": "bbd45542fb30725f",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
               }
             }
           },
@@ -185,9 +187,9 @@
   },
   "active": "bbd45542fb30725f",
   "lastOpenFiles": [
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
     "未命名.canvas",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
