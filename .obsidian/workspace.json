@@ -11,10 +11,8 @@
             "id": "ee89566d963fab1e",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,6 +179,8 @@
   "active": "ee89566d963fab1e",
   "lastOpenFiles": [
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
     "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-13 c++标准库.md",
@@ -198,8 +192,6 @@
     "0.学习笔记/a01.语言/3.C++/现代C++实战/基础篇/2.智能指针.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/0.引言.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "未命名思维导图.md",
     "Excalidraw/Drawing 2023-09-25 06.25.31.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 06.23.11.excalidraw.md",
