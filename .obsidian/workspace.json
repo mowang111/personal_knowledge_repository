@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a13e2a289fcb2606",
+        "id": "d49b5e86bace6f61",
         "type": "tabs",
         "children": [
           {
-            "id": "3a2effb78436aa7a",
+            "id": "772d47522cf5a39a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md",
+                "file": "1.项目/v2ray/proxy/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md",
+                "file": "1.项目/v2ray/proxy/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md",
+                "file": "1.项目/v2ray/proxy/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md"
+                "file": "1.项目/v2ray/proxy/未命名.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/v2ray/v2ray源码结构.md"
+                "file": "1.项目/v2ray/proxy/未命名.md"
               }
             }
           },
@@ -185,10 +185,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a2effb78436aa7a",
+  "active": "772d47522cf5a39a",
   "lastOpenFiles": [
-    "V2Ray 源代码分析.md",
+    "1.项目/v2ray/proxy/未命名 1.md",
+    "1.项目/v2ray/proxy/dns",
+    "1.项目/v2ray/proxy/未命名.md",
+    "1.项目/v2ray/proxy",
     "1.项目/v2ray/v2ray源码结构.md",
+    "V2Ray 源代码分析.md",
     "1.项目/v2ray",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "0.学习笔记/未命名",
@@ -216,14 +220,9 @@
     "0.学习笔记/a01.语言/3.C++/c++实战笔记/1.概论/1.生命周期和编程范式.md",
     "生活/实习租房相关.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
-    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/2.malloc free.md",
-    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/未命名.md",
-    "0.学习笔记/a01.语言/3.C++/资源/c++11新特性.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/a.exe",
-    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.exe",
-    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/新建文件夹",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/SOTA.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/logo.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/join.png",
