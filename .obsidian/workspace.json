@@ -11,11 +11,9 @@
             "id": "c60c273d7ec52b48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名思维导图.md"
               }
             }
           },
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "file": "未命名思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "file": "未命名思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
+                "file": "未命名思维导图.md"
               }
             }
           },
@@ -161,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
+                "file": "未命名思维导图.md"
               }
             }
           },
@@ -198,8 +196,9 @@
   },
   "active": "c60c273d7ec52b48",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-25 06.23.11.excalidraw.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+    "未命名思维导图.md",
+    "Excalidraw/Drawing 2023-09-25 06.23.11.excalidraw.md",
     "Excalidraw/window核心编程.md",
     "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
     "1.项目/v2ray/v2ray源码结构.md",
@@ -231,7 +230,6 @@
     "0.学习笔记/z01.面试相关/操作系统面试题/资源/虚拟内存.md",
     "0.学习笔记/a01.语言/3.C++/其他/图片/内存模型.md",
     "0.学习笔记/web服务器项目/网络编程/1. 网络编程概要.md",
-    "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-14 三个主题.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/a.exe",
