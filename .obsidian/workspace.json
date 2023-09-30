@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/其他/c++ stl中操作符和at()函数的区别.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/其他/c++ stl中操作符和at()函数的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/其他/c++ stl中操作符和at()函数的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md"
+                "file": "0.学习笔记/a01.语言/3.C++/其他/c++ stl中操作符和at()函数的区别.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md"
+                "file": "0.学习笔记/a01.语言/3.C++/其他/c++ stl中操作符和at()函数的区别.md"
               }
             }
           },
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +187,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bc81b31a41e282e",
+  "active": "d6ab5b8c7db999f6",
   "lastOpenFiles": [
     "0.学习笔记/a01.语言/3.C++/其他/emplace和insert.md",
-    "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
+    "0.学习笔记/a01.语言/3.C++/其他/c++ stl中操作符和at()函数的区别.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
     "conflict-files-obsidian-git.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
