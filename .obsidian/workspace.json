@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
+                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md"
+                "file": "0.学习笔记/a01.语言/3.C++/其他/未命名.md"
               }
             }
           },
@@ -187,8 +187,10 @@
   },
   "active": "1bc81b31a41e282e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "0.学习笔记/a01.语言/3.C++/其他/emplace和insert.md",
+    "0.学习笔记/a01.语言/3.C++/其他/未命名.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+    "conflict-files-obsidian-git.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
     "未命名.canvas",
@@ -212,8 +214,6 @@
     "1.项目/v2ray/v2ray源码结构.md",
     "1.项目/v2ray/proxy/dns/dns简介.md",
     "1.项目/v2ray/proxy/dns/dns单元测试.md",
-    "V2Ray 源代码分析.md",
-    "1.项目/v2ray/proxy/未命名 1.md",
     "1.项目/v2ray/proxy/dns",
     "1.项目/v2ray/proxy",
     "1.项目/v2ray",
