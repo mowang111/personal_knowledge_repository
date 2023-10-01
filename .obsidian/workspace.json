@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb70efaa935f9ff",
+        "id": "4f70593836f4b0e7",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b8333eaf827bd4",
+            "id": "6ad7aba40b8fa312",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.项目/硕士论文/大论文架构.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/硕士论文/大论文架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/硕士论文/大论文架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.项目/硕士论文/大论文架构.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.项目/硕士论文/大论文架构.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6b8333eaf827bd4",
+  "active": "6ad7aba40b8fa312",
   "lastOpenFiles": [
     "1.项目/硕士论文/大论文架构.md",
     "1.项目/硕士论文/大论文架构.md",
