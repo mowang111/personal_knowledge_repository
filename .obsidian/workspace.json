@@ -11,8 +11,12 @@
             "id": "c412c6b59e9ad4e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/2.数据与量值是如何组织的.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/2.数据与量值是如何组织的.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/2.数据与量值是如何组织的.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
               }
             }
           },
@@ -147,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/2.数据与量值是如何组织的.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
               }
             }
           },
@@ -182,14 +186,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "c412c6b59e9ad4e6",
   "lastOpenFiles": [
-    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/0.前置知识.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/2.数据与量值是如何组织的.md",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/0.前置知识.md",
     "未命名.md",
     "0.学习笔记/a01.语言/3.C++/其他/c++ stl中下标运算符和at()函数的区别.md",
     "0.学习笔记/a01.语言/3.C++/其他/emplace和insert.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
     "conflict-files-obsidian-git.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/程序设计典范.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/深度探索c++对象模型.md",
@@ -210,7 +215,6 @@
     "Excalidraw/Drawing 2023-09-25 06.25.31.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 06.23.11.excalidraw.md",
     "Excalidraw/window核心编程.md",
-    "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
     "1.项目/v2ray/proxy/dns",
     "1.项目/v2ray/proxy",
     "1.项目/v2ray",
