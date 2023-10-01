@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md"
+                "file": "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md"
               }
             }
           },
@@ -189,7 +189,7 @@
   "active": "c412c6b59e9ad4e6",
   "lastOpenFiles": [
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
-    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/未命名.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/2.数据与量值是如何组织的.md",
     "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/0.前置知识.md",
     "未命名.md",
