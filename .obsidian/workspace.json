@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9534a3a6533ca9bc",
+        "id": "88648e527f6e904b",
         "type": "tabs",
         "children": [
           {
-            "id": "26433d7aa01074dc",
+            "id": "0b5f20298bf43451",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d7dee42dcb458bd3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/2.数据与量值是如何组织的.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -100,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/2.数据与量值是如何组织的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/2.数据与量值是如何组织的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/2.数据与量值是如何组织的.md"
+              }
             }
           },
           {
@@ -153,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/2.数据与量值是如何组织的.md"
+              }
             }
           },
           {
@@ -187,8 +187,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7dee42dcb458bd3",
+  "active": "0b5f20298bf43451",
   "lastOpenFiles": [
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/0.前置知识.md",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/2.数据与量值是如何组织的.md",
     "未命名.md",
     "0.学习笔记/a01.语言/3.C++/其他/c++ stl中下标运算符和at()函数的区别.md",
     "0.学习笔记/a01.语言/3.C++/其他/emplace和insert.md",
@@ -214,8 +216,6 @@
     "Excalidraw/Drawing 2023-09-25 06.23.11.excalidraw.md",
     "Excalidraw/window核心编程.md",
     "0.学习笔记/b01.实习/Windows开发/Windows核心编程/0.引言.md",
-    "1.项目/v2ray/v2ray源码结构.md",
-    "1.项目/v2ray/proxy/dns/dns简介.md",
     "1.项目/v2ray/proxy/dns",
     "1.项目/v2ray/proxy",
     "1.项目/v2ray",
