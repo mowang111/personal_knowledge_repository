@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f70593836f4b0e7",
+        "id": "bae10d74d761bf98",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad7aba40b8fa312",
+            "id": "b142a00e8524e54e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ad7aba40b8fa312",
+  "active": "b142a00e8524e54e",
   "lastOpenFiles": [
     "1.项目/硕士论文/大论文架构.md",
     "1.项目/硕士论文/大论文架构.md",
