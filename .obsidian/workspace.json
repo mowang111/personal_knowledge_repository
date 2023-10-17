@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
+                "file": "0.学习笔记/z01.面试相关/c++面试题/多线程.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
+                "file": "0.学习笔记/z01.面试相关/c++面试题/多线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
+                "file": "0.学习笔记/z01.面试相关/c++面试题/多线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md"
+                "file": "0.学习笔记/z01.面试相关/c++面试题/多线程.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md"
+                "file": "0.学习笔记/z01.面试相关/c++面试题/多线程.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "0a8ad3a4ce293c82",
   "lastOpenFiles": [
+    "0.学习笔记/z01.面试相关/c++面试题/stl相关.md",
     "0.学习笔记/z01.面试相关/c++面试题/c++面试题.md",
     "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
     "0.学习笔记/z01.面试相关/c++面试题/智能指针相关.md",
@@ -215,7 +216,6 @@
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源/对象的差异 1.md",
     "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
-    "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-13 c++标准库.md",
     "1.项目/v2ray/proxy/dns",
     "1.项目/v2ray/proxy",
     "1.项目/v2ray",
