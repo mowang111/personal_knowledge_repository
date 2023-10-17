@@ -11,8 +11,12 @@
             "id": "0a8ad3a4ce293c82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md"
+              }
             }
           },
           {
@@ -178,6 +188,12 @@
   },
   "active": "0a8ad3a4ce293c82",
   "lastOpenFiles": [
+    "0.学习笔记/z01.面试相关/c++面试题/c++面试题.md",
+    "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
+    "0.学习笔记/z01.面试相关/c++面试题/智能指针相关.md",
+    "0.学习笔记/z01.面试相关/实习记录整理.md",
+    "0.学习笔记/z01.面试相关/针对简历面试.md",
+    "0.学习笔记/z01.面试相关/重点面试整理.md",
     "cef.md",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md",
     "1.项目/硕士论文/大论文架构.md",
@@ -200,12 +216,6 @@
     "0.学习笔记/a01.语言/3.C++/C++知识体系总结.md",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）/1.内存分配的层面.md",
     "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-13 c++标准库.md",
-    "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-14 三个主题.md",
-    "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-17 vptr和vtbl.md",
-    "0.学习笔记/a01.语言/3.C++/c++面向对象高级开发（侯捷）/2-18 对象模型（Object Model）关于this.md",
-    "0.学习笔记/a01.语言/3.C++/资源/c++11新特性.md",
-    "0.学习笔记/a01.语言/3.C++/现代C++实战/基础篇/1. 堆、栈、RAII.md",
-    "0.学习笔记/a01.语言/3.C++/现代C++实战/基础篇/2.智能指针.md",
     "1.项目/v2ray/proxy/dns",
     "1.项目/v2ray/proxy",
     "1.项目/v2ray",
