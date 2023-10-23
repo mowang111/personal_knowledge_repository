@@ -83,3 +83,4 @@ def click_all_eight_blocks():
             xbot_visual.desktop.click(window=""0"",element=block)
 ``` END",[],有效代码
 ```
+2. lu
