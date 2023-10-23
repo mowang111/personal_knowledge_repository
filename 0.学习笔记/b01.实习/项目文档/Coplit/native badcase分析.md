@@ -51,3 +51,5 @@ sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute
 
 ## native单模块指令训练集
 ![[Pasted image 20231023155652.png]]
+### 业务错误
+1. 强行
