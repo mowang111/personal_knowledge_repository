@@ -145,6 +145,7 @@ select_option_by_index(2, option_list)
 	3. 创建文件函数，比如desktop.create
 	4. 寻找所有elements，应该用find_elements，但是用成了get_all_elements
 	5. 函数 xbot_visual.desktop.input.clear 未定义
+	6. 函数 xbot_visual.desktop.get_table_data 未定义
 4. 有部分不知道咋处理的就直接...了
 ```python
 # 选择特定的工具，如画笔工具
