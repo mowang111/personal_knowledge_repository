@@ -14,7 +14,7 @@
 
 
 ## 模块混合魔法指令训练集
-1. 希望抽取成正则的魔法指令来提取信息，但是用错了
+1. 希望抽取成正则的魔法指令来提取信息，但是用错了，这种本来训练集就多一些，错的也多一些，三四个吧
 ```python
 # 获取商品名称
 name = xbot_visual.desktop.get_attribute(window=""0"",element=item,attribute_name=""text"")
