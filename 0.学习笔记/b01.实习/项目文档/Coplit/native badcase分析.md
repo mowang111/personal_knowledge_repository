@@ -91,4 +91,5 @@ def click_all_eight_blocks():
 3. 等待相关的还是乱编函数，比如xbot_visual.desktop.wait_for_state
 
 
-##
+## native 单模块验证集
+![[Pasted image 20231023162139.png]]
