@@ -50,7 +50,7 @@ sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute
 ```
 
 ## native单模块指令训练集
-
+![[Pasted image 20231023155741.png]]
 ### 业务错误
 1. 应该先找张三
 ```python
@@ -136,7 +136,6 @@ select_option_by_index(2, option_list)
     if is_time_in_range(publish_time, ""1 hour""):
 ```
 3. 等待相关的还是乱编函数，比如xbot_visual.desktop.wait_for_state
-
-
+4.
 ## native 单模块验证集
 ![[Pasted image 20231023162139.png]]
