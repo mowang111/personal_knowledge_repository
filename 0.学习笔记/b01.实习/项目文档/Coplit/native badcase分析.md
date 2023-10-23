@@ -85,39 +85,21 @@ def click_all_eight_blocks():
 ```
 ```python
 我有个PDF文件需要阅读，但是窗口太小看得眼睛疼，可以调整一下PDF阅读器的窗口大小吗，宽度调整为800，高度调整为600。,"```python
-
 # 使用此指令前，先安装必要的python库，使用以下命令
-
 # pip install
-
-  
-
 def adjust_pdf_window_size(width, height):
-
     """"""
-
     title: 调整PDF阅读器窗口大小
-
     description: 调整PDF阅读器窗口的宽度和高度
-
     inputs:
-
         - width (int): 窗口的宽度，eg: 800
-
         - height (int): 窗口的高度，eg: 600
-
     outputs:
-
         - None
-
     """"""
-
     pdf_window = xbot_visual.desktop.get(title=""PDF阅读器"")  # 根据PDF阅读器的窗口标题修改
-
     xbot_visual.desktop.resize(window=pdf_window, width=width, height=height)
-
     xbot_visual.desktop.move(window=pdf_window, x=""center"", y=""center"")
-
 adjust_pdf_window_size(800, 600)
 ```
 2. 乱编python库的函数，没有定义过
