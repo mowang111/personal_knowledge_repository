@@ -11,9 +11,11 @@
             "id": "3854d4d98b49a530",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20231023155652.png"
+                "file": "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231023155652.png",
+                "file": "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231023155652.png",
+                "file": "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231023155652.png"
+                "file": "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Pasted image 20231023155652.png"
+                "file": "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md"
               }
             }
           },
@@ -184,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "3854d4d98b49a530",
   "lastOpenFiles": [
-    "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md",
     "Pasted image 20231023155652.png",
+    "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md",
     "Pasted image 20231023170456.png",
     "Pasted image 20231023170453.png",
     "Pasted image 20231023162139.png",
