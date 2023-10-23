@@ -11,4 +11,12 @@
 | 正确                   |          |     |
 | 总数                   |          |     |
 |                        |          |     |
-|          |     |
+
+
+## 模块混合魔法指令训练集
+```python
+# 获取商品名称
+name = xbot_visual.desktop.get_attribute(window=""0"",element=item,attribute_name=""text"")
+# 获取商品价格
+price = xbot_visual.desktop.get_attribute(window=""0"",element=item,attribute_name=""text"")
+```
