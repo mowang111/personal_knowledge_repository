@@ -26,3 +26,15 @@ price = xbot_visual.desktop.get_attribute(window=""0"",element=item,attribute_na
 # 在提醒时间设置中，将时间提前5分钟
 xbot_visual.desktop.input(window=""0"",element=""提醒时间设置"",text=""+5"")
 ```
+3. 变量未定义
+```python
+for product in xbot_visual.desktop.iter_all_elements(window=""0"",element=""产品销售额""):
+# 获取产品的销售额
+sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute_name=""text"")
+# 判断销售额是否低于平均值
+   if sales < average_sales:
+       # 如果销售额低于平均值，自动预警
+	xbot_visual.desktop.click(window=""0"",element=""预警按钮"")
+
+[""变量未定义{'average_sales'}""]",仅参数错误
+```
