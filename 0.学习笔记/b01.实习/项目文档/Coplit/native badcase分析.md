@@ -52,4 +52,8 @@ sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute
 ## native单模块指令训练集
 ![[Pasted image 20231023155652.png]]
 ### 业务错误
-1. 强行
+1. ying'd
+```python
+# 判断聊天记录是否为我和张三的聊天记录
+    if ""我和张三"" in record_text:
+```
