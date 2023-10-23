@@ -21,4 +21,8 @@ name = xbot_visual.desktop.get_attribute(window=""0"",element=item,attribute_nam
 # 获取商品价格
 price = xbot_visual.desktop.get_attribute(window=""0"",element=item,attribute_name=""text"")
 ```
-2. 
+2. 希望写成魔法指令的，但是他简化了
+```python
+# 在提醒时间设置中，将时间提前5分钟
+xbot_visual.desktop.input(window=""0"",element=""提醒时间设置"",text=""+5"")
+```
