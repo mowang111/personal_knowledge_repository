@@ -11,8 +11,12 @@
             "id": "3854d4d98b49a530",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/b01.实习/UIA&MSAA/架构.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.学习笔记/b01.实习/UIA&MSAA/架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.学习笔记/b01.实习/UIA&MSAA/架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/b01.实习/UIA&MSAA/架构.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/b01.实习/UIA&MSAA/架构.md"
+              }
             }
           },
           {
@@ -176,9 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "3854d4d98b49a530",
   "lastOpenFiles": [
-    "0.学习笔记/b01.实习/Untitled",
+    "0.学习笔记/b01.实习/UIA&MSAA/架构.md",
+    "0.学习笔记/b01.实习/UIA&MSAA",
     "0.学习笔记/z01.面试相关/c++面试题/多线程.md",
     "0.学习笔记/z01.面试相关/c++面试题/stl相关.md",
     "0.学习笔记/z01.面试相关/c++面试题/c++面试题.md",
@@ -214,7 +225,6 @@
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源",
     "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型",
     "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
-    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识/asm.s",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/SOTA.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/logo.png",
     "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/join.png",
