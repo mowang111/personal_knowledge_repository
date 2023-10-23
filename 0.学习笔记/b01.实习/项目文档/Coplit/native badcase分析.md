@@ -102,6 +102,34 @@ def adjust_pdf_window_size(width, height):
     xbot_visual.desktop.move(window=pdf_window, x=""center"", y=""center"")
 adjust_pdf_window_size(800, 600)
 ```
+```python
+我在一个软件中有个下拉框需要选择，但是我不知道具体选项的文字，只知道是第三个选项。,"```python
+# 使用此指令前，先安装必要的python库，使用以下命令
+# pip install
+def select_option_by_index(index, option_list):
+    """"""
+    title: 根据索引选择下拉框选项
+    description: 根据索引选择下拉框选项
+    inputs:
+        - index (int): 索引值，从0开始
+        - option_list (list): 下拉框选项列表，eg: [""选项1"", ""选项2"", ""选项3""]
+    outputs:
+        - None
+    """"""
+    # 选择下拉框
+    dropdown = driver.find_element_by_xpath(""下拉框元素xpath"")
+    dropdown.click()
+    # 选择指定索引的选项
+    option = driver.find_element_by_xpath(f""//option[{index+1}]"")
+    option.click()
+    # 点击确认
+    confirm_button = driver.find_element_by_xpath(""确认按钮元素xpath"")
+    confirm_button.click()
+# 获取下拉框中所有选项
+option_list = driver.find_element_by_xpath(""下拉框元素xpath"")
+# 选择第三个选项
+select_option_by_index(2, option_list)
+```
 2. 乱编python库的函数，没有定义过
 ```python
 # 判断视频发布时间是否在一小时内
