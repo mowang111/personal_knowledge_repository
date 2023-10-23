@@ -147,11 +147,11 @@ select_option_by_index(2, option_list)
 	4. 寻找所有elements，应该用find_elements，但是用成了get_all_elements
 	5. 函数 xbot_visual.desktop.input.clear 未定义
 	6. 函数 xbot_visual.desktop.get_table_data 未定义
-		```python
+```python
 # 获取分析结果表格中的数据
 table_data = xbot_visual.desktop.get_table_data(window=""0"",element=""分析结果表格"")
-    ```
-	  7. contains_text未定义
+```
+7. contains_text未定义
 ```python
 # 检查文件内容是否包含特定字符串，例如电子邮件地址
     if xbot_visual.desktop.contains_text(window=""0"",text=""电子邮件地址""):
