@@ -142,7 +142,15 @@ select_option_by_index(2, option_list)
 3. 等待相关的还是乱编函数，比如xbot_visual.desktop.wait_for_state
 4. select相关乱编函数，比如select_all，应该是遍历然后select
 5. 有部分不知道咋处理的就直接...了
-6.
-7. 
+```python
+# 选择特定的工具，如画笔工具
+xbot_visual.desktop.click(window=""0"",element=""画笔工具"")
+# 对图片进行修改
+# ...
+# 点击保存菜单
+xbot_visual.desktop.click(window=""0"",element=""保存菜单"")
+# 在文件名输入框中输入保存后的图片路径
+```
+
 ## native 单模块验证集
 ![[Pasted image 20231023162139.png]]
