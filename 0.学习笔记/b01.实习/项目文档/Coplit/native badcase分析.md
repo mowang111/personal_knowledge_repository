@@ -46,3 +46,5 @@ sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute
         # 如果是，打印预警信息
         print(""物料{0}即将过期，请及时处理"".format(material_name))
 ```
+
+### 模块混合魔法指令训练集
