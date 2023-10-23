@@ -14,6 +14,8 @@
 
 
 ## 模块混合魔法指令训练集
+⚠️upload failed, check dev console
+
 ### 倾向于不使用魔法流程，直接简化流程
 1. 希望抽取成正则的魔法指令来提取信息，但是用错了，这种本来训练集就多一些，错的也多一些，三四个吧
 ```python
@@ -48,3 +50,4 @@ sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute
 ```
 
 ## native单模块指令训练集
+⚠️upload failed, check dev console
