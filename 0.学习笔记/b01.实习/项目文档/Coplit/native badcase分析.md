@@ -136,6 +136,6 @@ select_option_by_index(2, option_list)
     if is_time_in_range(publish_time, ""1 hour""):
 ```
 3. 等待相关的还是乱编函数，比如xbot_visual.desktop.wait_for_state
-4. select相关乱编函数，比如sele
+4. select相关乱编函数，比如select_all，应该是遍历然后select
 ## native 单模块验证集
 ![[Pasted image 20231023162139.png]]
