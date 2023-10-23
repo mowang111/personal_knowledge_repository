@@ -14,6 +14,7 @@
 
 
 ## 模块混合魔法指令训练集
+### 倾向于不使用魔法liu'c
 1. 希望抽取成正则的魔法指令来提取信息，但是用错了，这种本来训练集就多一些，错的也多一些，三四个吧
 ```python
 # 获取商品名称
@@ -26,7 +27,7 @@ price = xbot_visual.desktop.get_attribute(window=""0"",element=item,attribute_na
 # 在提醒时间设置中，将时间提前5分钟
 xbot_visual.desktop.input(window=""0"",element=""提醒时间设置"",text=""+5"")
 ```
-3. 变量未定义
+3. 变量未定义，没有用魔法流程计算average_sales这个变量
 ```python
 for product in xbot_visual.desktop.iter_all_elements(window=""0"",element=""产品销售额""):
 # 获取产品的销售额
