@@ -153,16 +153,12 @@ table_data = xbot_visual.desktop.get_table_data(window=""0"",element=""分析结
 	  7. contains_text未定义
 ```python
 # 检查文件内容是否包含特定字符串，例如电子邮件地址
-
     if xbot_visual.desktop.contains_text(window=""0"",text=""电子邮件地址""):
-
         # 如果包含，打印文件名
-
         print(f""文件{file}包含电子邮件地址"")
 ```
     
-```
-1. 有部分不知道咋处理的就直接...了
+4. 有部分不知道咋处理的就直接...了
 ```python
 # 选择特定的工具，如画笔工具
 xbot_visual.desktop.click(window=""0"",element=""画笔工具"")
