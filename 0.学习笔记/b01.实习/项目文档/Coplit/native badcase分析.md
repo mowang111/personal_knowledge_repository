@@ -57,4 +57,50 @@ sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute
 # 判断聊天记录是否为我和张三的聊天记录
     if ""我和张三"" in record_text:
 ```
-2. 
+
+### 语法错误
+```python
+我在玩开心消消乐游戏，自动点击所有显示数字8的方块。,"```python
+
+# 使用此指令前，先安装必要的python库，使用以下命令
+
+# pip install
+
+  
+
+def click_all_eight_blocks():
+
+    """"""
+
+    title: 点击所有显示数字8的方块
+
+    description: 在开心消消乐游戏中，自动点击所有显示数字8的方块
+
+    inputs:
+
+        - None
+
+    outputs:
+
+        - None
+
+    """"""
+
+    # 遍历所有方块元素
+
+    for block in xbot_visual.desktop.iter_all_elements(window=""0"",element=""方块""):
+
+        # 获取方块上显示的数字
+
+        number = xbot_visual.desktop.get_attribute(window=""0"",element=block,attribute_name=""text"")
+
+        # 如果数字为8
+
+        if number == ""8"":
+
+            # 点击该方块
+
+            xbot_visual.desktop.click(window=""0"",element=block)
+
+``` END",[],有效代码
+```
