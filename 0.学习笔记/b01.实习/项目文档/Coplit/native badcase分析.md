@@ -51,7 +51,7 @@ sales = xbot_visual.desktop.get_attribute(window=""0"",element=product,attribute
 ```
 
 ## native单模块指令训练集
-![[Pasted image 20231023155741.png]]
+![image-20231023174133466](https://raw.githubusercontent.com/mowang111/image-hosting/master/img/image-20231023174133466.png)
 ### 业务错误
 1. 应该先找张三
 ```python
