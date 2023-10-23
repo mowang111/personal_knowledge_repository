@@ -135,6 +135,10 @@ select_option_by_index(2, option_list)
 # 判断视频发布时间是否在一小时内
     if is_time_in_range(publish_time, ""1 hour""):
 ```
+```python
+# 在客户信息中去除重复信息
+    customer_info = remove_duplicate_info(customer_info)
+```
 3. 等待相关的还是乱编函数，比如xbot_visual.desktop.wait_for_state
 4. select相关乱编函数，比如select_all，应该是遍历然后select
 ## native 单模块验证集
