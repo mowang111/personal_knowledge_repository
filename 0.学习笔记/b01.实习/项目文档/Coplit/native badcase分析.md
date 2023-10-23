@@ -83,4 +83,9 @@ def click_all_eight_blocks():
             xbot_visual.desktop.click(window=""0"",element=block)
 ``` END",[],有效代码
 ```
-2. lu
+2. 乱编python库的函数，没有定义过
+```python
+# 判断视频发布时间是否在一小时内
+    if is_time_in_range(publish_time, ""1 hour""):
+```
+
