@@ -15,7 +15,7 @@
 
 
 ## 模块混合魔法指令训练集
-![[Pasted image 20231023155652.png]]
+![image-20231023174114869](https://raw.githubusercontent.com/mowang111/image-hosting/master/img/image-20231023174114869.png)
 
 ### 倾向于不使用魔法流程，直接简化流程
 1. 希望抽取成正则的魔法指令来提取信息，但是用错了，这种本来训练集就多一些，错的也多一些，三四个吧
@@ -173,4 +173,4 @@ xbot_visual.desktop.click(window=""0"",element=""保存菜单"")
 ```
 
 ## native 单模块验证集
-![[Pasted image 20231023162139.png]]
+![image-20231023174049204](https://raw.githubusercontent.com/mowang111/image-hosting/master/img/image-20231023174049204.png)
