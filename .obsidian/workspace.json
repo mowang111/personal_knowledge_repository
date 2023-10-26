@@ -11,12 +11,8 @@
             "id": "c386ee5a94c562d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +178,11 @@
   },
   "active": "c386ee5a94c562d6",
   "lastOpenFiles": [
+    "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/进入桌面文件夹，打开所有.txt文件，并检查是否含有特定的字符串，例如电子邮件地址。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/将桌面记事本图标放置到屏幕的左上角。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/激活 edge 并发送快捷键 Ctrl+Shift+O 打开收藏夹.md",
-    "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/调整桌面软件位置并最大化显示.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/打开下载文件夹，将剪切板内容创建一个txt文件，放到下载文件夹中。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/鼠标悬浮到钉钉头像上，然后鼠标右击。.md",
