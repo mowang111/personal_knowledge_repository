@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md"
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md"
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md"
               }
             }
           },
@@ -186,8 +186,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "c386ee5a94c562d6",
   "lastOpenFiles": [
+    "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/进入桌面文件夹，打开所有.txt文件，并检查是否含有特定的字符串，例如电子邮件地址。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/将桌面记事本图标放置到屏幕的左上角。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/激活 edge 并发送快捷键 Ctrl+Shift+O 打开收藏夹.md",
@@ -213,7 +214,6 @@
     "工作/影刀/copilot/10258DRoGj4k/markdowns/在西门子MES中，自动生成每月的生产效率报告.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/在纷享销客CRM中，对所有新录入的客户数据进行清洗，去除重复信息.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/在桌面上的会计软件中，打开“税收报告”模块。在显示的列表中，找到所有与“Q4 2023”相关的条目。每个条目左侧都有一个复选框，选中所有Q4相关条目。点击下方的“生成总结报告”按钮，保存生成的报告为“Q4_2023_Summary.pdf”到桌面。.md",
-    "工作/影刀/copilot/10258DRoGj4k/markdowns/在打开Steam游戏平台时，我想确认是否已进入到我的游戏库页面。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns",
     "工作/影刀/copilot/10258DRoGj4k/augmented_samples_qa_native_result.csv",
     "工作/影刀/copilot/10258DRoGj4k",
