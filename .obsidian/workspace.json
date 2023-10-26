@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md"
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md"
+                "file": "工作/影刀/copilot/10258DRoGj4k/markdowns/判断微信窗口是否存在，如果存在则关闭微信窗口，如果不存在打印未找到微信窗口。.md"
               }
             }
           },
@@ -186,26 +186,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c386ee5a94c562d6",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "工作/影刀/copilot/10258DRoGj4k/markdowns/进入桌面文件夹，打开所有.txt文件，并检查是否含有特定的字符串，例如电子邮件地址。.md",
+    "工作/影刀/copilot/10258DRoGj4k/markdowns/将桌面记事本图标放置到屏幕的左上角。.md",
+    "工作/影刀/copilot/10258DRoGj4k/markdowns/激活 edge 并发送快捷键 Ctrl+Shift+O 打开收藏夹.md",
+    "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/调整桌面软件位置并最大化显示.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/打开下载文件夹，将剪切板内容创建一个txt文件，放到下载文件夹中。.md",
-    "工作/影刀/copilot/10258DRoGj4k/markdowns/查找特定的Skype联系人，然后自动发送一条预设的消息，并将发送成功的确认信息复制到记事本.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/鼠标悬浮到钉钉头像上，然后鼠标右击。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/通过自动化工具，登录到Slack应用程序，并获取所有的频道列表，并将这些信息写入到已打开的记事本中.md",
-    "工作/影刀/copilot/10258DRoGj4k/markdowns/进入桌面文件夹，打开所有.txt文件，并检查是否含有特定的字符串，例如电子邮件地址。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/设置QQ的主界面隐藏，然后再显示出来.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/自动化查找桌面上是否存在一个名为 _MyApp_ 的应用程序图标，并根据结果执行不同的操作。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/绘制一个带有边框的圆形，并在中心填充颜色。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/用户需要在视频播放软件中播放指定视频，然后在播放到一半的时候暂停，调整播放速度为2倍速后继续播放。.md",
-    "工作/影刀/copilot/10258DRoGj4k/markdowns/激活 edge 并发送快捷键 Ctrl+Shift+O 打开收藏夹.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/新建一个300_300的PhotoShop画布，然后使用椭圆形状工具在画布中心画一个半径为100的圆。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/我需要你帮我在CAD软件上打开一个平面设计图，然后调整窗口大小以便我能看到全部的设计内容，并且让这个窗口保持在最前面。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/我经常使用桌面上的一个小工具来快速调整音量。工具上有一个滑动条，我希望将这个滑动条从当前位置拖拽到屏幕坐标_(500, 300)_以达到我想要的音量。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/我有个PDF文件需要阅读，但是窗口太小看得眼睛疼，可以调整一下PDF阅读器的窗口大小吗，宽度调整为800，高度调整为600。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/我想知道当前我正在使用的是哪一个软件窗口。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/微信窗口已经打开登陆了，现在我需要自动实时为所有收到的转账消息发送“已收到，谢谢”回复.md",
-    "工作/影刀/copilot/10258DRoGj4k/markdowns/将桌面记事本图标放置到屏幕的左上角。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/对于Spotify软件，实现一个自动化流程来自动创建一个新的播放列表。首先，打开Spotify软件并调整窗口大小。然后，通过鼠标点击“创建新的播放列表”按钮，输入新的播放列表的名称并保存。接着，通过搜索栏搜索指定的歌曲，并将搜索到的歌曲添加到新创建的播放列表中。最后，将Spotify窗口最小化。.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/对QQ聊天窗口的消息框进行截图保存.md",
     "工作/影刀/copilot/10258DRoGj4k/markdowns/如果存在微信窗口而且有微信消息输入框存在，就把桌面上的example.txt文件拖拽到消息输入框中，同时打印执行情况消息。.md",
