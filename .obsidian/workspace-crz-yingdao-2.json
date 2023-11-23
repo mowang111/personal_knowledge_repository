@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "9055019b683e4b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd13fafd5778881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34bcd3529738d79b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cef.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea8e23f3d14a419b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8cd5bba1bfe95d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97312fc640307feb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8eb060317ebd9fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9632457313a7ccb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8ee8aad8f25c0a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "29a4d99b1967dd6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5183dbb69be9d8bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe74198d0ca37c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cef.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f7e5e65b28ad204",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cef.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4189abf648c2996",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ff763fa9d2712d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cef.md"
+              }
+            }
+          },
+          {
+            "id": "2d4059670f9e4401",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6ab5b8c7db999f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "cef.md"
+              }
+            }
+          },
+          {
+            "id": "27b32a9cb47c6a5e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "34bcd3529738d79b",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20231023155652.png",
+    "0.学习笔记/b01.实习/项目文档/Coplit/native badcase分析.md",
+    "Pasted image 20231023170456.png",
+    "Pasted image 20231023170453.png",
+    "Pasted image 20231023162139.png",
+    "0.学习笔记/b01.实习/项目文档/native/NativeServie.win.cs.md",
+    "Pasted image 20231023155741.png",
+    "0.学习笔记/b01.实习/项目文档/Coplit/badcase分析.md",
+    "0.学习笔记/b01.实习/UIA&MSAA/架构.md",
+    "0.学习笔记/b01.实习/UIA&MSAA",
+    "0.学习笔记/z01.面试相关/c++面试题/多线程.md",
+    "0.学习笔记/z01.面试相关/c++面试题/stl相关.md",
+    "0.学习笔记/z01.面试相关/c++面试题/c++面试题.md",
+    "0.学习笔记/z01.面试相关/c++面试题/C++11新特性.md",
+    "0.学习笔记/z01.面试相关/c++面试题/智能指针相关.md",
+    "0.学习笔记/z01.面试相关/实习记录整理.md",
+    "0.学习笔记/z01.面试相关/针对简历面试.md",
+    "0.学习笔记/z01.面试相关/重点面试整理.md",
+    "cef.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/2.构造函数语意学.md",
+    "1.项目/硕士论文/大论文架构.md",
+    "1.项目/硕士论文/大论文架构.md",
+    "1.项目/硕士论文",
+    "1.项目/硕士.md",
+    "Excalidraw/window核心编程.md",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/1.关于对象.md",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/2.数据与量值是如何组织的.md",
+    "0.学习笔记/a01.语言/C/深入理解C语言与程序运行原理/0.前置知识.md",
+    "未命名.md",
+    "0.学习笔记/a01.语言/3.C++/其他/c++ stl中下标运算符和at()函数的区别.md",
+    "0.学习笔记/a01.语言/3.C++/其他/emplace和insert.md",
+    "未命名.canvas",
+    "1.项目/v2ray/proxy/dns",
+    "1.项目/v2ray/proxy",
+    "1.项目/v2ray",
+    "0.学习笔记/未命名",
+    "新建 Text Document.txt",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型/资源",
+    "0.学习笔记/a01.语言/3.C++/深度探索C++对象模型",
+    "0.学习笔记/a01.语言/3.C++/c++内存管理（侯捷）",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/SOTA.png",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/logo.png",
+    "归档（废弃）/Artificial-Intelligence-Terminology-Database/assets/join.png",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
+  ]
+}
