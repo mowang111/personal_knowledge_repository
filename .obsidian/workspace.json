@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0caf0c0582861e43",
+        "id": "59185538cfb65a32",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d964ec36147f07",
+            "id": "400b20e4ee2081a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4d964ec36147f07",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "conflict-files-obsidian-git.md",
