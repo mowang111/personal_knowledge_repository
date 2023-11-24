@@ -5,8 +5,7 @@
 前面已经知道，CPU可以通过 gdtr 寄存器来知道 GDT表在哪里，通过 idtr 寄存器知道 idt 表在哪里。实际上，CPU是通过 tr 寄存器来确定 TSS 的位置的。和 gdtr，idtr 这些不同的是，tr 寄存器是段寄存器，之前已经知道的段寄存器有 cs, ds, es, ss, fs, gs 。也知道段寄存器有96位，还做过实验验证。tr 寄存器中存放的就是描述了TSS段的相关信息，比如TSS段的基址，大小和属性。可以通过 ltr指令跟上TSS段描述符的选择子来加载TSS段。该指令是特权指令，只能在特权级为0的情况下使用。
 
 ### TSS 段描述符
-
-![任务状态段TSS（Task-state segment）_任务状态段](https://s2.51cto.com/images/blog/202101/02/0c2a0e7ad26c25671ff99c70fffaf789.png?x-oss-process=image/watermark,size_16,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_30,g_se,x_10,y_10,shadow_20,type_ZmFuZ3poZW5naGVpdGk=/format,webp/resize,m_fixed,w_1184)  
+![[TSS段描述符.webp]]
 当S=0, TYPE=1001或者TYPE=1011的时候，表示这是一个TSS段描述符。当TSS段没被加载进 tr 寄存器时，TYPE=1001，一旦TSS被加载进 tr 寄存器，TYPE就变成了1011.
 
 ### TSS、TSS段描述符、TR寄存器三者之间的关系
