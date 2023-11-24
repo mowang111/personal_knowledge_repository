@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
+                "file": "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
+                "file": "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
+                "file": "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md"
+                "file": "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md"
+                "file": "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "400b20e4ee2081a9",
   "lastOpenFiles": [
+    "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
     "0.学习笔记/a00.算法/0.tips/0.tips.md",
     "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md",
     "0.学习笔记/a04.操作系统/Resource/images/并发数据同步问题示例.png",
@@ -233,7 +234,6 @@
     "0.学习笔记/a04.操作系统/操作系统笔记/1.系统启动.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "config/pagenote.md",
     "未命名.canvas"
   ]
 }
