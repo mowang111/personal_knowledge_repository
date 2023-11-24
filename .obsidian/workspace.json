@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md",
+                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md",
+                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md",
+                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md"
+                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md"
+                "file": "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "400b20e4ee2081a9",
   "lastOpenFiles": [
+    "0.学习笔记/a00.算法/0.tips/0.tips.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md",
     "0.学习笔记/a04.操作系统/Resource/images/并发数据同步问题示例.png",
     "0.学习笔记/a04.操作系统/Resource/images/并发数据同步问题示例.png.crdownload",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
@@ -211,7 +213,6 @@
     "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "0.学习笔记/a01.语言/C/uint8_t uint16_t 到底是什么.md",
     "0.学习笔记/z01.其它",
-    "0.学习笔记/a00.算法/0.tips/0.tips.md",
     "0.学习笔记/a07.计算机组成原理/1.计算机基本组成.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "0.学习笔记/a04.操作系统/Resource/images/x86CPUcache结构图.png",
@@ -220,7 +221,6 @@
     "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "0.学习笔记/a04.操作系统/Resource/images/长模式中断门描述符.png",
     "0.学习笔记/a04.操作系统/Resource/images/长模式段描述符.png",
-    "0.学习笔记/a04.操作系统/Resource/images/长模式寄存器.png",
     "0.学习笔记/a04.操作系统/Resource",
     "0.学习笔记/a04.操作系统/操作系统笔记/CPU执行程序的三种模式.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Linux自旋锁与信号量的实现.md",
