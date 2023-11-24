@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50a1a47aa5b7dbb9",
+        "id": "f92a95c1cbfbf124",
         "type": "tabs",
         "children": [
           {
-            "id": "5f367a20b2dc3247",
+            "id": "76fb50720e94e7ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,7 +186,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f367a20b2dc3247",
+  "active": "76fb50720e94e7ae",
   "lastOpenFiles": [
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
