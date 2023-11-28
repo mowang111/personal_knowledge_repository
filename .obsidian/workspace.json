@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0acf9d2e69593177",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md"
               }
             }
           },
@@ -151,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md"
               }
             }
           },
@@ -188,9 +199,11 @@
   },
   "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+    "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
+    "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
     "0.学习笔记/a04.操作系统/Resource/images/从BIOS到GRUB.png",
     "0.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/Resource/draw",
     "0.学习笔记/a04.操作系统/Resource/images/x86的全局启动流程示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
@@ -228,13 +241,11 @@
     "0.学习笔记/a07.计算机组成原理/1.计算机基本组成.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "0.学习笔记/a04.操作系统/Resource/images/x86CPUcache结构图.png",
-    "0.学习笔记/a04.操作系统/Resource/images/Cache结构框架图.png",
     "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/CPU执行程序的三种模式.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Linux自旋锁与信号量的实现.md",
     "0.学习笔记/a04.操作系统/操作系统实战/SATA.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/寄存器.md",
-    "0.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
     "未命名.canvas"
   ]
 }
