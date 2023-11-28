@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md"
               }
             }
           },
@@ -161,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md"
               }
             }
           },
@@ -196,10 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76fb50720e94e7ae",
+  "active": "579ea2092f974bb9",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md",
     "0.学习笔记/a04.操作系统/Resource/images/x86的全局启动流程示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
