@@ -11,9 +11,11 @@
             "id": "76fb50720e94e7ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -186,9 +188,10 @@
   },
   "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/GRUB如何启动.png",
+    "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/Resource/images/core_img.png",
-    "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
     "0.学习笔记/a04.操作系统/Resource/images/从BIOS到GRUB.png",
     "0.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.md",
     "0.学习笔记/a04.操作系统/Resource/draw",
