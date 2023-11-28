@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -188,8 +188,10 @@
   },
   "active": "76fb50720e94e7ae",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
+    "Pasted image 20231128145926.png",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "0.学习笔记/a04.操作系统/Resource/images/8259A在系统上的框架图.png",
     "0.学习笔记/a04.操作系统/Resource/images/中断框架设计图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
@@ -233,7 +235,6 @@
     "0.学习笔记/a04.操作系统/操作系统笔记/寄存器.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/计算机是如何启动的？.md",
-    "0.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
     "未命名.canvas"
   ]
 }
