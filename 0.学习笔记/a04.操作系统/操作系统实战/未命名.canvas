@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"bf5af22425bfbaca","x":-360,"y":-160,"width":250,"height":50,"type":"text","text":"d"},
+		{"id":"b0624fcfce585f18","x":-1,"y":-232,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e60a4c3d23f6b322","x":-520,"y":-40,"width":410,"height":460,"type":"file","file":"0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md"}
+	],
+	"edges":[
+		{"id":"06c2fbdbae53419c","fromNode":"bf5af22425bfbaca","fromSide":"right","toNode":"b0624fcfce585f18","toSide":"left"}
+	]
+}

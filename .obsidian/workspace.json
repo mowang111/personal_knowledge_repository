@@ -11,11 +11,14 @@
             "id": "76fb50720e94e7ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
-                "mode": "source",
-                "source": false
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas"
               }
             }
           },
@@ -151,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas"
               }
             }
           },
@@ -186,12 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "76fb50720e94e7ae",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "0.学习笔记/a04.操作系统/Resource/images/8259A在系统上的框架图.png",
     "0.学习笔记/a04.操作系统/Resource/images/中断框架设计图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
@@ -226,7 +230,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/Cache结构框架图.png",
     "0.学习笔记/a04.操作系统/Resource/images/DDR内存逻辑结构连接图.png",
     "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
-    "0.学习笔记/a04.操作系统/Resource/images/长模式中断门描述符.png",
     "0.学习笔记/a04.操作系统/操作系统笔记/CPU执行程序的三种模式.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Linux自旋锁与信号量的实现.md",
     "0.学习笔记/a04.操作系统/操作系统实战/SATA.md",
