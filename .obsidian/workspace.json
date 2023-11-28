@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "579ea2092f974bb9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -162,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -197,10 +186,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "579ea2092f974bb9",
+  "active": "76fb50720e94e7ae",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/Drawing 2023-11-28 15.03.11.excalidraw.md",
+    "0.学习笔记/a04.操作系统/Resource/draw",
     "0.学习笔记/a04.操作系统/Resource/images/x86的全局启动流程示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
@@ -234,7 +224,6 @@
     "0.学习笔记/z01.其它/根据地址快速计算字节空间.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "0.学习笔记/a01.语言/C/uint8_t uint16_t 到底是什么.md",
-    "0.学习笔记/z01.其它",
     "0.学习笔记/a07.计算机组成原理/1.计算机基本组成.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "0.学习笔记/a04.操作系统/Resource/images/x86CPUcache结构图.png",
@@ -245,7 +234,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/SATA.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/寄存器.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
-    "0.学习笔记/a04.操作系统/操作系统笔记/计算机是如何启动的？.md",
     "未命名.canvas"
   ]
 }
