@@ -11,26 +11,13 @@
             "id": "76fb50720e94e7ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0acf9d2e69593177",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,11 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0acf9d2e69593177",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
-    "Pasted Image 20231128165540_697.png",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
-    "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
+    "0.学习笔记/a04.操作系统/Resource/images/core_img.png",
     "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
     "0.学习笔记/a04.操作系统/Resource/images/从BIOS到GRUB.png",
     "0.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.md",
@@ -241,7 +227,6 @@
     "0.学习笔记/a01.语言/C/uint8_t uint16_t 到底是什么.md",
     "0.学习笔记/a07.计算机组成原理/1.计算机基本组成.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
-    "0.学习笔记/a04.操作系统/Resource/images/x86CPUcache结构图.png",
     "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/CPU执行程序的三种模式.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Linux自旋锁与信号量的实现.md",
