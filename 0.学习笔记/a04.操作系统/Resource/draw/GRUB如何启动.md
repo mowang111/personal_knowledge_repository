@@ -24,6 +24,8 @@ diskboot.img读取core.img的剩余部分到内存中 ^JuYsrxtO
 
 core.img占用的第一个扇区的扇区号 ^EkbTzkuu
 
+加载Linux系统的vmlinuz内核文件 ^x631XXSU
+
 
 # Embedded files
 e24f8cd88c4a36cb96d1b55a5df334cea513367d: [[core_img.png]]
@@ -821,8 +823,8 @@ e24f8cd88c4a36cb96d1b55a5df334cea513367d: [[core_img.png]]
 				"type": 2
 			},
 			"seed": 1703157530,
-			"version": 100,
-			"versionNonce": 1208674778,
+			"version": 103,
+			"versionNonce": 1470215258,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -832,9 +834,13 @@ e24f8cd88c4a36cb96d1b55a5df334cea513367d: [[core_img.png]]
 				{
 					"id": "s8Uhym7Aypl3icvcc6OW2",
 					"type": "arrow"
+				},
+				{
+					"id": "4V3hw1fXzXbQgCyAetOpL",
+					"type": "arrow"
 				}
 			],
-			"updated": 1701161947397,
+			"updated": 1701162002044,
 			"link": null,
 			"locked": false
 		},
@@ -892,6 +898,94 @@ e24f8cd88c4a36cb96d1b55a5df334cea513367d: [[core_img.png]]
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "4V3hw1fXzXbQgCyAetOpL",
+			"type": "arrow",
+			"x": -114.51664922805094,
+			"y": -176.4130860586016,
+			"width": 158.09523809523807,
+			"height": 13.968273344494037,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1684146502,
+			"version": 132,
+			"versionNonce": 126334874,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701162002044,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					158.09523809523807,
+					13.968273344494037
+				]
+			],
+			"lastCommittedPoint": [
+				158.09523809523807,
+				13.968273344494037
+			],
+			"startBinding": {
+				"elementId": "GmbWmuCmztUKVe2efmMgN",
+				"focus": 0.34596953257857205,
+				"gap": 3.8339436088715715
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "x631XXSU",
+			"type": "text",
+			"x": 63.89597167968725,
+			"y": -175.14323510064025,
+			"width": 293.19989013671875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1359838406,
+			"version": 99,
+			"versionNonce": 1953364230,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701162026497,
+			"link": null,
+			"locked": false,
+			"text": "加载Linux系统的vmlinuz内核文件",
+			"rawText": "加载Linux系统的vmlinuz内核文件",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "加载Linux系统的vmlinuz内核文件",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "Nek9R2t2fQI6gQDA5lCFs",
@@ -1044,6 +1138,98 @@ e24f8cd88c4a36cb96d1b55a5df334cea513367d: [[core_img.png]]
 			"verticalAlign": "middle",
 			"baseline": 17,
 			"containerId": "GmbWmuCmztUKVe2efmMgN",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "ICRrhUMgVF9gUl4voPpA8",
+			"type": "arrow",
+			"x": -157.05640927269383,
+			"y": -152.921003190298,
+			"width": 293.33333333333337,
+			"height": 29.20633951822913,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 259673434,
+			"version": 171,
+			"versionNonce": 138117830,
+			"isDeleted": true,
+			"boundElements": [],
+			"updated": 1701161994621,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					254.60321335565482,
+					29.20633951822913
+				],
+				[
+					293.33333333333337,
+					24.76190476190476
+				]
+			],
+			"lastCommittedPoint": [
+				293.33333333333337,
+				24.76190476190476
+			],
+			"startBinding": {
+				"elementId": "GmbWmuCmztUKVe2efmMgN",
+				"focus": 1.193923470402722,
+				"gap": 6.268852774633238
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "XUCGWu0l",
+			"type": "text",
+			"x": 92.54680408296099,
+			"y": -136.21466367206887,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1243074586,
+			"version": 2,
+			"versionNonce": 43867206,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1701161991862,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 17,
+			"containerId": "ICRrhUMgVF9gUl4voPpA8",
 			"originalText": "",
 			"lineHeight": 1.25
 		}
