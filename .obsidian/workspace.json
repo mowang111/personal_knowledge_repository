@@ -23,9 +23,11 @@
             "id": "9520610a02defdfa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-11-29 10.01.07.excalidraw.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-11-29 10.01.07.excalidraw.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-11-29 10.01.07.excalidraw.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-11-29 10.01.07.excalidraw.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -162,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-11-29 10.01.07.excalidraw.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -199,18 +201,19 @@
   },
   "active": "9520610a02defdfa",
   "lastOpenFiles": [
+    "Pasted image 20231129100729.png",
+    "0.学习笔记/a04.操作系统/Resource/draw/GRUB操作setup.bin.excalidraw.md",
+    "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.excalidraw.md",
+    "0.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.excalidraw.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
-    "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-11-29 10.01.07.excalidraw.md",
     "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png",
     "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png",
     "0.学习笔记/a04.操作系统/操作系统实验/0. 实验环境的搭建和使用.md",
     "0.学习笔记/a04.操作系统/Resource/xmind/vmlinuz.xmind",
     "0.学习笔记/a04.操作系统/Resource/images/bzImage文件结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/GRUB如何启动.png",
-    "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.md",
     "0.学习笔记/a04.操作系统/Resource/images/core_img.png",
     "0.学习笔记/a04.操作系统/Resource/images/从BIOS到GRUB.png",
-    "0.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.md",
     "0.学习笔记/a04.操作系统/Resource/draw",
     "0.学习笔记/a04.操作系统/Resource/images/x86的全局启动流程示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
@@ -245,7 +248,6 @@
     "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/CPU执行程序的三种模式.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Linux自旋锁与信号量的实现.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/SATA.md",
     "未命名.canvas"
   ]
 }
