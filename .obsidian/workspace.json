@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md"
               }
             }
           },
@@ -198,12 +198,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "f039fec7191eabd2",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
+    "0.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
+    "0.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/Resource/images/_start.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/head.S _start.xmind",
     "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
-    "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "0.学习笔记/a04.操作系统/操作系统实战/CPU.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/虚拟地址与物理地址转换.md",
@@ -212,8 +215,6 @@
     "0.学习笔记/a04.操作系统/操作系统笔记/3.多进程图像.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/计算机是如何启动的？.md",
-    "0.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/Resource/images/GRUB操作vmlinuz.png",
     "0.学习笔记/a04.操作系统/Resource/draw/GRUB操作setup.bin.excalidraw.md",
     "0.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.excalidraw.md",
@@ -231,7 +232,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "0.学习笔记/a04.操作系统/Resource/images/8259A在系统上的框架图.png",
-    "0.学习笔记/a04.操作系统/Resource/images/中断框架设计图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
