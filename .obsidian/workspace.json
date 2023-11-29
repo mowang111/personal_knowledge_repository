@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3e54441e1aec5ea5",
+        "id": "da4bf1d8ddf5abbc",
         "type": "tabs",
         "children": [
           {
-            "id": "d589102f8a4bcecd",
+            "id": "f039fec7191eabd2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -184,7 +186,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "f039fec7191eabd2",
   "lastOpenFiles": [
     "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png",
     "0.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png",
