@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
               }
             }
           },
@@ -200,13 +200,13 @@
   },
   "active": "f039fec7191eabd2",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
     "0.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/Resource/images/_start.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/head.S _start.xmind",
-    "0.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "0.学习笔记/a04.操作系统/操作系统实战/CPU.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/虚拟地址与物理地址转换.md",
