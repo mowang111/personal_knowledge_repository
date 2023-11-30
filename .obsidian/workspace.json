@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md"
               }
             }
           },
@@ -186,11 +186,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "c220e1965511908b",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存",
     "0.学习笔记/a04.操作系统/Resource/images/从_start开始1.png",
-    "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/Resource/images/从_start开始4.png",
     "0.学习笔记/a04.操作系统/Resource/images/从_start开始3.png",
     "0.学习笔记/a04.操作系统/Resource/images/从_start开始2.png",
@@ -234,7 +235,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/二级引导器编译链表.png.crdownload",
     "0.学习笔记/a04.操作系统/Resource/images/二级引导器规划.png.crdownload",
     "0.学习笔记/a04.操作系统/Resource/xmind/Cosmos.xmind",
-    "0.学习笔记/a04.操作系统/Resource/xmind/二级引导器规划.xmind",
     "未命名.canvas"
   ]
 }
