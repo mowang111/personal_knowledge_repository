@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "0e173e9e92927f86",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "a65d8512553c8875",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md"
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md"
               }
             }
           },
@@ -161,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md"
+                "file": "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md"
               }
             }
           },
@@ -196,10 +207,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ec32de5ea5b90c2",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
+    "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-12-01 13.56.29.excalidraw 1.md",
+    "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
+    "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.md",
+    "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
@@ -238,8 +252,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化",
-    "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
-    "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
     "0.学习笔记/a04.操作系统/Resource/images/并发数据同步问题示例.png.crdownload",
     "0.学习笔记/a04.操作系统/Resource/images/TSS段描述符.webp.crdownload",
     "0.学习笔记/a04.操作系统/Resource/images/二级引导器编译链表.png.crdownload",
