@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d03d2c6e0ece25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "875d98e5a6c3232b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fb44ccd4fac7921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md"
               }
             }
           },
@@ -151,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md"
               }
             }
           },
@@ -186,13 +223,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a65d8512553c8875",
+  "active": "9fb44ccd4fac7921",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
     "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md",
     "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-12-01 13.56.29.excalidraw 1.md",
