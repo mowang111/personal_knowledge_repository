@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md"
               }
             }
           },
@@ -188,9 +188,9 @@
   },
   "active": "a65d8512553c8875",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
     "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-12-01 13.56.29.excalidraw 1.md",
     "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
