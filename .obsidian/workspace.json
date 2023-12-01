@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7677135130facdd0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png"
               }
             }
           }
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md"
               }
             }
           },
@@ -151,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md"
               }
             }
           },
@@ -188,9 +198,9 @@
   },
   "active": "c220e1965511908b",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
-    "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/操作系统知识体系.xmind",
     "0.学习笔记/a04.操作系统/Resource/images/内存区.png",
     "0.学习笔记/a04.操作系统/Resource/images/物理内存分页结构图.png",
@@ -230,7 +240,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "0.学习笔记/a00.算法/1.基础算法/0.算法大纲.md",
     "0.学习笔记/a00.算法/1.基础算法/题解/博弈论.md",
-    "0.学习笔记/a00.算法/0.tips/0.tips.md",
     "0.学习笔记/a04.操作系统/Resource/images/并发数据同步问题示例.png.crdownload",
     "0.学习笔记/a04.操作系统/Resource/images/TSS段描述符.webp.crdownload",
     "0.学习笔记/a04.操作系统/Resource/images/二级引导器编译链表.png.crdownload",
