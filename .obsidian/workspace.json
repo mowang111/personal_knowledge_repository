@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "b963ca3c9a7ff93a",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
@@ -199,7 +200,6 @@
     "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md",
     "0.学习笔记/a04.操作系统/Resource/draw/Drawing 2023-12-01 13.56.29.excalidraw 1.md",
     "0.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
     "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/操作系统知识体系.xmind",
     "0.学习笔记/a04.操作系统/Resource/images/内存区.png",
