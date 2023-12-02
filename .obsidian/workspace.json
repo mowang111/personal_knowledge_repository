@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f53f2ccceb331c37",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
+                "file": "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
+                "file": "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md"
+                "file": "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png"
               }
             }
           },
@@ -151,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md"
+                "file": "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png"
               }
             }
           },
@@ -186,11 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b963ca3c9a7ff93a",
+  "active": "f53f2ccceb331c37",
   "lastOpenFiles": [
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
