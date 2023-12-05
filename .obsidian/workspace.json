@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "61a093c58083e3ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a9fb16c07980327d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1ed1d0d6988bce17",
         "type": "tabs",
         "children": [
