@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/未命名.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/未命名.md"
               }
             }
           },
@@ -175,7 +175,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,15 +182,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "a9fb16c07980327d",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/未命名.md",
     "0.学习笔记/a04.操作系统/Resource/xmind/管理内存对象.xmind",
     "0.学习笔记/a04.操作系统/Resource/images/管理内存对象.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
     "Pasted image 20231204110656.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/2.内存页面初始化.md",
     "Pasted image 20231203170937.png",
@@ -234,7 +235,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/并发数据同步问题示例.png.crdownload",
     "0.学习笔记/a04.操作系统/Resource/images/TSS段描述符.webp.crdownload",
     "0.学习笔记/a04.操作系统/Resource/images/二级引导器编译链表.png.crdownload",
-    "0.学习笔记/a04.操作系统/Resource/images/二级引导器规划.png.crdownload",
     "未命名.canvas"
   ]
 }
