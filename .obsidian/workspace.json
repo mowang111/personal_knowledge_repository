@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md"
               }
             }
           },
@@ -189,8 +188,8 @@
   },
   "active": "97b5725acc8e7402",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
