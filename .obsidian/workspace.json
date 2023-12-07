@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7.伙伴系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7.伙伴系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7.伙伴系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7.伙伴系统.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7.伙伴系统.md"
               }
             }
           },
@@ -186,10 +186,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "498c6d5c93062b21",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/Linux内存数据结构关系.png",
     "1.项目/电网项目/电网模型demo.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7.伙伴系统.md",
     "0.学习笔记/a04.操作系统/Resource/images/Linux内存区.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
@@ -228,7 +229,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/CPU.md",
     "0.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/虚拟地址与物理地址转换.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/锁：并发操作中，解决数据同步的四种方法.md",
     "0.学习笔记/a04.操作系统/Resource/xmind/vmlinuz.xmind",
     "0.学习笔记/a04.操作系统/Resource/draw",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
