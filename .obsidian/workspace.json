@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ed1d0d6988bce17",
+        "id": "5b299a4013d37e65",
         "type": "tabs",
         "children": [
           {
-            "id": "97b5725acc8e7402",
+            "id": "498c6d5c93062b21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +178,10 @@
   },
   "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.项目/电网项目/电网模型demo.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
     "0.学习笔记/a04.操作系统/Resource/images/Linux内存区.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/Resource/images/虚拟内存的分配和释放.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/虚拟内存的分配和释放.xmind",
@@ -211,7 +202,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/内存对象容器关系.png",
     "0.学习笔记/a04.操作系统/Resource/images/内存对象视图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
-    "0.学习笔记/a04.操作系统/Resource/images/内存组织结构示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
