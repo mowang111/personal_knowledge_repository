@@ -11,8 +11,12 @@
             "id": "498c6d5c93062b21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md"
+              }
             }
           },
           {
@@ -176,7 +186,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "498c6d5c93062b21",
   "lastOpenFiles": [
     "1.项目/电网项目/电网模型demo.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7. 伙伴系统.md",
