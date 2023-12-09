@@ -188,6 +188,7 @@
   },
   "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/SLAB全局结构.png",
     "0.学习笔记/a04.操作系统/Resource/images/kmem_cache结构.png",
     "0.学习笔记/a04.操作系统/Resource/images/SLAB对象示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/7.伙伴系统.md",
@@ -212,7 +213,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/内核空间与应用空间.png",
     "0.学习笔记/a04.操作系统/Resource/images/x86虚拟地址划分.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/管理内存对象.xmind",
-    "0.学习笔记/a04.操作系统/Resource/images/管理内存对象.png",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/2.Linux初始化.md",
