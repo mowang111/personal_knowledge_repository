@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e83abcedc323c9bc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md"
               }
             }
           },
@@ -162,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md"
               }
             }
           },
@@ -197,8 +186,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e83abcedc323c9bc",
+  "active": "498c6d5c93062b21",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
