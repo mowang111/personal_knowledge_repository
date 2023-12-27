@@ -28,9 +28,20 @@
                 "file": "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png"
               }
             }
+          },
+          {
+            "id": "b3eda8c6aa51fb9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/1.什么是进程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md"
               }
             }
           },
@@ -162,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md"
               }
             }
           },
@@ -197,10 +208,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2abf256f59db84a5",
+  "active": "fa886d7129a3efb3",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/1.什么是进程.md",
+    "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png",
+    "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/Resource/xmind/建立进程.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
@@ -225,7 +237,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/kmem_cache结构.png",
     "0.学习笔记/a04.操作系统/Resource/images/SLAB对象示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/Linux伙伴系统.png",
-    "0.学习笔记/a04.操作系统/Resource/images/分配内存页面接口.png",
     "1.项目/电网项目/电网模型demo.md",
     "0.学习笔记/a04.操作系统/Resource/xmind/虚拟内存的分配和释放.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/SATA.md",
