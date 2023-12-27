@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff46ed760e3ba06",
+        "id": "e08de1f2fbf8ba9d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa886d7129a3efb3",
+            "id": "cd6612369283bc12",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "进程状态切换示意图.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "进程状态切换示意图.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "进程状态切换示意图.png",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "进程状态切换示意图.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "进程状态切换示意图.png"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md"
               }
             }
           },
@@ -184,10 +186,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fa886d7129a3efb3",
+  "active": "cd6612369283bc12",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/进程状态切换示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
-    "进程状态切换示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
