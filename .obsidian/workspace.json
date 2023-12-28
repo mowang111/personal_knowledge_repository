@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -188,8 +189,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "cd6612369283bc12",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/进程切换.png",
     "0.学习笔记/a04.操作系统/Resource/images/组织进程示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/1.什么是进程.md",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
@@ -219,7 +221,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
     "0.学习笔记/a04.操作系统/Resource/images/SLAB全局结构.png",
-    "0.学习笔记/a04.操作系统/Resource/images/kmem_cache结构.png",
     "1.项目/电网项目/电网模型demo.md",
     "0.学习笔记/a04.操作系统/Resource/xmind/虚拟内存的分配和释放.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/SATA.md",
