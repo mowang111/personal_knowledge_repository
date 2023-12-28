@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md"
               }
             }
           },
@@ -191,8 +190,9 @@
   },
   "active": "cd6612369283bc12",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/Resource/images/进程切换示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md",
+    "0.学习笔记/a04.操作系统/Resource/images/进程切换示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/进程切换.png",
     "0.学习笔记/a04.操作系统/Resource/images/组织进程示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/1.什么是进程.md",
