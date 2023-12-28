@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b865d125666a8e69",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,15 +188,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b865d125666a8e69",
+  "active": "cd6612369283bc12",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/Resource/images/进程状态切换示意图.png",
+    "0.学习笔记/a04.操作系统/操作系统实战/3.进程/1.什么是进程.md",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
+    "0.学习笔记/a04.操作系统/Resource/images/进程状态切换示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png",
-    "0.学习笔记/a04.操作系统/操作系统实战/3.进程/1.什么是进程.md",
     "0.学习笔记/a04.操作系统/Resource/images/建立进程.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/建立进程.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
