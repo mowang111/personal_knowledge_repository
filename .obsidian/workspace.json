@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md"
               }
             }
           },
@@ -188,11 +188,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "986dfd6600234971",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
     "0.学习笔记/a04.操作系统/Resource/images/Cosmos自动加载驱动流程.png",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
     "0.学习笔记/a04.操作系统/Resource/images/设备表结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/计算机结构示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/4.Linux进程.md",
@@ -212,7 +212,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
     "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png",
-    "0.学习笔记/a04.操作系统/Resource/images/建立进程.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/建立进程.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
