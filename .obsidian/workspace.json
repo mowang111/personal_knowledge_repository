@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/未命名.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核重注册设备.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/未命名.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核重注册设备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/未命名.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核重注册设备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/未命名.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核重注册设备.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/未命名.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核重注册设备.md"
               }
             }
           },
@@ -191,7 +191,7 @@
   "active": "986dfd6600234971",
   "lastOpenFiles": [
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/未命名.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核重注册设备.md",
     "0.学习笔记/a04.操作系统/Resource/images/设备表结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/计算机结构示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/4.Linux进程.md",
