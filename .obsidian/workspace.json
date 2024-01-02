@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -188,8 +189,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "3c08158d3108cb13",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/Resource/images/驱动.png.crswap",
+    "0.学习笔记/a04.操作系统/Resource/images/驱动.png",
     "0.学习笔记/a04.操作系统/Resource/drawio/驱动.drawio.crswap",
     "0.学习笔记/a04.操作系统/Resource/drawio/驱动.drawio",
     "0.学习笔记/a04.操作系统/Resource/drawio",
@@ -228,14 +231,12 @@
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
-    "0.学习笔记/a04.操作系统/Resource/images/虚拟内存数据结构.png",
     "0.学习笔记/a04.操作系统/Resource/xmind/建立进程.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/6.虚拟内存的分配和释放.md",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程",
-    "0.学习笔记/a04.操作系统/Resource/xmind/SLAB.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
