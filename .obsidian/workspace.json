@@ -11,8 +11,12 @@
             "id": "96ed4316c33bed6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.学习笔记/b01.英语/精读/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.学习笔记/b01.英语/精读/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.学习笔记/b01.英语/精读/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/b01.英语/精读/未命名.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0.学习笔记/b01.英语/精读/未命名.md"
+              }
             }
           },
           {
@@ -178,8 +188,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "96ed4316c33bed6a",
   "lastOpenFiles": [
+    "0.学习笔记/b01.英语/口语/未命名.md",
+    "0.学习笔记/b01.英语/精读/未命名.md",
+    "0.学习笔记/b01.英语/精读",
     "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
     "0.学习笔记/a04.操作系统/操作系统实验/1. 操作系统的引导.md",
@@ -222,10 +235,7 @@
     "0.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "0.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "0.学习笔记/a04.操作系统/操作系统实战/1.初始化/1.第一个C函数.md",
-    "0.学习笔记/a04.操作系统/Resource/xmind/建立进程.xmind",
     "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
