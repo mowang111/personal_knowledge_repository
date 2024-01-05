@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/2.文件系统的格式化操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/2.文件系统的格式化操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/2.文件系统的格式化操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/2.文件系统的格式化操作.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/2.文件系统的格式化操作.md"
               }
             }
           },
@@ -190,7 +190,7 @@
   },
   "active": "6afd73004e43c31e",
   "lastOpenFiles": [
-    "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/2.文件系统的格式化操作.md",
     "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md",
     "0.学习笔记/a04.操作系统/Resource/images/文件管理头.png",
     "0.学习笔记/a04.操作系统/Resource/images/目录结构.png",
