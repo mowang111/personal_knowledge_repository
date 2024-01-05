@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f00582f1cf8ce3",
+        "id": "5da8c2a4644ce6e2",
         "type": "tabs",
         "children": [
           {
-            "id": "05d6f44fe4e7fec6",
+            "id": "6afd73004e43c31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md"
               }
             }
           },
@@ -188,15 +188,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "6afd73004e43c31e",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/未命名.md",
+    "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md",
     "0.学习笔记/a04.操作系统/Resource/images/文件管理头.png",
     "0.学习笔记/a04.操作系统/Resource/images/目录结构.png",
     "0.学习笔记/a04.操作系统/Resource/images/位图块.png",
     "0.学习笔记/a04.操作系统/Resource/images/文件逻辑块映射.png",
     "0.学习笔记/a04.操作系统/Resource/images/文件系统架构示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统/1.如何组织文件.md",
     "0.学习笔记/a04.操作系统/操作系统实战/5.文件系统",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.md",
     "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
@@ -231,7 +232,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/设备表结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/计算机结构示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/4.Linux进程.md",
-    "0.学习笔记/a04.操作系统/Resource/images/运行队列框架示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md",
     "0.学习笔记/a04.操作系统/操作系统实战/3.进程/2.多进程调度.md",
     "0.学习笔记/y01.面试相关/重点面试整理.md",
