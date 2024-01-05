@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb8f99fae5b6f59",
+        "id": "e4f00582f1cf8ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "f21272828f9eea81",
+            "id": "05d6f44fe4e7fec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md"
               }
             }
           },
@@ -188,8 +188,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f21272828f9eea81",
+  "active": "05d6f44fe4e7fec6",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/3.设备如何处理内核IO包.md",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
@@ -200,7 +201,6 @@
     "0.学习笔记/b01.英语/精读/跨年夜不能吃的食物.md",
     "0.学习笔记/b01.英语/口语/未命名.md",
     "0.学习笔记/b01.英语/精读",
-    "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "0.学习笔记/a04.操作系统/操作系统实验/1. 操作系统的引导.md",
     "0.学习笔记/a04.操作系统/操作系统实验/0. 实验环境的搭建和使用.md",
     "0.学习笔记/a04.操作系统/操作系统实验/附录2：BIOS中断调用.md",
