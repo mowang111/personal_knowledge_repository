@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5da8c2a4644ce6e2",
+        "id": "6143d875c2078cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "6afd73004e43c31e",
+            "id": "dbfaf84d0edbbe4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md",
+                "file": "1.项目/硕士论文/硕士论文修改.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md",
+                "file": "1.项目/硕士论文/硕士论文修改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md",
+                "file": "1.项目/硕士论文/硕士论文修改.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md"
+                "file": "1.项目/硕士论文/硕士论文修改.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md"
+                "file": "1.项目/硕士论文/硕士论文修改.md"
               }
             }
           },
@@ -188,8 +188,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6afd73004e43c31e",
+  "active": "dbfaf84d0edbbe4d",
   "lastOpenFiles": [
+    "1.项目/硕士论文/未命名.md",
+    "1.项目/硕士论文/硕士论文修改.md",
+    "1.项目/III期&售后维护/数采部署.md",
     "1.项目/III期&售后维护/部署脚本修改.md",
     "1.项目/III期&售后维护/查看服务日志.md",
     "1.项目/III期&售后维护/查找局域网ip.md",
@@ -230,12 +233,9 @@
     "0.学习笔记/a04.操作系统/操作系统实验",
     "0.学习笔记/b01.英语/未命名.md",
     "0.学习笔记/b01.英语/口语",
-    "0.学习笔记/b01.英语.md",
     "0.学习笔记/a04.操作系统/Resource/images/Cosmos自动加载驱动流程.png",
     "0.学习笔记/a04.操作系统/Resource/images/设备表结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/计算机结构示意图.png",
-    "0.学习笔记/a04.操作系统/操作系统实战/3.进程/4.Linux进程.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
