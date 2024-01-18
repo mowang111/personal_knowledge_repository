@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md"
+                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md"
+                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md"
               }
             }
           },
@@ -191,8 +190,10 @@
   },
   "active": "dbfaf84d0edbbe4d",
   "lastOpenFiles": [
-    "1.项目/硕士论文/未命名.md",
     "1.项目/硕士论文/硕士论文修改.md",
+    "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
+    "0.学习笔记/a03.计算机网络/代理软件原理",
+    "1.项目/硕士论文/未命名.md",
     "1.项目/III期&售后维护/数采部署.md",
     "1.项目/III期&售后维护/部署脚本修改.md",
     "1.项目/III期&售后维护/查看服务日志.md",
@@ -232,8 +233,6 @@
     "0.学习笔记/a04.操作系统/Resource/drawio",
     "0.学习笔记/a04.操作系统/Resource/新建文件夹",
     "0.学习笔记/a04.操作系统/操作系统实验",
-    "0.学习笔记/b01.英语/未命名.md",
-    "0.学习笔记/b01.英语/口语",
     "0.学习笔记/a04.操作系统/Resource/images/Cosmos自动加载驱动流程.png",
     "0.学习笔记/a04.操作系统/Resource/images/设备表结构示意图.png",
     "0.学习笔记/a04.操作系统/Resource/images/计算机结构示意图.png",
