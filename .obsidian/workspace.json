@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6143d875c2078cf6",
+        "id": "eb8b39c984460165",
         "type": "tabs",
         "children": [
           {
-            "id": "dbfaf84d0edbbe4d",
+            "id": "841d8e802104ced0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +178,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dbfaf84d0edbbe4d",
+  "active": "841d8e802104ced0",
   "lastOpenFiles": [
     "1.项目/硕士论文/硕士论文修改.md",
     "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
