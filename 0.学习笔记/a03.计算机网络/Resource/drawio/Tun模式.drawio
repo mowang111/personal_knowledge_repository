@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-01-18T05:06:46.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="8_SdU_AuPiH5C2URL5WF" version="22.1.18" type="device">
+<mxfile host="Electron" modified="2024-01-18T05:08:06.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="XGKNJialsszGGLJxFOl9" version="22.1.18" type="device">
   <diagram name="第 1 页" id="wWDvhIP9CmGZIIfcBND7">
     <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -211,6 +211,9 @@
             <mxPoint x="460" y="600" as="sourcePoint" />
             <mxPoint x="560" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KfuTrBd0r_4OsqhbQtjZ-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star" vertex="1" parent="1">
+          <mxGeometry x="810" y="410" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
