@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "1.项目/III期&售后维护/数采代码.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "1.项目/III期&售后维护/数采代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "1.项目/III期&售后维护/数采代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md"
+                "file": "1.项目/III期&售后维护/数采代码.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md"
+                "file": "1.项目/III期&售后维护/数采代码.md"
               }
             }
           },
@@ -190,11 +190,15 @@
   },
   "active": "e3e9fb5af58a0695",
   "lastOpenFiles": [
+    "1.项目/III期&售后维护/问题.md",
+    "1.项目/III期&售后维护/数采代码.md",
+    "1.项目/III期&售后维护/数采部署.md",
+    "1.项目/III期&售后维护/软件重新部署流程.md",
+    "1.项目/硕士论文/硕士论文修改.md",
     "归档（废弃）/9.Django框架课/1.结构.md",
     "归档（废弃）/9.Django框架课/2.常用命令.md",
     "归档（废弃）/9.Django框架课/3.相关配置.md",
     "其他/部署常用命令.md",
-    "1.项目/硕士论文/硕士论文修改.md",
     "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
     "0.学习笔记/a03.计算机网络/协议原理/网络层/ICMP协议.md",
     "0.学习笔记/a03.计算机网络/课程笔记/1.概述.md",
@@ -210,7 +214,6 @@
     "0.学习笔记/a03.计算机网络/新建文件夹",
     "0.学习笔记/a03.计算机网络/代理软件原理",
     "1.项目/硕士论文/未命名.md",
-    "1.项目/III期&售后维护/数采部署.md",
     "1.项目/III期&售后维护/部署脚本修改.md",
     "1.项目/III期&售后维护/查看服务日志.md",
     "1.项目/III期&售后维护/查找局域网ip.md",
@@ -230,9 +233,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/Linux驱动模型.png",
     "0.学习笔记/b01.英语/精读/易被人工智能取代的职业类型.md",
     "0.学习笔记/b01.英语/精读/跨年夜不能吃的食物.md",
-    "0.学习笔记/b01.英语/口语/未命名.md",
-    "0.学习笔记/a04.操作系统/操作系统实验/1. 操作系统的引导.md",
-    "0.学习笔记/a04.操作系统/操作系统实验/0. 实验环境的搭建和使用.md",
     "0.学习笔记/a04.操作系统/Resource/images/驱动.png",
     "0.学习笔记/a04.操作系统/Resource/images/Cosmos自动加载驱动流程.png",
     "0.学习笔记/a04.操作系统/Resource/images/设备表结构示意图.png",
