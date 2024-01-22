@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档（废弃）/9.Django框架课/3.相关配置.md",
+                "file": "归档（废弃）/9.Django框架课/1.结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档（废弃）/9.Django框架课/3.相关配置.md",
+                "file": "归档（废弃）/9.Django框架课/1.结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档（废弃）/9.Django框架课/3.相关配置.md",
+                "file": "归档（废弃）/9.Django框架课/1.结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档（废弃）/9.Django框架课/3.相关配置.md"
+                "file": "归档（废弃）/9.Django框架课/1.结构.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "归档（废弃）/9.Django框架课/3.相关配置.md"
+                "file": "归档（废弃）/9.Django框架课/1.结构.md"
               }
             }
           },
@@ -191,6 +191,8 @@
   "active": "3954054ef665aaf2",
   "lastOpenFiles": [
     "归档（废弃）/9.Django框架课/2.常用命令.md",
+    "归档（废弃）/9.Django框架课/3.相关配置.md",
+    "其他/部署常用命令.md",
     "归档（废弃）/9.Django框架课/1.结构.md",
     "1.项目/硕士论文/硕士论文修改.md",
     "0.学习笔记/a03.计算机网络/代理软件原理/TUN模式.md",
@@ -231,8 +233,6 @@
     "0.学习笔记/b01.英语/口语/未命名.md",
     "0.学习笔记/a04.操作系统/操作系统实验/1. 操作系统的引导.md",
     "0.学习笔记/a04.操作系统/操作系统实验/0. 实验环境的搭建和使用.md",
-    "0.学习笔记/a04.操作系统/操作系统实验/附录2：BIOS中断调用.md",
-    "0.学习笔记/a04.操作系统/操作系统实验/附录1：Bochs使用手册.md",
     "0.学习笔记/a04.操作系统/Resource/images/驱动.png",
     "0.学习笔记/a04.操作系统/Resource/images/Cosmos自动加载驱动流程.png",
     "0.学习笔记/a04.操作系统/Resource/images/设备表结构示意图.png",
