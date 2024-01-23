@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
   },
   "active": "c9ff9b200d782b4d",
   "lastOpenFiles": [
-    "Pasted image 20240123202757.png",
+    "1.项目/硕士论文/暂态稳定判断算法.png",
     "1.项目/硕士论文/数据分类流程图.png",
     "1.项目/硕士论文/线路失稳情况.png",
     "1.项目/III期&售后维护/数采部署.md",
