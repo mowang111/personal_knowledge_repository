@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +188,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c9ff9b200d782b4d",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
     "1.项目/硕士论文/暂态稳定判断算法.png",
     "1.项目/硕士论文/数据分类流程图.png",
