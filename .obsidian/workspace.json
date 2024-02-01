@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "59e0a0226cc118ef",
+        "id": "541b4f156635b939",
         "type": "tabs",
         "children": [
           {
-            "id": "5359a33b0ebd6b52",
+            "id": "016be7cf29fe75b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -147,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/硕士论文/硕士论文修改.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -184,15 +188,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "016be7cf29fe75b5",
   "lastOpenFiles": [
+    "未命名.md",
+    "1.项目/硕士论文/硕士论文修改.md",
     "1.项目/硕士论文/暂态稳定判断算法.png",
     "1.项目/硕士论文/数据分类流程图.png",
     "1.项目/硕士论文/线路失稳情况.png",
     "1.项目/III期&售后维护/数采部署.md",
     "1.项目/III期&售后维护/软件重新部署流程.md",
     "1.项目/III期&售后维护/查找局域网ip.md",
-    "1.项目/硕士论文/硕士论文修改.md",
     "1.项目/III期&售后维护/查看服务日志.md",
     "1.项目/III期&售后维护/部署脚本修改.md",
     "1.项目/III期&售后维护/数采代码.md",
@@ -231,7 +236,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
     "0.学习笔记/a04.操作系统/Resource/images/Linux驱动模型.png",
     "0.学习笔记/b01.英语/精读/易被人工智能取代的职业类型.md",
-    "0.学习笔记/a04.操作系统/Resource/images/驱动.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
