@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "541b4f156635b939",
+        "id": "df4b47841108e655",
         "type": "tabs",
         "children": [
           {
-            "id": "016be7cf29fe75b5",
+            "id": "59ca3c5fcac24677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/养鱼指南.md",
+                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/养鱼指南.md",
+                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/养鱼指南.md",
+                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/养鱼指南.md"
+                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "生活/养鱼指南.md"
+                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md"
               }
             }
           },
@@ -189,21 +189,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "016be7cf29fe75b5",
+  "active": "59ca3c5fcac24677",
   "lastOpenFiles": [
-    "home page.md",
+    "1.项目/III期&售后维护/gitlab部署.md",
+    "1.项目/III期&售后维护/应急解决方案.md",
+    "1.项目/III期&售后维护/问题.md",
+    "1.项目/III期&售后维护/数采代码.md",
+    "1.项目/III期&售后维护/数采部署.md",
+    "1.项目/III期&售后维护/软件重新部署流程.md",
+    "1.项目/III期&售后维护/脚本.md",
+    "1.项目/III期&售后维护/查找局域网ip.md",
+    "1.项目/III期&售后维护/查看服务日志.md",
+    "1.项目/III期&售后维护/部署脚本修改.md",
     "生活/养鱼指南.md",
+    "home page.md",
     "1.项目/硕士论文/硕士论文修改.md",
     "1.项目/硕士论文/暂态稳定判断算法.png",
     "1.项目/硕士论文/数据分类流程图.png",
     "1.项目/硕士论文/线路失稳情况.png",
-    "1.项目/III期&售后维护/数采部署.md",
-    "1.项目/III期&售后维护/软件重新部署流程.md",
-    "1.项目/III期&售后维护/查找局域网ip.md",
-    "1.项目/III期&售后维护/查看服务日志.md",
-    "1.项目/III期&售后维护/部署脚本修改.md",
-    "1.项目/III期&售后维护/数采代码.md",
-    "1.项目/III期&售后维护/问题.md",
     "归档（废弃）/9.Django框架课/1.结构.md",
     "归档（废弃）/9.Django框架课/2.常用命令.md",
     "归档（废弃）/9.Django框架课/3.相关配置.md",
@@ -233,9 +236,6 @@
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.md",
     "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/3.设备如何处理内核IO包.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
-    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
     "0.学习笔记/a04.操作系统/Resource/images/Linux驱动模型.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
