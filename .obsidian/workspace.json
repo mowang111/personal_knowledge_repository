@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df4b47841108e655",
+        "id": "c70f4d3a8c33d8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "59ca3c5fcac24677",
+            "id": "ea7f8478572092af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +179,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "59ca3c5fcac24677",
+  "active": "ea7f8478572092af",
   "lastOpenFiles": [
+    "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
     "1.项目/III期&售后维护/gitlab部署.md",
     "1.项目/III期&售后维护/应急解决方案.md",
     "1.项目/III期&售后维护/问题.md",
@@ -235,7 +226,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/文件系统架构示意图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/4.Linux如何获取所有设备信息.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.md",
-    "0.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "0.学习笔记/a04.操作系统/Resource/images/Linux驱动模型.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
