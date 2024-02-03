@@ -1,0 +1,88 @@
+<mxfile host="Electron" modified="2024-02-03T02:12:07.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="7QaEQwCNzoCS8IXDVrcE" version="23.0.2" type="device">
+  <diagram name="第 1 页" id="I0UcOC56NbaupsyxQ38_">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="430" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-24" value="操作系统内核" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="430" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-47">
+          <mxGeometry y="11.25" width="140" height="168.75" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-49" value="U盘驱动" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-47">
+          <mxGeometry width="60" height="11.25" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-50" value="向操作系统内核注册U盘设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-47">
+          <mxGeometry x="10" y="28.13" width="120" height="61.88" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEy0L4YqaA1Ry6s-4T4y-1" target="AEy0L4YqaA1Ry6s-4T4y-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-32" value="中断信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEy0L4YqaA1Ry6s-4T4y-31">
+          <mxGeometry x="0.0669" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-1" value="U盘插入电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="120" width="140" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-25">
+          <mxGeometry y="20" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-27" value="USB总线驱动" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-25">
+          <mxGeometry width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-29" value="中断处理程序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-25">
+          <mxGeometry x="10" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="130" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-39">
+          <mxGeometry y="20" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-37" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;shadow=0;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;" vertex="1" parent="AEy0L4YqaA1Ry6s-4T4y-39">
+          <mxGeometry width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEy0L4YqaA1Ry6s-4T4y-36" target="AEy0L4YqaA1Ry6s-4T4y-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEy0L4YqaA1Ry6s-4T4y-38" target="AEy0L4YqaA1Ry6s-4T4y-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AEy0L4YqaA1Ry6s-4T4y-29" target="AEy0L4YqaA1Ry6s-4T4y-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-44" value="查找加载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEy0L4YqaA1Ry6s-4T4y-43">
+          <mxGeometry x="0.255" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-38" value="中断向量表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEy0L4YqaA1Ry6s-4T4y-42" target="AEy0L4YqaA1Ry6s-4T4y-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-42" value="驱动程序数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AEy0L4YqaA1Ry6s-4T4y-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AEy0L4YqaA1Ry6s-4T4y-36" target="AEy0L4YqaA1Ry6s-4T4y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
