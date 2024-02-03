@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md"
+                "file": "0.学习笔记/a04.操作系统/操作系统实战/4.设备/1.设备类型与设备驱动.md"
               }
             }
           },
@@ -188,8 +188,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "e593046b79f42431",
   "lastOpenFiles": [
+    "0.学习笔记/a04.操作系统/操作系统实战/4.设备/2.内核中注册设备.md",
     "0.学习笔记/a04.操作系统/Resource/images/U盘插入电脑.png",
     "0.学习笔记/a04.操作系统/Resource/drawio/U盘插入电脑.drawio",
     "0.学习笔记/a04.操作系统/操作系统实战/4.设备/3.设备如何处理内核IO包.md",
@@ -235,7 +236,6 @@
     "0.学习笔记/a04.操作系统/Resource/images/位图块.png",
     "0.学习笔记/a04.操作系统/Resource/images/文件逻辑块映射.png",
     "0.学习笔记/a04.操作系统/Resource/images/文件系统架构示意图.png",
-    "0.学习笔记/a04.操作系统/Resource/images/Linux驱动模型.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
