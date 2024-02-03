@@ -1,86 +1,86 @@
-<mxfile host="Electron" modified="2024-02-03T02:16:12.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="B2CvZoAdss-Bd5m8adnC" version="23.0.2" type="device">
+<mxfile host="Electron" modified="2024-02-03T02:16:32.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="sC3WoGCUZrGd39APHL85" version="23.0.2" type="device">
   <diagram name="Page-1" id="6r_6_lPT7gM8kRA7tr9T">
-    <mxGraphModel dx="1221" dy="1923" grid="1" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lEsOuikC9PE6uVHI95zl-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="lEsOuikC9PE6uVHI95zl-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="280" as="sourcePoint" />
-            <mxPoint x="280" y="20" as="targetPoint" />
+            <mxPoint x="210" y="402.5" as="sourcePoint" />
+            <mxPoint x="210" y="142.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.533;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lEsOuikC9PE6uVHI95zl-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="562" y="280" as="sourcePoint" />
-            <mxPoint x="560" y="30" as="targetPoint" />
+            <mxPoint x="492" y="402.5" as="sourcePoint" />
+            <mxPoint x="490" y="152.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-4" value="驱动入口函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="450" y="222.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-5" value="内核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="255" y="-12.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="185" y="110" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-6" value="驱动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="535" y="-12.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="465" y="110" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-8" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fillColor=#f5f5f5;strokeColor=#666666;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="lEsOuikC9PE6uVHI95zl-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="100" as="sourcePoint" />
-            <mxPoint x="290" y="140" as="targetPoint" />
+            <mxPoint x="220" y="222.5" as="sourcePoint" />
+            <mxPoint x="220" y="262.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="110" />
+              <mxPoint x="650" y="232.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-9" value="调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="375" y="100" width="50" height="30" as="geometry" />
+          <mxGeometry x="305" y="222.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="610" width="50" height="245" as="geometry" />
+          <mxGeometry x="540" y="122.5" width="50" height="245" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-12" value="建立设备描述符" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="-12.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="600" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-13" value="传入drvp(drive_t结构，驱动描述符指针)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="295" y="148" width="240" height="30" as="geometry" />
+          <mxGeometry x="225" y="270.5" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-14" value="驱动程序的功能函数设置到drive_t中" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="37.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="600" y="160" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-15" value="将设备挂载到驱动上" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="87.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="600" y="210" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-16" value="向内核注册设备" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="137.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="600" y="260" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-17" value="初始化自己的物理设备" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="187.5" width="140" height="30" as="geometry" />
+          <mxGeometry x="600" y="310" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-18" value="安装中断回调函数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="227.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="600" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-20" value="devtable_t&lt;br&gt;全局变量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="217.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="170" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-21" value="初始化&lt;br&gt;drive_t实例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="37.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="170" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="180" y="202.5" width="50" height="60" as="geometry" />
+          <mxGeometry x="110" y="325" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-24" value="全局驱动链表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="187.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="20" y="310" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-25" value="设备链表数组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="245" width="100" height="30" as="geometry" />
+          <mxGeometry x="20" y="367.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lEsOuikC9PE6uVHI95zl-30" target="lEsOuikC9PE6uVHI95zl-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lEsOuikC9PE6uVHI95zl-30" value="drive_t实例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="118" width="80" height="30" as="geometry" />
+          <mxGeometry x="170" y="240.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
