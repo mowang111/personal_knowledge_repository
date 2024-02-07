@@ -1,4 +1,3 @@
 ## 存储设备
 ### 存储控制器
-
-### 存储设备
+IDE(Integrated Drive Electronics):
