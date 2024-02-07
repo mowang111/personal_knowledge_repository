@@ -1,12 +1,12 @@
 ## 系统
-![[Pasted image 20240207112201.png]]
+![[主板选项卡.png]]
 ### Matherboard(主板选项卡)
 - **Base Memory**: 虚拟机被分配的基础内存大小。在这个例子中，滑块显示基础内存设置在 8192 MB (8 GB)。
 - **Boot Order**: 启动顺序，定义了虚拟机启动时检查引导设备的顺序。勾选的设备将会被包括在启动过程中。顺序为：
-    - Floppy（软驱，当前未勾选）
-    - Optical（光驱，当前勾选）
-    - Hard Disk（硬盘，当前勾选）
-    - Network（网络启动，当前勾选）
+    - Floppy（软驱）
+    - Optical（光驱）
+    - Hard Disk（硬盘）
+    - Network（网络启动）
 - **Chipset**: 虚拟机使用的芯片组类型。PIIX3 是较老的芯片组类型，但足以满足大多数需求。其他选项可能包括 ICH9，这是一个较新的芯片组模拟。
 - **Pointing Device**: 指定模拟的指针设备类型，例如PS/2鼠标。
 - **Extended Features**: 包括额外的硬件功能，如：
