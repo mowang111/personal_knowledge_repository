@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md",
+                "file": "1.项目/III期&售后维护/问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md",
+                "file": "1.项目/III期&售后维护/问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md",
+                "file": "1.项目/III期&售后维护/问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md"
+                "file": "1.项目/III期&售后维护/问题.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/III期&售后维护/数采部署.md"
+                "file": "1.项目/III期&售后维护/问题.md"
               }
             }
           },
@@ -190,6 +190,11 @@
   },
   "active": "f90d020cb16bdb0f",
   "lastOpenFiles": [
+    "1.项目/III期&售后维护/应急解决方案.md",
+    "1.项目/III期&售后维护/gitlab部署.md",
+    "1.项目/III期&售后维护/问题.md",
+    "1.项目/III期&售后维护/数采代码.md",
+    "1.项目/III期&售后维护/数采部署.md",
     "1.项目/III期&售后维护/软件重新部署流程.md",
     "1.项目/III期&售后维护/脚本.md",
     "1.项目/III期&售后维护/查找局域网ip.md",
@@ -219,11 +224,6 @@
     "生活/健身餐.md",
     "生活/养鱼指南.md",
     "1.项目/III期&售后维护/数采开发文档/配置文件对应表.md",
-    "1.项目/III期&售后维护/gitlab部署.md",
-    "1.项目/III期&售后维护/应急解决方案.md",
-    "1.项目/III期&售后维护/问题.md",
-    "1.项目/III期&售后维护/数采代码.md",
-    "1.项目/III期&售后维护/数采部署.md",
     "1.项目/硕士论文/暂态稳定判断算法.png",
     "1.项目/硕士论文/数据分类流程图.png",
     "1.项目/硕士论文/线路失稳情况.png",
