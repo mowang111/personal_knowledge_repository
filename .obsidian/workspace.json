@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1dbc7a0a083551f3",
+        "id": "5ba19fdbddb7b23c",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ce1a8c19a53c82",
+            "id": "3a4436b203e9c1be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.home page.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.home page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0.home page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,8 +178,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "3a4436b203e9c1be",
   "lastOpenFiles": [
+    "1.学习笔记/y02.实习/Windows开发/Windows开发不完全指南/编程基础/x64内联汇编.md",
+    "0.home page.md",
     "2.项目/III期&售后维护/软件重新部署流程.md",
     "2.项目/III期&售后维护/部署脚本修改.md",
     "1.学习笔记/z01.其它/学车/科目一.md",
@@ -222,7 +214,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/U盘插入电脑.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/U盘插入电脑.drawio",
     "2.项目/硕士论文/硕士论文修改.md",
-    "0.home page.md",
     "生活/实习租房相关.md",
     "生活/健身餐.md",
     "2.项目/硕士论文/暂态稳定判断算法.png",
