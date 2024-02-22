@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home page.md",
+                "file": "0.home page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home page.md",
+                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home page.md",
+                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home page.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "home page.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -188,7 +188,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d4ce1a8c19a53c82",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
     "1.项目/III期&售后维护/软件重新部署流程.md",
     "1.项目/III期&售后维护/部署脚本修改.md",
@@ -222,7 +222,7 @@
     "0.学习笔记/a04.操作系统/Resource/images/U盘插入电脑.png",
     "0.学习笔记/a04.操作系统/Resource/drawio/U盘插入电脑.drawio",
     "1.项目/硕士论文/硕士论文修改.md",
-    "home page.md",
+    "0.home page.md",
     "生活/实习租房相关.md",
     "生活/健身餐.md",
     "1.项目/硕士论文/暂态稳定判断算法.png",
