@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e0a1ce1fed86a6d",
+        "id": "1dbc7a0a083551f3",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc31ac05fb07185",
+            "id": "d4ce1a8c19a53c82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.项目/III期&售后维护/软件重新部署流程.md",
+                "file": "home page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.项目/III期&售后维护/软件重新部署流程.md",
+                "file": "home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.项目/III期&售后维护/软件重新部署流程.md",
+                "file": "home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.项目/III期&售后维护/软件重新部署流程.md"
+                "file": "home page.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.项目/III期&售后维护/软件重新部署流程.md"
+                "file": "home page.md"
               }
             }
           },
@@ -188,8 +188,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fbc31ac05fb07185",
+  "active": "d4ce1a8c19a53c82",
   "lastOpenFiles": [
+    "1.项目/III期&售后维护/软件重新部署流程.md",
     "1.项目/III期&售后维护/部署脚本修改.md",
     "0.学习笔记/z01.其它/学车/科目一.md",
     "0.学习笔记/z01.其它/学车/images",
@@ -199,7 +200,6 @@
     "1.项目/III期&售后维护/gitlab部署.md",
     "1.项目/III期&售后维护/数采代码.md",
     "1.项目/III期&售后维护/数采部署.md",
-    "1.项目/III期&售后维护/软件重新部署流程.md",
     "1.项目/III期&售后维护/脚本.md",
     "1.项目/III期&售后维护/查找局域网ip.md",
     "1.项目/III期&售后维护/查看服务日志.md",
