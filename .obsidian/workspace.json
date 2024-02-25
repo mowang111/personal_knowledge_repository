@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae25a93285ef8391",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +199,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "91fbafa3ee14b8af",
+  "active": "ae25a93285ef8391",
   "lastOpenFiles": [
     "1.学习笔记/b02.阅读/Resources/images/时间记录图.png",
     "1.学习笔记/b02.阅读/Resources/images",
