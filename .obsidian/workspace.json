@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "622d954b0c011ce5",
+        "id": "53b8b9b51bb88d83",
         "type": "tabs",
         "children": [
           {
-            "id": "91fbafa3ee14b8af",
+            "id": "8746a9d9164e47ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b02.阅读/奇特的一生.md",
+                "file": "1.学习笔记/b02.阅读/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae25a93285ef8391",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b02.阅读/奇特的一生.md",
+                "file": "1.学习笔记/b02.阅读/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b02.阅读/奇特的一生.md",
+                "file": "1.学习笔记/b02.阅读/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b02.阅读/奇特的一生.md"
+                "file": "1.学习笔记/b02.阅读/未命名.md"
               }
             }
           },
@@ -162,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b02.阅读/奇特的一生.md"
+                "file": "1.学习笔记/b02.阅读/未命名.md"
               }
             }
           },
@@ -199,14 +188,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ae25a93285ef8391",
+  "active": "8746a9d9164e47ea",
   "lastOpenFiles": [
+    "1.学习笔记/b02.阅读/未命名.md",
+    "1.学习笔记/b02.阅读/奇特的一生.md",
     "1.学习笔记/b02.阅读/Resources/images/时间记录图.png",
     "1.学习笔记/b02.阅读/Resources/images",
     "1.学习笔记/b02.阅读/Resources/未命名.md",
-    "1.学习笔记/b02.阅读/奇特的一生.md",
     "1.学习笔记/b02.阅读/Resources",
-    "1.学习笔记/b02.阅读/未命名.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/Linux/常用工具/update-alternative.md",
     "1.学习笔记/a04.操作系统/Linux/日志目录.md",
@@ -246,7 +235,6 @@
     "2.项目/硕士论文/线路失稳情况.png",
     "1.学习笔记/a03.计算机网络/协议原理/网络层",
     "1.学习笔记/a03.计算机网络/协议原理",
-    "1.学习笔记/a03.计算机网络/Resource/images/Tun模式.drawio.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
