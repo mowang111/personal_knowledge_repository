@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
+                "file": "生活/健身/健身计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
+                "file": "生活/健身/健身计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
+                "file": "生活/健身/健身计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md"
+                "file": "生活/健身/健身计划.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md"
+                "file": "生活/健身/健身计划.md"
               }
             }
           },
@@ -188,8 +188,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ff724fdd9f27b75b",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "归档（废弃）/实习租房相关.md",
+    "生活/健身/健身计划.md",
+    "生活/健身/健身餐.md",
+    "生活/健身",
+    "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/引导启动程序boot.xmind",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images",
@@ -202,7 +207,6 @@
     "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
     "0.home page.md",
-    "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天/记录/2024.2.26.md",
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天/积极主动原则30天记录.md",
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天/记录",
@@ -213,7 +217,6 @@
     "4.读书笔记/Resources/images/时间记录图.png",
     "4.读书笔记/Resources/images",
     "1.学习笔记/b02.阅读/Resources/未命名.md",
-    "4.读书笔记/Resources",
     "1.学习笔记/a04.操作系统/Linux/常用工具/update-alternative.md",
     "1.学习笔记/a04.操作系统/Linux/日志目录.md",
     "整理完成/工具使用/typora使用/思维导图.md",
@@ -226,8 +229,6 @@
     "1.学习笔记/z01.其它/学车/科目一.md",
     "2.项目/III期&售后维护/问题.md",
     "2.项目/III期&售后维护/应急解决方案.md",
-    "2.项目/III期&售后维护/gitlab部署.md",
-    "2.项目/III期&售后维护/数采代码.md",
     "1.学习笔记/a04.操作系统/Resource/images/VFS架构图.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件六大基本操作.png",
     "1.学习笔记/a04.操作系统/Resource/images/主板选项卡.png",
