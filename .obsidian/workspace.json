@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "35c2413423603fb6",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导",
+    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
     "3.笔记阻塞池/待完成实验/C 语言实现 Linux ls 命令.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
@@ -206,7 +209,6 @@
     "4.读书笔记/Resources/images",
     "1.学习笔记/b02.阅读/Resources/未命名.md",
     "4.读书笔记/Resources",
-    "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/Linux/常用工具/update-alternative.md",
     "1.学习笔记/a04.操作系统/Linux/日志目录.md",
     "1.学习笔记/a04.操作系统/Linux/常用工具",
@@ -224,13 +226,10 @@
     "2.项目/III期&售后维护/应急解决方案.md",
     "2.项目/III期&售后维护/gitlab部署.md",
     "2.项目/III期&售后维护/数采代码.md",
-    "2.项目/III期&售后维护/数采部署.md",
-    "2.项目/III期&售后维护/脚本.md",
     "1.学习笔记/a04.操作系统/Resource/images/VFS架构图.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件六大基本操作.png",
     "1.学习笔记/a04.操作系统/Linux",
     "1.学习笔记/a04.操作系统/Resource/images/主板选项卡.png",
-    "1.学习笔记/a04.操作系统/Resource/xmind/文件系统格式化.xmind",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统格式化.png",
     "1.学习笔记/a04.操作系统/Resource/images/U盘插入电脑.png",
     "2.项目/硕士论文/暂态稳定判断算法.png",
