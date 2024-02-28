@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "056bba16e5719d2e",
+        "id": "b967267a971277fc",
         "type": "tabs",
         "children": [
           {
-            "id": "c71ce83e1bcfeaf9",
+            "id": "e9e3881132e469e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.项目/硕士论文/硕士论文修改.md",
+                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.项目/硕士论文/硕士论文修改.md",
+                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.项目/硕士论文/硕士论文修改.md",
+                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.项目/硕士论文/硕士论文修改.md"
+                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.项目/硕士论文/硕士论文修改.md"
+                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md"
               }
             }
           },
@@ -188,8 +188,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c71ce83e1bcfeaf9",
+  "active": "e9e3881132e469e7",
   "lastOpenFiles": [
+    "2.项目/硕士论文/硕士论文修改.md",
     "生活/健身/健身计划.md",
     "生活/Resource/images/动作难易度.png",
     "生活/Resource/images/三分化训练计划.png",
