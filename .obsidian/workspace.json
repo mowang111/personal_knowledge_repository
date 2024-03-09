@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,8 +188,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b8eb060317ebd9fc",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/未命名",
     "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
     "2.项目/硕士论文/毕设答辩讲稿.md",
     "2.项目/硕士论文/硕士论文修改.md",
@@ -235,7 +235,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/VFS对象关系示意图.png",
     "1.学习笔记/y02.实习/Windows开发/Windows开发不完全指南/编程基础/x64内联汇编.md",
     "2.项目/III期&售后维护/软件重新部署流程.md",
-    "2.项目/III期&售后维护/部署脚本修改.md",
     "1.学习笔记/a04.操作系统/Resource/images/VFS架构图.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
