@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2c5dee5b00fa5968",
+  "active": "b8eb060317ebd9fc",
   "lastOpenFiles": [
     "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
     "2.项目/硕士论文/毕设答辩讲稿.md",
