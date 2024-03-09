@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eabc7fca809aec25",
+        "id": "635a471cf5fbfbee",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c47dc1b3626117",
+            "id": "2c5dee5b00fa5968",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,10 +178,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a3c47dc1b3626117",
+  "active": "2c5dee5b00fa5968",
   "lastOpenFiles": [
-    "2.项目/硕士论文/毕设答辩讲稿.md",
     "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
+    "2.项目/硕士论文/毕设答辩讲稿.md",
     "2.项目/硕士论文/硕士论文修改.md",
     "生活/健身/健身计划.md",
     "生活/Resource/images/动作难易度.png",
