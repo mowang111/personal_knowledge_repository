@@ -11,8 +11,12 @@
             "id": "b70a61f57c9935cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md"
+          }
         }
       }
     ],
@@ -139,5 +147,7 @@
     }
   },
   "active": "b70a61f57c9935cb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1.学习笔记/a00.算法/1.基础算法/0.算法大纲.md"
+  ]
 }
