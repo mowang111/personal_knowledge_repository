@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
+                "file": "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
+                "file": "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
+                "file": "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md"
+                "file": "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md"
+                "file": "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "b696a4b5b3d0f8ac",
   "lastOpenFiles": [
-    "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
+    "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md",
     "1.学习笔记/a01.语言/汇编/resources",
     "1.学习笔记/a01.语言/汇编/基本语法.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验",
