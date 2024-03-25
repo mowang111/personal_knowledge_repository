@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
+                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
+                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
+                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md"
+                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md"
+                "file": "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md"
               }
             }
           },
@@ -188,12 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "3d69adaec9807e89",
   "lastOpenFiles": [
+    "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
     "1.学习笔记/a01.语言/汇编/resources/images",
     "1.学习笔记/a01.语言/汇编/resources/images/masm插件.png",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
-    "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
     "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
     "2.项目/硕士论文/暂态稳定判断算法.png",
     "2.项目/硕士论文/线路失稳情况.png",
@@ -227,7 +227,6 @@
     "生活/健身",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/引导启动程序boot.xmind",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images",
-    "1.学习笔记/a04.操作系统/操作系统实验/Resource",
     "3.笔记阻塞池/待完成实验/C 语言实现 Linux ls 命令.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
