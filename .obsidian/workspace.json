@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab9d4fe045bb0d1",
+        "id": "4438df5cffd0c48f",
         "type": "tabs",
         "children": [
           {
-            "id": "813aa02774c1b113",
+            "id": "3d69adaec9807e89",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -180,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "813aa02774c1b113",
+  "active": "3d69adaec9807e89",
   "lastOpenFiles": [
     "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
     "2.项目/硕士论文/暂态稳定判断算法.png",
