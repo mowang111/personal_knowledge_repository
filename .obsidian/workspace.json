@@ -11,8 +11,12 @@
             "id": "e81d0ea4a069094b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.学习笔记/b01.英语/口语/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.学习笔记/b01.英语/口语/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/未命名.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/未命名.md"
+              }
             }
           },
           {
@@ -180,6 +190,8 @@
   },
   "active": "e81d0ea4a069094b",
   "lastOpenFiles": [
+    "1.学习笔记/b01.英语/口语/未命名.md",
+    "1.学习笔记/b01.英语/口语",
     "4.读书笔记/the 12 week year.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
@@ -217,7 +229,6 @@
     "归档（废弃）/实习租房相关.md",
     "生活/健身",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/引导启动程序boot.xmind",
-    "1.学习笔记/a04.操作系统/操作系统实验/Resource/images",
     "3.笔记阻塞池/待完成实验/C 语言实现 Linux ls 命令.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
@@ -225,7 +236,6 @@
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天/记录/2024.2.26.md",
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天/积极主动原则30天记录.md",
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天.md",
-    "4.读书笔记/奇特的一生.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
