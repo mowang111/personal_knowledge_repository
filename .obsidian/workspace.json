@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/未命名.md",
+                "file": "1.学习笔记/b01.英语/口语/生活类/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/未命名.md",
+                "file": "1.学习笔记/b01.英语/口语/生活类/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/未命名.md",
+                "file": "1.学习笔记/b01.英语/口语/生活类/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/未命名.md"
+                "file": "1.学习笔记/b01.英语/口语/生活类/未命名.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/未命名.md"
+                "file": "1.学习笔记/b01.英语/口语/生活类/未命名.md"
               }
             }
           },
@@ -188,9 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e81d0ea4a069094b",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
-    "1.学习笔记/b01.英语/口语/未命名.md",
+    "1.学习笔记/b01.英语/口语/生活类",
+    "1.学习笔记/b01.英语/口语/生活类/未命名.md",
     "1.学习笔记/b01.英语/口语",
     "4.读书笔记/the 12 week year.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
@@ -235,7 +236,6 @@
     "0.home page.md",
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天/记录/2024.2.26.md",
     "4.读书笔记/高效能人士的七个习惯/积极主动原则30天/积极主动原则30天记录.md",
-    "4.读书笔记/高效能人士的七个习惯/积极主动原则30天.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
