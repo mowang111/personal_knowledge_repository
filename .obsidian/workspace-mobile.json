@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
+                "file": "1.学习笔记/b01.英语/精读/跨年夜不能吃的食物.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
+            "file": "1.学习笔记/b01.英语/精读/跨年夜不能吃的食物.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
+            "file": "1.学习笔记/b01.英语/精读/跨年夜不能吃的食物.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md"
+            "file": "1.学习笔记/b01.英语/精读/跨年夜不能吃的食物.md"
           }
         }
       }
@@ -148,6 +148,9 @@
   },
   "active": "b70a61f57c9935cb",
   "lastOpenFiles": [
+    "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
+    "1.学习笔记/b01.英语/口语/托福口语分类.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
     "1.学习笔记/a00.算法/1.基础算法/0.算法大纲.md"
   ]
 }
