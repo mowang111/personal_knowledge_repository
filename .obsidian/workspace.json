@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a536a30ccc2735a",
+        "id": "dfde2cebd505470e",
         "type": "tabs",
         "children": [
           {
-            "id": "3546e266b894a4f1",
+            "id": "bf46358e59cad104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,15 +179,17 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "bf46358e59cad104",
   "lastOpenFiles": [
+    "4.读书笔记/好好休息才是正经事啊.md",
+    "4.读书笔记/当下的力量（白金版）.md",
+    "config/pagenote.md",
+    "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
     "4.读书笔记/奇特的一生.md",
     "4.读书笔记/the 12 week year.md",
     "4.读书笔记/Wireshark网络分析就这么简单.md",
     "4.读书笔记/枪炮、病菌与钢铁.md",
-    "4.读书笔记/好好休息才是正经事啊.md",
     "4.读书笔记/高效能人士的七个习惯（30周年纪念版）（全新增订版）.md",
-    "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
     "4.读书笔记/未来简史：从智人到智神.md",
     "4.读书笔记/如何阅读一本书.md",
     "4.读书笔记/三体（全集）.md",
@@ -205,7 +197,6 @@
     "4.读书笔记/思考，快与慢.md",
     "4.读书笔记/活着.md",
     "4.读书笔记/战争与和平（全集）.md",
-    "4.读书笔记/当下的力量（白金版）.md",
     "4.读书笔记/绝叫.md",
     "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
     "1.学习笔记/b01.英语/口语/学习类/学校.md",
@@ -224,7 +215,6 @@
     "归档（废弃）/硕士论文/硕士论文修改.md",
     "归档（废弃）/硕士论文/数据分类流程图.png",
     "归档（废弃）/硕士论文/毕设答辩讲稿.md",
-    "4.读书笔记/认知觉醒/认知觉醒.md",
     "4.读书笔记/认知觉醒",
     "1.学习笔记/a01.语言/汇编/resources",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验",
