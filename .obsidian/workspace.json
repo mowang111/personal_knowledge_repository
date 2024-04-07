@@ -11,8 +11,12 @@
             "id": "3546e266b894a4f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md"
+              }
             }
           },
           {
@@ -179,7 +189,7 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "3546e266b894a4f1",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
     "4.读书笔记/奇特的一生.md",
     "4.读书笔记/the 12 week year.md",
@@ -209,11 +219,11 @@
     "1.学习笔记/a01.语言/汇编/resources/images",
     "1.学习笔记/a01.语言/汇编/resources/images/masm插件.png",
     "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
-    "2.项目/硕士论文/暂态稳定判断算法.png",
-    "2.项目/硕士论文/线路失稳情况.png",
-    "2.项目/硕士论文/硕士论文修改.md",
-    "2.项目/硕士论文/数据分类流程图.png",
-    "2.项目/硕士论文/毕设答辩讲稿.md",
+    "归档（废弃）/硕士论文/暂态稳定判断算法.png",
+    "归档（废弃）/硕士论文/线路失稳情况.png",
+    "归档（废弃）/硕士论文/硕士论文修改.md",
+    "归档（废弃）/硕士论文/数据分类流程图.png",
+    "归档（废弃）/硕士论文/毕设答辩讲稿.md",
     "4.读书笔记/认知觉醒/认知觉醒.md",
     "4.读书笔记/认知觉醒",
     "1.学习笔记/a01.语言/汇编/resources",
