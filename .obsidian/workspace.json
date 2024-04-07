@@ -168,12 +168,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +184,44 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "e81d0ea4a069094b",
+  "floating": {
+    "id": "fdb066e193a1f778",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dbe3a686c659283b",
+        "type": "window",
+        "children": [
+          {
+            "id": "20af4739a5c29ed6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e85e85327a8cccf",
+                "type": "leaf",
+                "state": {
+                  "type": "weread-reading-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 343,
+        "y": 100,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6e85e85327a8cccf",
   "lastOpenFiles": [
     "1.学习笔记/b01.英语/口语/学习类/学校.md",
     "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
