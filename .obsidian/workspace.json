@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfde2cebd505470e",
+        "id": "b757f945d3425cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "bf46358e59cad104",
+            "id": "ba61f923497209c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,7 +179,7 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "bf46358e59cad104",
+  "active": "ba61f923497209c1",
   "lastOpenFiles": [
     "4.读书笔记/好好休息才是正经事啊.md",
     "4.读书笔记/当下的力量（白金版）.md",
