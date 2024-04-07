@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
+                "file": "4.读书笔记/枪炮、病菌与钢铁.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
+                "file": "4.读书笔记/枪炮、病菌与钢铁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
+                "file": "4.读书笔记/枪炮、病菌与钢铁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md"
+                "file": "4.读书笔记/枪炮、病菌与钢铁.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/生活类/自我介绍.md"
+                "file": "4.读书笔记/枪炮、病菌与钢铁.md"
               }
             }
           },
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,43 +189,24 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "floating": {
-    "id": "fdb066e193a1f778",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dbe3a686c659283b",
-        "type": "window",
-        "children": [
-          {
-            "id": "20af4739a5c29ed6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6e85e85327a8cccf",
-                "type": "leaf",
-                "state": {
-                  "type": "weread-reading-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 343,
-        "y": 100,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6e85e85327a8cccf",
+  "active": "e81d0ea4a069094b",
   "lastOpenFiles": [
-    "1.学习笔记/b01.英语/口语/学习类/学校.md",
+    "4.读书笔记/好好休息才是正经事啊.md",
+    "4.读书笔记/高效能人士的七个习惯（30周年纪念版）（全新增订版）.md",
     "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
+    "4.读书笔记/未来简史：从智人到智神.md",
+    "4.读书笔记/如何阅读一本书.md",
+    "4.读书笔记/三体（全集）.md",
+    "4.读书笔记/Wireshark网络分析就这么简单.md",
+    "4.读书笔记/长安的荔枝.md",
+    "4.读书笔记/思考，快与慢.md",
+    "4.读书笔记/活着.md",
+    "4.读书笔记/战争与和平（全集）.md",
+    "4.读书笔记/当下的力量（白金版）.md",
+    "4.读书笔记/绝叫.md",
+    "4.读书笔记/枪炮、病菌与钢铁.md",
+    "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
+    "1.学习笔记/b01.英语/口语/学习类/学校.md",
     "1.学习笔记/b01.英语/口语/托福口语分类.md",
     "1.学习笔记/b01.英语/口语/生活类/未命名.md",
     "1.学习笔记/b01.英语/口语/学习类",
@@ -245,30 +227,16 @@
     "4.读书笔记/认知觉醒",
     "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md",
     "1.学习笔记/a01.语言/汇编/resources",
-    "1.学习笔记/a01.语言/汇编/基本语法.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验",
-    "1.学习笔记/a01.语言/汇编/汇编课程笔记/01_QuickView使用说明及regtest调试步骤 .md",
-    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
-    "1.学习笔记/a04.操作系统/待整理笔记/实模式分段.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
-    "1.学习笔记/a04.操作系统/待整理笔记/中断向量表.md",
     "1.学习笔记/a04.操作系统/待整理笔记",
-    "生活/健身/健身计划.md",
     "生活/Resource/images/动作难易度.png",
     "生活/Resource/images/三分化训练计划.png",
     "生活/Resource/images/三分化四分化.png",
     "生活/Resource/images/分化方式比较优缺点.png",
     "生活/Resource/images/分化方式比较.png",
-    "生活/健身/健身餐.md",
     "生活/Resource/images",
-    "生活/Resource/未命名.md",
     "生活/Resource",
     "生活/Resource/images/二分化.png",
-    "归档（废弃）/实习租房相关.md",
-    "3.笔记阻塞池/待完成实验/C 语言实现 Linux ls 命令.md",
-    "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
-    "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
-    "0.home page.md",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
