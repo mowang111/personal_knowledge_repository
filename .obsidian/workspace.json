@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e4be70c85f8ffe71",
+        "id": "0a536a30ccc2735a",
         "type": "tabs",
         "children": [
           {
-            "id": "e81d0ea4a069094b",
+            "id": "3546e266b894a4f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.读书笔记/枪炮、病菌与钢铁.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.读书笔记/枪炮、病菌与钢铁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.读书笔记/枪炮、病菌与钢铁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4.读书笔记/枪炮、病菌与钢铁.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "4.读书笔记/枪炮、病菌与钢铁.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,22 +179,24 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "e81d0ea4a069094b",
+  "active": "3546e266b894a4f1",
   "lastOpenFiles": [
+    "4.读书笔记/奇特的一生.md",
+    "4.读书笔记/the 12 week year.md",
+    "4.读书笔记/Wireshark网络分析就这么简单.md",
+    "4.读书笔记/枪炮、病菌与钢铁.md",
     "4.读书笔记/好好休息才是正经事啊.md",
     "4.读书笔记/高效能人士的七个习惯（30周年纪念版）（全新增订版）.md",
     "1.学习笔记/b01.英语/口语/生活类/自我介绍.md",
     "4.读书笔记/未来简史：从智人到智神.md",
     "4.读书笔记/如何阅读一本书.md",
     "4.读书笔记/三体（全集）.md",
-    "4.读书笔记/Wireshark网络分析就这么简单.md",
     "4.读书笔记/长安的荔枝.md",
     "4.读书笔记/思考，快与慢.md",
     "4.读书笔记/活着.md",
     "4.读书笔记/战争与和平（全集）.md",
     "4.读书笔记/当下的力量（白金版）.md",
     "4.读书笔记/绝叫.md",
-    "4.读书笔记/枪炮、病菌与钢铁.md",
     "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
     "1.学习笔记/b01.英语/口语/学习类/学校.md",
     "1.学习笔记/b01.英语/口语/托福口语分类.md",
@@ -212,7 +204,6 @@
     "1.学习笔记/b01.英语/口语/学习类",
     "1.学习笔记/b01.英语/口语/生活类",
     "1.学习笔记/b01.英语/口语",
-    "4.读书笔记/the 12 week year.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
     "1.学习笔记/a01.语言/汇编/resources/images",
@@ -225,7 +216,6 @@
     "2.项目/硕士论文/毕设答辩讲稿.md",
     "4.读书笔记/认知觉醒/认知觉醒.md",
     "4.读书笔记/认知觉醒",
-    "1.学习笔记/a01.语言/汇编/resources/Windows10下如何使用debug程序.md",
     "1.学习笔记/a01.语言/汇编/resources",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验",
     "1.学习笔记/a04.操作系统/待整理笔记",
