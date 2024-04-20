@@ -272,7 +272,9 @@
       "归档/电网项目/学习笔记/论文/电网切机综述相关": "",
       "1.📑学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识": "",
       "1.📑学习笔记/y02.实习/Windows开发/Windows核心编程/2.编程的具体方法/进程": "",
-      "1.📑学习笔记/y02.实习/项目文档/代码文档/uia/java": ""
+      "1.📑学习笔记/y02.实习/项目文档/代码文档/uia/java": "",
+      "1.📑学习笔记/b01.英语/英语例句": "",
+      "1.📑学习笔记/b01.英语/英语例句/生活类": ""
     },
     "FOLDER_TAGS": {
       "1.📑学习笔记": "",
@@ -529,14 +531,16 @@
       "归档/电网项目/学习笔记/论文/电网切机综述相关": "",
       "1.📑学习笔记/a01.语言/C/深入理解C语言与程序运行原理/code/0.前置知识": "",
       "1.📑学习笔记/y02.实习/Windows开发/Windows核心编程/2.编程的具体方法/进程": "",
-      "1.📑学习笔记/y02.实习/项目文档/代码文档/uia/java": ""
+      "1.📑学习笔记/y02.实习/项目文档/代码文档/uia/java": "",
+      "1.📑学习笔记/b01.英语/英语例句": "",
+      "1.📑学习笔记/b01.英语/英语例句/生活类": ""
     },
     "Syntax": {
       "Begin Note": "START",
       "End Note": "END",
       "Begin Inline Note": "STARTI",
       "End Inline Note": "ENDI",
-      "Target Deck Line": "TARGET DECK",
+      "Target Deck Line": "DECK",
       "File Tags Line": "FILE TAGS",
       "Delete Note Line": "DELETE",
       "Frozen Fields Line": "FROZEN"
