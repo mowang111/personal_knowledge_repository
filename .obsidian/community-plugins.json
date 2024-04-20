@@ -11,5 +11,6 @@
   "contribution-widget",
   "contribution-graph",
   "obsidian-weread-plugin",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-to-anki-plugin"
 ]
