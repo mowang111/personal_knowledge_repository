@@ -16,7 +16,9 @@
       "Cloze": "Text",
       "Image Occlusion": "Occlusion"
     },
-    "CONTEXT_FIELDS": {},
+    "CONTEXT_FIELDS": {
+      "Basic": "Back"
+    },
     "FOLDER_DECKS": {
       "1.📑学习笔记": "",
       "2.项目": "",
