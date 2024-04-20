@@ -550,7 +550,7 @@
     "Defaults": {
       "Scan Directory": "",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "英语例句",
+      "Deck": "default",
       "Scheduling Interval": 0,
       "Add File Link": false,
       "Add Context": false,
