@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a17c60fcb091c93c",
+        "id": "91584cdea24f5154",
         "type": "tabs",
         "children": [
           {
-            "id": "ea0dba128b91dbeb",
+            "id": "dc9741b0fedffd89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.读书笔记/富爸爸穷爸爸.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.读书笔记/富爸爸穷爸爸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.读书笔记/富爸爸穷爸爸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4.读书笔记/富爸爸穷爸爸.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "4.读书笔记/富爸爸穷爸爸.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,11 +180,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ea0dba128b91dbeb",
+  "active": "dc9741b0fedffd89",
   "lastOpenFiles": [
+    "4.读书笔记/一本书读懂财报.md",
+    "4.读书笔记/富爸爸穷爸爸.md",
     "4.读书笔记/好好休息才是正经事啊.md",
     "4.读书笔记/福格行为模型.md",
-    "4.读书笔记/富爸爸穷爸爸.md",
     "1.📑学习笔记/a01.语言/汇编/王爽汇编实验/实验7 寻址方式在结构化数据访问中的应用.md",
     "1.📑学习笔记/b01.英语/口语/生活类/生活.md",
     "1.📑学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
@@ -219,7 +210,6 @@
     "1.📑学习笔记/b01.英语/口语/对话练习/日常生活——学车吐槽.md",
     "Pi, your personal AI 1.html",
     "2024-04-08.md",
-    "0.home page.md",
     "Pi, your personal AI.html",
     "1.📑学习笔记/b01.英语/口语/对话练习",
     "归档/硕士论文/暂态稳定判断算法.png",
