@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/博客笔记模板.md",
+                "file": "其他/时间管理工作流.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/博客笔记模板.md",
+                "file": "其他/时间管理工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/博客笔记模板.md",
+                "file": "其他/时间管理工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/博客笔记模板.md"
+                "file": "其他/时间管理工作流.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/博客笔记模板.md"
+                "file": "其他/时间管理工作流.md"
               }
             }
           },
@@ -192,13 +192,13 @@
   },
   "active": "32cd13ced78cab03",
   "lastOpenFiles": [
+    "Templates/博客笔记模板.md",
     "其他/时间管理工作流.md",
     "其他/部署常用命令.md",
     "生活/租房注意事项.md",
     "生活/健身/健身餐.md",
     "生活/健身/健身计划.md",
     "生活/养鱼指南.md",
-    "Templates/博客笔记模板.md",
     "0.home page.md",
     "4.读书笔记/当下的力量（白金版）.md",
     "4.读书笔记/福格行为模型.md",
