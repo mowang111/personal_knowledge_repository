@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3297022ba14989b4",
+        "id": "0343ef399325b271",
         "type": "tabs",
         "children": [
           {
-            "id": "2f7ebc1b025f3d7c",
+            "id": "32cd13ced78cab03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/租房注意事项.md",
+                "file": "Templates/博客笔记模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/租房注意事项.md",
+                "file": "Templates/博客笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/租房注意事项.md",
+                "file": "Templates/博客笔记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/租房注意事项.md"
+                "file": "Templates/博客笔记模板.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "生活/租房注意事项.md"
+                "file": "Templates/博客笔记模板.md"
               }
             }
           },
@@ -190,8 +190,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2f7ebc1b025f3d7c",
+  "active": "32cd13ced78cab03",
   "lastOpenFiles": [
+    "其他/时间管理工作流.md",
+    "其他/部署常用命令.md",
+    "生活/租房注意事项.md",
     "生活/健身/健身餐.md",
     "生活/健身/健身计划.md",
     "生活/养鱼指南.md",
@@ -215,9 +218,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux/vim/vim文档编辑.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim/vim快速入门.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc/gcc编译c程序（gcc使用） - youxin - 博客园.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/include.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/3.内核编程语言和环境.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/9.Linux任务计划crontab.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
