@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "203d594fc9832104",
+        "id": "3297022ba14989b4",
         "type": "tabs",
         "children": [
           {
-            "id": "d6fc94cdb640377f",
+            "id": "2f7ebc1b025f3d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/博客笔记模板.md",
+                "file": "生活/租房注意事项.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/博客笔记模板.md",
+                "file": "生活/租房注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/博客笔记模板.md",
+                "file": "生活/租房注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/博客笔记模板.md"
+                "file": "生活/租房注意事项.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/博客笔记模板.md"
+                "file": "生活/租房注意事项.md"
               }
             }
           },
@@ -190,8 +190,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d6fc94cdb640377f",
+  "active": "2f7ebc1b025f3d7c",
   "lastOpenFiles": [
+    "生活/健身/健身餐.md",
+    "生活/健身/健身计划.md",
+    "生活/养鱼指南.md",
+    "Templates/博客笔记模板.md",
     "0.home page.md",
     "4.读书笔记/当下的力量（白金版）.md",
     "4.读书笔记/福格行为模型.md",
@@ -214,10 +218,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/include.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/3.内核编程语言和环境.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/9.Linux任务计划crontab.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/8.Linux下的帮助命令.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/7.文件系统操作与磁盘管理.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/6.文件打包与解压缩.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/5.挑战一.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
