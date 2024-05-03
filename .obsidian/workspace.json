@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cecacba2fe0415b",
+        "id": "8c52d41e28ccd15c",
         "type": "tabs",
         "children": [
           {
-            "id": "16d1bcee387555cc",
+            "id": "3457a80419121bab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
+                "file": "4.读书笔记/福格行为模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
+                "file": "4.读书笔记/福格行为模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
+                "file": "4.读书笔记/福格行为模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md"
+                "file": "4.读书笔记/福格行为模型.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md"
+                "file": "4.读书笔记/福格行为模型.md"
               }
             }
           },
@@ -190,8 +190,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "3457a80419121bab",
   "lastOpenFiles": [
+    "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
     "1.学习笔记/z01.其它/工具使用/快捷键定义原则.md",
     "1.学习笔记/z01.其它/工具使用/vscode使用/vscode快捷键.md",
     "1.学习笔记/z01.其它/工具使用/typora使用/思维导图.md",
@@ -217,7 +218,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/3.Linux目录结构及文件基本操作.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/4.环境变量与文件查找.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/20.Linux日志系统.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/2.用户及文件权限管理.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
