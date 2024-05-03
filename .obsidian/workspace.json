@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6795806db1ddcb43",
+        "id": "5cecacba2fe0415b",
         "type": "tabs",
         "children": [
           {
-            "id": "f87c4c3c84f88641",
+            "id": "16d1bcee387555cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/z01.其它/工具使用/特殊符号输入.md"
+              }
             }
           },
           {
@@ -182,6 +192,10 @@
   },
   "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.学习笔记/z01.其它/工具使用/快捷键定义原则.md",
+    "1.学习笔记/z01.其它/工具使用/vscode使用/vscode快捷键.md",
+    "1.学习笔记/z01.其它/工具使用/typora使用/思维导图.md",
+    "1.学习笔记/z01.其它/工具使用/typora使用/快捷键.md",
     "config/代理.md",
     "代理.md",
     "1.学习笔记/a01.语言/C++/其他/左值、右值、右值引用.md",
@@ -204,10 +218,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/4.环境变量与文件查找.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/20.Linux日志系统.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/2.用户及文件权限管理.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/19.Linux进程管理.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/18.Linux进程概念.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/17.Linux下软件安装.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
