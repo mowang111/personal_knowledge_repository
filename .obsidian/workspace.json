@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.home page.md",
+                "file": "Templates/博客笔记模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "Templates/博客笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "Templates/博客笔记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "Templates/博客笔记模板.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "Templates/博客笔记模板.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "d6fc94cdb640377f",
   "lastOpenFiles": [
+    "0.home page.md",
     "4.读书笔记/当下的力量（白金版）.md",
     "4.读书笔记/福格行为模型.md",
     "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
@@ -217,7 +218,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/7.文件系统操作与磁盘管理.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/6.文件打包与解压缩.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/5.挑战一.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/3.Linux目录结构及文件基本操作.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
