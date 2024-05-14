@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/时间管理工作流.md",
+                "file": "归档/9.Django框架课/2.常用命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/时间管理工作流.md",
+                "file": "归档/9.Django框架课/2.常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/时间管理工作流.md",
+                "file": "归档/9.Django框架课/2.常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/时间管理工作流.md"
+                "file": "归档/9.Django框架课/2.常用命令.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "其他/时间管理工作流.md"
+                "file": "归档/9.Django框架课/2.常用命令.md"
               }
             }
           },
@@ -198,10 +199,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a5ef8e86a62ba891",
+  "active": "32cd13ced78cab03",
   "lastOpenFiles": [
-    "Templates/博客笔记模板.md",
     "其他/时间管理工作流.md",
+    "Templates/博客笔记模板.md",
     "其他/部署常用命令.md",
     "生活/租房注意事项.md",
     "生活/健身/健身餐.md",
