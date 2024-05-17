@@ -11,8 +11,12 @@
             "id": "b13f787d4eeb74c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md"
+              }
             }
           },
           {
