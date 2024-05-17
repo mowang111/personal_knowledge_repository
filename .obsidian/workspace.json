@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
+                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
+                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
+                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md"
+                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md"
+                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md"
               }
             }
           },
@@ -200,13 +200,13 @@
   },
   "active": "b13f787d4eeb74c3",
   "lastOpenFiles": [
+    "1.学习笔记/z01.其它/学车/科目一.md",
+    "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
     "copilot-conversations/Chat-2024_05_17-16_51_45.md",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验4 局域网与交换机.md",
     "copilot-conversations",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验3 OSI 参考模型下.md",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验2 OSI 参考模型上.md",
-    "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
-    "1.学习笔记/z01.其它/学车/科目一.md",
     "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
     "1.学习笔记/a03.计算机网络/TCP抓包实验.md",
     "1.学习笔记/z01.其它/工具使用/docker常用命令.md",
