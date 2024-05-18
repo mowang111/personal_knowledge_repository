@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 685.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +198,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6f293159d50d7560",
+  "active": "9f73ca375cb98ef2",
   "lastOpenFiles": [
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
