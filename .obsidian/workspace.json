@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1869b60e8e644843",
+        "id": "09e9395163fcff12",
         "type": "tabs",
         "children": [
           {
-            "id": "6805cd8646812ddd",
+            "id": "64cfa3fac2ee23c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md"
               }
             }
           },
@@ -198,8 +198,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "64cfa3fac2ee23c8",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统笔记/寄存器.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Resource/images/启动引导时内核在内存中的位置和移动后的位置情况.png",
     "1.学习笔记/a04.操作系统/操作系统笔记/1.系统启动.md",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/修改启动提示信息.png",
@@ -211,9 +213,7 @@
     "1.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/寄存器.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/计算机是如何启动的？.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Resource/images/从系统加电起所执行程序的顺序.png",
     "1.学习笔记/a04.操作系统/Resource/images/从系统加电起所执行程序的顺序.png",
     "1.学习笔记/a04.操作系统/Resource/images/从BIOS到GRUB.png",
@@ -236,7 +236,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/建立进程.png",
     "1.学习笔记/a04.操作系统/Resource/images/管理内存对象.png",
     "1.学习笔记/a04.操作系统/Resource/images/二级引导器编译链表.png",
-    "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
     "copilot-conversations",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
