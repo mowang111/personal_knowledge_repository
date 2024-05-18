@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "17c126890b942f65",
+        "id": "2f7ae802587a0f67",
         "type": "tabs",
         "children": [
           {
-            "id": "b13f787d4eeb74c3",
+            "id": "caa665dee5c384ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.学习笔记/a03.计算机网络/socket与文件描述符.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,8 +188,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a5ef8e86a62ba891",
+  "active": "caa665dee5c384ab",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/include.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/3.内核编程语言和环境.md",
+    "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
     "1.学习笔记/z01.其它/学车/科目一.md",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
     "copilot-conversations/Chat-2024_05_17-16_51_45.md",
@@ -207,7 +200,6 @@
     "copilot-conversations",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验3 OSI 参考模型下.md",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验2 OSI 参考模型上.md",
-    "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
     "1.学习笔记/a03.计算机网络/TCP抓包实验.md",
     "1.学习笔记/z01.其它/工具使用/docker常用命令.md",
     "归档/9.Django框架课/2.常用命令.md",
@@ -225,8 +217,6 @@
     "1.学习笔记/z01.其它/工具使用/快捷键定义原则.md",
     "1.学习笔记/z01.其它/工具使用/vscode使用/vscode快捷键.md",
     "1.学习笔记/z01.其它/工具使用/typora使用/思维导图.md",
-    "1.学习笔记/z01.其它/工具使用/typora使用/快捷键.md",
-    "config/代理.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
