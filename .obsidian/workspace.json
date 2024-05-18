@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "57ddbabf135a3b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
               }
             }
           },
@@ -164,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
               }
             }
           },
@@ -211,15 +198,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "57ddbabf135a3b93",
+  "active": "6f293159d50d7560",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/3.多进程图像.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/寄存器.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/计算机是如何启动的？.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
     "1.学习笔记/a04.操作系统/Resource/images/启动引导时内核在内存中的位置和移动后的位置情况.png",
     "1.学习笔记/a04.操作系统/操作系统笔记/1.系统启动.md",
