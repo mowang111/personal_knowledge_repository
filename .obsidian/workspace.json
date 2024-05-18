@@ -11,8 +11,10 @@
             "id": "9b066b07d8972f6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
+              }
             }
           }
         ]
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/学习方法.md",
+                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/学习方法.md",
+                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/学习方法.md"
+                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
               }
             }
           },
@@ -147,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "其他/学习方法.md"
+                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
               }
             }
           },
@@ -194,8 +196,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "9b066b07d8972f6d",
   "lastOpenFiles": [
+    "其他/学习方法.md",
     "其他/时间管理工作流.md",
     "4.读书笔记/股票投资入门、进阶与实战.md",
     "1.学习笔记/a04.操作系统/待整理笔记/实模式分段.md",
@@ -232,7 +235,6 @@
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验3 OSI 参考模型下.md",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验2 OSI 参考模型上.md",
     "1.学习笔记/a03.计算机网络/TCP抓包实验.md",
-    "1.学习笔记/z01.其它/工具使用/docker常用命令.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
