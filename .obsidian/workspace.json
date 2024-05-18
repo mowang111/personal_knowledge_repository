@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/小疑惑解答.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/小疑惑解答.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/小疑惑解答.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/小疑惑解答.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/小疑惑解答.md"
               }
             }
           },
@@ -200,8 +200,9 @@
   },
   "active": "6f293159d50d7560",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/小疑惑解答.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境.md",
     "1.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "1.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
@@ -230,7 +231,6 @@
     "1.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "1.学习笔记/a04.操作系统/操作系统实战/Linux自旋锁与信号量的实现.md",
     "1.学习笔记/a04.操作系统/操作系统实战/SATA.md",
-    "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
     "1.学习笔记/a04.操作系统/Resource/images/进程结构细化示意图.png",
     "1.学习笔记/a04.操作系统/Resource/images/进程结构示意图.png",
