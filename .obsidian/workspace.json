@@ -11,9 +11,9 @@
             "id": "9b066b07d8972f6d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
+                "file": "1.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.excalidraw.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
+                "file": "1.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
+                "file": "1.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
+                "file": "1.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.excalidraw.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png"
+                "file": "1.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.excalidraw.md"
               }
             }
           },
@@ -198,6 +198,17 @@
   },
   "active": "9b066b07d8972f6d",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/Resource/draw/GRUB如何启动.excalidraw.md",
+    "1.学习笔记/a04.操作系统/Resource/draw/GRUB操作setup.bin.excalidraw.md",
+    "1.学习笔记/a04.操作系统/Resource/draw/虚拟内存空间分配.excalidraw.md",
+    "1.学习笔记/a04.操作系统/Resource/draw/从BIOS到GRUB.excalidraw.md",
+    "1.学习笔记/a04.操作系统/Resource/images/进程结构细化示意图.png",
+    "1.学习笔记/a04.操作系统/Resource/images/进程结构示意图.png",
+    "1.学习笔记/a04.操作系统/Resource/images/建立进程.png",
+    "1.学习笔记/a04.操作系统/Resource/images/计算机启动过程.excalidraw.md",
+    "1.学习笔记/a04.操作系统/Resource/images/管理内存对象.png",
+    "1.学习笔记/a04.操作系统/Resource/images/二级引导器编译链表.png",
+    "1.学习笔记/a04.操作系统/Resource/images/二级引导器.png",
     "其他/学习方法.md",
     "其他/时间管理工作流.md",
     "4.读书笔记/股票投资入门、进阶与实战.md",
@@ -208,12 +219,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/内存对象容器关系.png",
     "1.学习笔记/a04.操作系统/Resource/images/实模式下访问内存.png",
     "1.学习笔记/a04.操作系统/Resource/images/实模式中断表.png",
-    "1.学习笔记/a04.操作系统/Resource/images/文件逻辑块映射.png",
-    "1.学习笔记/a04.操作系统/Resource/images/文件系统架构示意图.png",
-    "1.学习笔记/a04.操作系统/Resource/images/虚拟内存的分配和释放.png",
-    "1.学习笔记/a04.操作系统/Resource/images/vmlinuz构成.png",
-    "1.学习笔记/a04.操作系统/Resource/images/x86虚拟地址划分.png",
-    "1.学习笔记/a04.操作系统/Resource/images/x86CPUcache结构图.png",
     "1.学习笔记/a04.操作系统/操作系统实战/3.进程/4.Linux进程.md",
     "1.学习笔记/a04.操作系统/操作系统实战/3.进程/3.进程的等待与唤醒.md",
     "1.学习笔记/a04.操作系统/操作系统实战/3.进程/1.什么是进程.md",
@@ -229,12 +234,7 @@
     "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
     "1.学习笔记/z01.其它/学车/科目一.md",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
-    "copilot-conversations/Chat-2024_05_17-16_51_45.md",
-    "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验4 局域网与交换机.md",
     "copilot-conversations",
-    "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验3 OSI 参考模型下.md",
-    "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验2 OSI 参考模型上.md",
-    "1.学习笔记/a03.计算机网络/TCP抓包实验.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
