@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux其他/Linux设备号.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux其他/Linux设备号.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux其他/Linux设备号.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux其他/Linux设备号.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux其他/Linux设备号.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md"
               }
             }
           },
@@ -198,10 +198,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9f73ca375cb98ef2",
+  "active": "bc82a796366b503c",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/Linux/Linux其他/日志目录.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他/Linux设备号.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux其他/日志目录.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Linux/常用工具/update-alternative.md",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/常用操作.md",
