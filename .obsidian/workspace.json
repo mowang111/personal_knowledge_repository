@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/日志目录.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/日志目录.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/日志目录.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/日志目录.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/日志目录.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md"
               }
             }
           },
@@ -198,11 +198,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "f53cc1e2aa6be238",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/3.内核编程语言和环境.md",
+    "1.学习笔记/a04.操作系统/Linux/日志目录.md",
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/include.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux/Linux源码分析/3.内核编程语言和环境.md",
     "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
     "1.学习笔记/z01.其它/学车/科目一.md",
     "3.笔记阻塞池/待完成实验/计算机网络/由浅入深学网络/实验1 网络基础.md",
@@ -224,9 +227,6 @@
     "0.home page.md",
     "4.读书笔记/当下的力量（白金版）.md",
     "4.读书笔记/福格行为模型.md",
-    "1.学习笔记/z01.其它/工具使用/特殊符号输入.md",
-    "1.学习笔记/z01.其它/工具使用/快捷键定义原则.md",
-    "1.学习笔记/z01.其它/工具使用/vscode使用/vscode快捷键.md",
     "1.学习笔记/a04.操作系统/Linux/Linux/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux/vim",
     "1.学习笔记/a04.操作系统/Linux/Linux/gcc",
