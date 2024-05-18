@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 789.5
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +198,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9f73ca375cb98ef2",
+  "active": "6f293159d50d7560",
   "lastOpenFiles": [
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境.md",
     "1.学习笔记/a04.操作系统/操作系统实战/2.内存/5.虚拟内存.md",
     "1.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
     "1.学习笔记/a04.操作系统/操作系统实战/2.内存/3.内存页的分配与释放.md",
