@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13294300248a5838",
+        "id": "19070f2234d201bf",
         "type": "tabs",
         "children": [
           {
-            "id": "457be3c0f324a790",
+            "id": "de49812c48e60ac1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240519151829.png"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240519151829.png",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240519151829.png",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240519151829.png"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Pasted image 20240519151829.png"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
               }
             }
           },
@@ -196,10 +198,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "de49812c48e60ac1",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "Pasted image 20240519151829.png",
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境.md",
