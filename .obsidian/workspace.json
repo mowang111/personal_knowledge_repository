@@ -11,11 +11,9 @@
             "id": "457be3c0f324a790",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240519151829.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "Pasted image 20240519151829.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "Pasted image 20240519151829.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "Pasted image 20240519151829.png"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "Pasted image 20240519151829.png"
               }
             }
           },
@@ -198,11 +196,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "457be3c0f324a790",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "Pasted image 20240519151829.png",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/中断描述符表和段描述符表.md",
@@ -237,7 +235,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/从BIOS到GRUB.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
     "1.学习笔记/a04.操作系统/Resource/images/进程结构细化示意图.png",
-    "1.学习笔记/a04.操作系统/Resource/images/进程结构示意图.png",
     "copilot-conversations",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/16.挑战四",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/vim",
