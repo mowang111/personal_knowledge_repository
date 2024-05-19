@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
               }
             }
           },
@@ -196,7 +198,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "de49812c48e60ac1",
   "lastOpenFiles": [
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "未命名.md",
