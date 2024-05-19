@@ -198,8 +198,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "f3cc2c094fba8069",
   "lastOpenFiles": [
+    "Pasted image 20240520072115.png",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导~.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/中断描述符表和段描述符表.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/疑惑解答.md",
@@ -231,7 +232,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux其他/日志目录.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Linux/常用工具/update-alternative.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux使用/常用操作.md",
     "1.学习笔记/a04.操作系统/Resource/images/启动引导时内核在内存中的位置和移动后的位置情况.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/修改启动提示信息.png",
     "1.学习笔记/a04.操作系统/Resource/images/从系统加电起所执行程序的顺序.png",
