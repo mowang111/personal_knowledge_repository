@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "19070f2234d201bf",
+        "id": "af45cdd315d24c91",
         "type": "tabs",
         "children": [
           {
-            "id": "de49812c48e60ac1",
+            "id": "f3cc2c094fba8069",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/registerusedasidentifier.png"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/registerusedasidentifier.png",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/registerusedasidentifier.png",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/registerusedasidentifier.png"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Resource/images/registerusedasidentifier.png"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md"
               }
             }
           },
@@ -196,21 +198,21 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "f3cc2c094fba8069",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
-    "Pasted image 20240520063615.png",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/中断描述符表和段描述符表.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/疑惑解答.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+    "1.学习笔记/a04.操作系统/Resource/images/操作系统显示参数.png",
+    "1.学习笔记/a04.操作系统/Resource/images/registerusedasidentifier.png",
+    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "未命名.md",
-    "1.学习笔记/a04.操作系统/Resource/images/registerusedasidentifier.png",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/中断描述符表和段描述符表.md",
     "1.学习笔记/a04.操作系统/Resource/images/Linux描述符表示意图.png",
     "1.学习笔记/a04.操作系统/Resource/images/段选择符格式.png",
     "1.学习笔记/a04.操作系统/Resource/images/程序代码段和数据段描述符格式.png",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/疑惑解答.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.3 setup.s.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
