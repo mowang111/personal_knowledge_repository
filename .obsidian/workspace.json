@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f39f00b3312bb4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -151,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -198,10 +211,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "de49812c48e60ac1",
+  "active": "f39f00b3312bb4c8",
   "lastOpenFiles": [
-    "Pasted image 20240519151829.png",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+    "未命名.md",
+    "Pasted image 20240519151829.png",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/操作系统引导.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境.md",
