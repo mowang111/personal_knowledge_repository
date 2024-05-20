@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/未命名.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/未命名.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/未命名.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/未命名.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/未命名.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md"
               }
             }
           },
@@ -213,7 +213,7 @@
   "active": "f3cc2c094fba8069",
   "lastOpenFiles": [
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/2.系统调用.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/未命名.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境/嵌入汇编.md",
