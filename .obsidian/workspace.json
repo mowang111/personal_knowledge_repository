@@ -210,8 +210,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f3cc2c094fba8069",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/Resource/images/内核初始化流程示意图.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）/main.c.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）",
@@ -248,7 +249,6 @@
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
-    "1.学习笔记/a04.操作系统/操作系统实战/任务状态段TSS(Task-state segment).md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Resource/images/启动引导时内核在内存中的位置和移动后的位置情况.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/修改启动提示信息.png",
