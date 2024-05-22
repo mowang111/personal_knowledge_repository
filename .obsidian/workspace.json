@@ -11,8 +11,12 @@
             "id": "62a0953842cca03b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md"
+              }
             }
           },
           {
@@ -188,8 +198,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "62a0953842cca03b",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "系统调用实验结果2.png",
+    "系统调用实验结果1.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境/嵌入汇编.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/2.系统调用.md",
@@ -227,10 +239,8 @@
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/Makefile.md",
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
-    "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/2. 加载二级引导器.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Resource/images/启动引导时内核在内存中的位置和移动后的位置情况.png",
-    "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/修改启动提示信息.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
     "copilot-conversations",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/16.挑战四",
