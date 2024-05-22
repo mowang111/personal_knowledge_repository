@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
+                "file": "4.读书笔记/三体（全集）.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
+                "file": "4.读书笔记/三体（全集）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
+                "file": "4.读书笔记/三体（全集）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md"
+                "file": "4.读书笔记/三体（全集）.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md"
+                "file": "4.读书笔记/三体（全集）.md"
               }
             }
           },
@@ -218,13 +218,15 @@
   },
   "active": "04311e981accae6f",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/4.环境变量与文件查找.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/8.Linux下的帮助命令.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/18.Linux进程概念.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/4.环境变量与文件查找.md",
     "smart-chats/UNTITLED CHAT 2024-05-22 10 56 31.md",
     "smart-chats",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/系统调用实验结果2.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/系统调用实验结果1.png",
@@ -258,8 +260,6 @@
     "1.学习笔记/a04.操作系统/操作系统实战/Cache与内存.md",
     "1.学习笔记/a04.操作系统/操作系统实战/2.内存/4.管理内存对象.md",
     "1.学习笔记/a04.操作系统/操作系统实战/2.内存/1.内存划分.md",
-    "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/visualbox.md",
-    "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/Makefile.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
     "copilot-conversations",
