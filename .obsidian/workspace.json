@@ -174,9 +174,25 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "e3c79caccee4fb6f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d59fbe272991415a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -195,11 +211,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "copilot:Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "04311e981accae6f",
+  "active": "d59fbe272991415a",
   "lastOpenFiles": [
+    "smart-chats",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
@@ -240,7 +259,6 @@
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/visualbox.md",
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/Makefile.md",
     "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/3.探查和收集信息.md",
-    "1.学习笔记/a04.操作系统/操作系统实战/0.设置工作模式和环境/1. 建立计算机.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
     "copilot-conversations",
