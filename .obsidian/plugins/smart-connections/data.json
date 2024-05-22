@@ -15,7 +15,7 @@
   "embed_input_min_chars": 50,
   "multi_heading_blocks": true,
   "enable_mobile": false,
-  "api_key": "",
+  "api_key": "crzgpt:gpt-3.5-turbo|gpt4,gpt-4|gpt4,,gpt-4-32k|gpt4,:e6dabcf3df47473789ebbf828e86d7dc:2024-02-15-preview",
   "excluded_headings": "",
   "file_exclusions": "Untitled",
   "folder_exclusions": "smart-chats",
