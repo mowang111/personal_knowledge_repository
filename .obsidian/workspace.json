@@ -214,8 +214,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9f73ca375cb98ef2",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/Resource/images/sched.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/sched.drawio",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）/8.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Resource/images/内核目录中各文件中函数调用关系.png",
@@ -261,7 +262,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/Linux描述符表示意图.png",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
-    "copilot-conversations",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
