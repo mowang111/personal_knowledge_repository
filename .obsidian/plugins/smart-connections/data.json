@@ -29,6 +29,7 @@
   "muted_notices": {
     "done embedding": true,
     "Notice muted": true,
-    "no embedding found": true
+    "no embedding found": true,
+    "done initial scan": true
   }
 }
