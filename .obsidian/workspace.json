@@ -218,6 +218,8 @@
   },
   "active": "44df68d2ef0ea704",
   "lastOpenFiles": [
+    "Pasted image 20240523082729.png",
+    "1.学习笔记/a04.操作系统/Resource/images/内核目录中各文件中函数调用关系.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）/8.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
@@ -259,8 +261,6 @@
     "未命名.md",
     "1.学习笔记/a04.操作系统/Resource/images/Linux描述符表示意图.png",
     "1.学习笔记/a04.操作系统/Resource/images/段选择符格式.png",
-    "1.学习笔记/a04.操作系统/Resource/images/程序代码段和数据段描述符格式.png",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.3 setup.s.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
     "copilot-conversations",
