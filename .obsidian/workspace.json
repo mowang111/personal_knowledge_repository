@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e21928f672782a83",
+        "id": "e177b9ebcca797a3",
         "type": "tabs",
         "children": [
           {
-            "id": "04311e981accae6f",
+            "id": "3ce711b3af11d8f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md"
               }
             }
           },
@@ -216,8 +216,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "04311e981accae6f",
+  "active": "3ce711b3af11d8f4",
   "lastOpenFiles": [
+    "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md",
     "1.学习笔记/y01.面试相关/计算机网络面试题/TCP篇.md",
     "1.学习笔记/a03.计算机网络/TCP抓包实验.md",
     "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
@@ -259,7 +260,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/程序代码段和数据段描述符格式.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.3 setup.s.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.2 bootsect.s.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）",
     "copilot-conversations",
