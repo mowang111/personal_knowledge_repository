@@ -211,9 +211,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "copilot:Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "d69ef2d2612fc650",
