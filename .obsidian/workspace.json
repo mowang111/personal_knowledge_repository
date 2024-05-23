@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e177b9ebcca797a3",
+        "id": "e88a53f052da4807",
         "type": "tabs",
         "children": [
           {
-            "id": "3ce711b3af11d8f4",
+            "id": "44df68d2ef0ea704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,15 +206,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3ce711b3af11d8f4",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md",
     "1.学习笔记/y01.面试相关/计算机网络面试题/TCP篇.md",
     "1.学习笔记/a03.计算机网络/TCP抓包实验.md",
     "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
     "4.读书笔记/三体（全集）.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/8.Linux下的帮助命令.md",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/18.Linux进程概念.md",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/Linux基础入门/4.环境变量与文件查找.md",
