@@ -25,5 +25,9 @@
   "log_render": false,
   "log_render_files": false,
   "recently_sent_retry_notice": false,
-  "version": "2.1.66"
+  "version": "2.1.66",
+  "muted_notices": {
+    "done embedding": true,
+    "Notice muted": true
+  }
 }
