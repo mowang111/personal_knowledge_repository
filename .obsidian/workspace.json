@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md"
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md"
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "21298df045bc6439",
   "lastOpenFiles": [
-    "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
     "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+    "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘~.md",
