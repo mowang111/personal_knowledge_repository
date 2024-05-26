@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+                "file": "2.项目/时间精力管理/app 构想.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+                "file": "2.项目/时间精力管理/app 构想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+                "file": "2.项目/时间精力管理/app 构想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md"
+                "file": "2.项目/时间精力管理/app 构想.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md"
+                "file": "2.项目/时间精力管理/app 构想.md"
               }
             }
           },
@@ -216,8 +216,10 @@
   },
   "active": "21298df045bc6439",
   "lastOpenFiles": [
-    "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
+    "2.项目/时间精力管理",
     "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+    "2.项目/时间精力管理/app 构想.md",
+    "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘~.md",
@@ -250,9 +252,7 @@
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/系统调用实验结果1.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境/嵌入汇编.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）/main.c.md",
     "1.学习笔记/a04.操作系统/Resource/images/内核初始化流程示意图.png",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构",
     "1.学习笔记/a04.操作系统/Resource/images/常用寄存器加载代码说明.png",
