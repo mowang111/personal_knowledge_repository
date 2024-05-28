@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
+                "file": "4.读书笔记/精力管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
+                "file": "4.读书笔记/精力管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
+                "file": "4.读书笔记/精力管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md"
+                "file": "4.读书笔记/精力管理.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md"
+                "file": "4.读书笔记/精力管理.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "208bdc4d8f3444d0",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "3.笔记阻塞池/问题合集/2.等待应答.md",
     "4.读书笔记/精力管理.md",
