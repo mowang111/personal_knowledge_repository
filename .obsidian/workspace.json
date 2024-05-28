@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "3.笔记阻塞池/待完成实验/GDB简明教程/调试链表程序.md"
               }
             }
           },
@@ -214,11 +214,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "21298df045bc6439",
   "lastOpenFiles": [
+    "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/as86参数a.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/函数值传递错误.png",
-    "3.笔记阻塞池/待完成实验/GDB简明教程/GDB 常用命令实战.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a01.语言/C/可变参数.md",
@@ -260,7 +261,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/常用寄存器加载代码说明.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用",
-    "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/setup读取并保留的参数.png",
     "1.学习笔记/a04.操作系统/Linux/Linux其他",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
