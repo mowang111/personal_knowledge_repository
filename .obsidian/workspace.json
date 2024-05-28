@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "918115eced9e6e4f",
+        "id": "c8ce7c81c60f9f47",
         "type": "tabs",
         "children": [
           {
-            "id": "21298df045bc6439",
+            "id": "208bdc4d8f3444d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.笔记阻塞池/问题合集/2.等待应答.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.笔记阻塞池/问题合集/2.等待应答.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.笔记阻塞池/问题合集/2.等待应答.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.笔记阻塞池/问题合集/2.等待应答.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.笔记阻塞池/问题合集/2.等待应答.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
               }
             }
           },
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +214,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "208bdc4d8f3444d0",
   "lastOpenFiles": [
+    "3.笔记阻塞池/问题合集/2.等待应答.md",
     "4.读书笔记/精力管理.md",
     "3.笔记阻塞池/问题合集/1.gcc无法编译.md",
     "3.笔记阻塞池/待完成实验/跟我一起来玩转Makefile.md",
@@ -250,7 +251,6 @@
     "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md",
     "1.学习笔记/y01.面试相关/计算机网络面试题/TCP篇.md",
     "1.学习笔记/a03.计算机网络/TCP抓包实验.md",
-    "1.学习笔记/a03.计算机网络/socket与文件描述符.md",
     "smart-chats",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/系统调用实验结果2.png",
