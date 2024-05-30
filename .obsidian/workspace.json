@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 Minix文件系统.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 Minix文件系统.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 Minix文件系统.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 Minix文件系统.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 Minix文件系统.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md"
               }
             }
           },
@@ -214,7 +214,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "224684d52b3a1ac1",
   "lastOpenFiles": [
     "1.学习笔记/a04.操作系统/Resource/xmind/Minix文件系统.xmind",
     "1.学习笔记/a04.操作系统/Resource/images/Minix文件系统.png",
@@ -224,7 +224,7 @@
     "1.学习笔记/a04.操作系统/Resource/images/Minix文件系统1.0版本的i节点结构.png",
     "1.学习笔记/a04.操作系统/Resource/images/建有Minix系统的360k软盘.png",
     "1.学习笔记/a04.操作系统/Linux/常用工具/GDB 常用命令实战.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 Minix文件系统.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统",
     "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md",
     "3.笔记阻塞池/待完成实验/C 语言实现 Linux ls 命令.md",
