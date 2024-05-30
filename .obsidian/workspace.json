@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ce7c81c60f9f47",
+        "id": "fe6088f113bca5c6",
         "type": "tabs",
         "children": [
           {
-            "id": "208bdc4d8f3444d0",
+            "id": "224684d52b3a1ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,8 +204,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b8eb060317ebd9fc",
+  "active": "224684d52b3a1ac1",
   "lastOpenFiles": [
+    "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md",
     "3.笔记阻塞池/待完成实验/C 语言实现 Linux ls 命令.md",
     "3.笔记阻塞池/待完成实验/跟我一起来玩转Makefile.md",
     "3.笔记阻塞池/待完成实验/用Python编写一个高效的端口扫描器 - 云+社区 - 腾讯云.md",
@@ -251,7 +241,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/内核目录中各文件中函数调用关系.png",
     "1.学习笔记/a04.操作系统/Resource/images/内核目录中各文件中函数调用关系.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）",
-    "1.学习笔记/a03.计算机网络/wireshark/子网掩码&wireshark小实验.md",
     "smart-chats",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/系统调用实验结果2.png",
