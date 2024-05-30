@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "208bdc4d8f3444d0",
+  "active": "b8eb060317ebd9fc",
   "lastOpenFiles": [
     "3.笔记阻塞池/待完成实验/C 语言实现 Linux ls 命令.md",
     "3.笔记阻塞池/待完成实验/跟我一起来玩转Makefile.md",

@@ -260,10 +260,10 @@ IP报文首部C语言实现可以用下面的数据结构表示：
 
 #### 2.4.1 `gettimeofday()` 函数
 
-> ```
-> #include <sys/time.h>
-> int gettimeofday(struct timeval *tv, struct timezone *tz);
-> ```
+```
+#include <sys/time.h>
+int gettimeofday(struct timeval *tv, struct timezone *tz);
+```
 
 该函数的作用是把当前的时间放入 struct timeval 结构体中返回。注意：
 
