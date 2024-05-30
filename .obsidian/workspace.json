@@ -214,8 +214,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "224684d52b3a1ac1",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "建有Minix系统的360k软盘.png",
     "1.学习笔记/a04.操作系统/Linux/常用工具/GDB 常用命令实战.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 Minix文件系统.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统",
@@ -246,7 +247,6 @@
     "1.学习笔记/a04.操作系统/Linux/常用工具/update-alternative.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
     "1.学习笔记/a04.操作系统/Resource/images/内核编译连接组合结构.png",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）/sched.c.md",
     "1.学习笔记/a04.操作系统/Resource/images/sched.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/sched.drawio",
     "1.学习笔记/a04.操作系统/Resource/images/内核目录中各文件中函数调用关系.png",
