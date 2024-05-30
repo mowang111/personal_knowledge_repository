@@ -214,8 +214,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "bb24b00c4465b842",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/Resource/images/文件系统底层函数.png",
+    "1.学习笔记/a04.操作系统/Resource/xmind/文件系统底层函数.xmind",
     "Pasted image 20240530133637.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Resource/images/通过文件名最终找到对应文件磁盘块位置.png",
@@ -260,7 +262,6 @@
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
