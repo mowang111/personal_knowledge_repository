@@ -216,6 +216,7 @@
   },
   "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "文件系统上层操作程序.png",
     "1.学习笔记/a04.操作系统/Resource/images/进程打开文件使用的内核数据结构.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件中数据的访问操作.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/文件中数据的访问操作.xmind",
@@ -230,7 +231,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/Minix文件系统.png",
     "1.学习笔记/a04.操作系统/Resource/images/硬盘上的分区和文件系统.png",
     "1.学习笔记/a04.操作系统/Resource/images/Minix超级块结构.png",
-    "1.学习笔记/a04.操作系统/Resource/images/i节点的逻辑块（区块）数组的功能.png",
     "1.学习笔记/a04.操作系统/Linux/常用工具/GDB 常用命令实战.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统",
     "3.笔记阻塞池/待完成实验/C 语言实现 Ping 命令.md",
