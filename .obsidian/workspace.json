@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "bb24b00c4465b842",
   "lastOpenFiles": [
+    "0.home page.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/文件系统上层操作.xmind",
