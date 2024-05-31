@@ -10,38 +10,8 @@
       "showShadow": false,
       "createAt": "2024-05-31T01:16:13.075Z",
       "updateAt": "2024-05-31T01:16:13.075Z",
-      "components": [
-        {
-          "componentId": "f3a964f1-3d41-4f4d-956d-45ae96c6a044"
-        }
-      ],
+      "components": [],
       "layoutType": "column"
-    },
-    {
-      "id": "f3a964f1-3d41-4f4d-956d-45ae96c6a044",
-      "type": "dynamicDataView",
-      "titleAlign": "center",
-      "tabTitle": "",
-      "maxWidthRatio": -1,
-      "showBorder": false,
-      "showShadow": false,
-      "createAt": "2024-05-31T01:16:39.094Z",
-      "updateAt": "2024-05-31T01:16:39.094Z",
-      "viewType": "gallary",
-      "properties": [],
-      "templates": [],
-      "groups": [],
-      "viewOptions": {
-        "openPageIn": "tab",
-        "itemSize": "components--page-card-medium",
-        "showPropertyName": false,
-        "cover": {
-          "type": "pageFirstImage",
-          "value": "",
-          "fit": "contains",
-          "layout": "components--page-card-cover-landscape"
-        }
-      }
     }
   ],
   "rootComponentId": "0c02e1a8-f108-4c18-a728-1230efc09849"
