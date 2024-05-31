@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0c93b663d0db614b",
+        "id": "5a2d158391b724a9",
         "type": "tabs",
         "children": [
           {
-            "id": "72d62931f789d370",
+            "id": "8bb4b18964eb1849",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.home page.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "components/components-20240531200010.components",
+                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "components/components-20240531200010.components",
+                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "components/components-20240531200010.components"
+                "file": "0.home page.md"
               }
             }
           },
@@ -147,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "components/components-20240531200010.components"
+                "file": "0.home page.md"
               }
             }
           },
@@ -210,11 +214,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "8bb4b18964eb1849",
   "lastOpenFiles": [
+    "Templates/博客笔记模板.md",
+    "smart-chats/UNTITLED CHAT 2024-05-22 10 56 31.md",
+    "copilot-conversations/Chat-2024_05_31-20_07_37.md",
+    "components/components-20240531200010.components",
     "components/components-20240531092435.components",
     "0.home page.md",
-    "components/components-20240531200010.components",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
@@ -239,8 +246,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
-    "1.学习笔记/y02.实习/项目文档/shell.md",
     "components",
     "components-20240531091613.components",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
