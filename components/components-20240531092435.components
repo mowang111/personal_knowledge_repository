@@ -16,6 +16,9 @@
         },
         {
           "componentId": "13941d23-e1b0-4a41-913f-5d76510c818b"
+        },
+        {
+          "componentId": "83148cf4-1674-4352-b3f8-6e1a9fcd7e2e"
         }
       ],
       "layoutType": "column"
@@ -62,6 +65,20 @@
       "checkActions": [],
       "uncheckActions": [],
       "isChecked": false
+    },
+    {
+      "id": "83148cf4-1674-4352-b3f8-6e1a9fcd7e2e",
+      "type": "timing",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-31T12:15:52.512Z",
+      "updateAt": "2024-05-31T12:15:52.512Z",
+      "showStartDateTime": true,
+      "timeTextPattern": "yMdHms",
+      "startDateTime": "2024-01-01 20:16:16"
     }
   ],
   "rootComponentId": "73a781a2-6696-465c-acae-e6968fbc62e4"
