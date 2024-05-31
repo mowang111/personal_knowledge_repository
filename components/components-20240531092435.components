@@ -33,9 +33,18 @@
         "id": "27e2112d-6b5e-45b1-a458-ceabda86312f",
         "type": "group",
         "operator": "and",
-        "conditions": []
+        "conditions": [
+          {
+            "id": "4d8d0746-93dc-4d82-8a7c-ecf25141275a",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.path}",
+            "value": null,
+            "conditions": []
+          }
+        ]
       },
-      "maxHeight": 300,
+      "maxHeight": 236,
       "backgroundColor": "#b4cddeff"
     }
   ],
