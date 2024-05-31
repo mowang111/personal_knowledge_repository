@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
+                "file": "4.读书笔记/HeadFirst设计模式/1.策略模式——Duck.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
+                "file": "4.读书笔记/HeadFirst设计模式/1.策略模式——Duck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
+                "file": "4.读书笔记/HeadFirst设计模式/1.策略模式——Duck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md"
+                "file": "4.读书笔记/HeadFirst设计模式/1.策略模式——Duck.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md"
+                "file": "4.读书笔记/HeadFirst设计模式/1.策略模式——Duck.md"
               }
             }
           },
@@ -217,8 +217,13 @@
   },
   "active": "69e0c4ca5bd1a367",
   "lastOpenFiles": [
-    "4.读书笔记/认知觉醒/认知觉醒.md",
+    "4.读书笔记/代码大全/7.高质量子程序.md",
+    "4.读书笔记/HeadFirst设计模式/1.策略模式——Duck.md",
+    "4.读书笔记/Resources/images/时间记录图.png",
+    "4.读书笔记/高效能人士的七个习惯（30周年纪念版）（全新增订版）.md",
+    "4.读书笔记/高效能人士的七个习惯/高效能人士的七个习惯.md",
     "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
+    "4.读书笔记/认知觉醒/认知觉醒.md",
     "0.home page.md",
     "4.读书笔记/精力管理.md",
     "4.读书笔记/为什么精英都是时间控.md",
@@ -247,10 +252,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境/3.内核编程语言和环境.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境/嵌入汇编.md",
     "1.学习笔记/a01.语言/GCC支持嵌入汇编代码的模板.md",
-    "1.学习笔记/a01.语言/汇编/基本语法.md",
-    "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验7 寻址方式在结构化数据访问中的应用.md",
-    "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
-    "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
     "components",
     "components-20240531091613.components",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
@@ -262,7 +263,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/文件系统底层操作函数层次关系.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统底层函数.png",
     "Pasted image 20240530133637.png",
-    "1.学习笔记/a04.操作系统/Resource/images/通过文件名最终找到对应文件磁盘块位置.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
