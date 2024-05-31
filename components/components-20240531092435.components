@@ -10,8 +10,33 @@
       "showShadow": false,
       "createAt": "2024-05-31T01:24:35.148Z",
       "updateAt": "2024-05-31T01:24:35.148Z",
-      "components": [],
+      "components": [
+        {
+          "componentId": "25de01bf-125c-4706-b404-efc36084bae2"
+        }
+      ],
       "layoutType": "tab"
+    },
+    {
+      "id": "25de01bf-125c-4706-b404-efc36084bae2",
+      "type": "quote",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-05-31T01:25:06.105Z",
+      "updateAt": "2024-05-31T01:25:06.105Z",
+      "contentType": "block",
+      "coverType": "pageFirstImage",
+      "filter": {
+        "id": "27e2112d-6b5e-45b1-a458-ceabda86312f",
+        "type": "group",
+        "operator": "and",
+        "conditions": []
+      },
+      "maxHeight": 300,
+      "backgroundColor": "#b4cddeff"
     }
   ],
   "rootComponentId": "73a781a2-6696-465c-acae-e6968fbc62e4"
