@@ -47,7 +47,7 @@
             "type": "filter",
             "operator": "not_contains",
             "property": "${file.path}",
-            "value": "3.笔记阻塞chi",
+            "value": "3.笔记阻塞池",
             "conditions": []
           }
         ]
