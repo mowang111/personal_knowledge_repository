@@ -39,7 +39,15 @@
             "type": "filter",
             "operator": "not_contains",
             "property": "${file.path}",
-            "value": null,
+            "value": "归档",
+            "conditions": []
+          },
+          {
+            "id": "b4f98015-9a4c-45c6-9ed6-e83a66bc17cc",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.path}",
+            "value": "3.笔记阻塞chi",
             "conditions": []
           }
         ]
