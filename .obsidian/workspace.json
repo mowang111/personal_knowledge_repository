@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统.md"
               }
             }
           },
@@ -241,8 +241,8 @@
   },
   "active": "69e0c4ca5bd1a367",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统.md",
     "0.home page.md",
+    "1.学习笔记/a04.操作系统/操作系统.md",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "Templates/博客笔记模板.md",
     "components/components-20240531210019.components",
