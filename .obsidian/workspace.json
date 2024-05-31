@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
               }
             }
           },
@@ -216,9 +216,12 @@
   },
   "active": "07854c6cad402291",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/Linux/常用工具/GDB 常用命令实战.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
+    "1.学习笔记/a04.操作系统/Linux/常用工具/GDB 常用命令实战.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境/3.内核编程语言和环境.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/3.内核编程语言和环境/嵌入汇编.md",
     "1.学习笔记/a01.语言/GCC支持嵌入汇编代码的模板.md",
@@ -227,9 +230,7 @@
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/中断描述符表和段描述符表.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）/8.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）/main.c.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/疑惑解答.md",
@@ -244,7 +245,6 @@
     "components",
     "components-20240531091613.components",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/vim/vim文档编辑.md",
-    "归档/电网项目/学习笔记/词条/Wasserstein Distance.md",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/文件系统上层操作.xmind",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作程序.png",
