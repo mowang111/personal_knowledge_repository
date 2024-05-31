@@ -11,9 +11,11 @@
             "id": "bb24b00c4465b842",
             "type": "leaf",
             "state": {
-              "type": "components-file-view",
+              "type": "markdown",
               "state": {
-                "file": "components-20240531091613.components"
+                "file": "0.home page.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "components-20240531091613.components",
+                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "components-20240531091613.components",
+                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "components-20240531091613.components"
+                "file": "0.home page.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "components-20240531091613.components"
+                "file": "0.home page.md"
               }
             }
           },
@@ -212,10 +214,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bb24b00c4465b842",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
-    "0.home page.md",
+    "components/components-20240531092435.components",
+    "components",
     "components-20240531091613.components",
+    "0.home page.md",
     "1.学习笔记/a04.操作系统/Linux/Linux使用/vim/vim文档编辑.md",
     "归档/电网项目/学习笔记/词条/Wasserstein Distance.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
@@ -258,7 +262,6 @@
     "2.项目/时间精力管理",
     "1.学习笔记/a04.操作系统/Resource/drawio/sched.drawio",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）",
-    "smart-chats",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
