@@ -12,5 +12,6 @@
   "convert-url-to-iframe",
   "obsidian-to-anki-plugin",
   "copilot",
-  "components"
+  "components",
+  "contribution-graph"
 ]
