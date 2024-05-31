@@ -11,11 +11,9 @@
             "id": "bb24b00c4465b842",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "components-file-view",
               "state": {
-                "file": "0.home page.md",
-                "mode": "source",
-                "source": false
+                "file": "components-20240531091613.components"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "components-20240531091613.components",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "components-20240531091613.components",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "components-20240531091613.components"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "components-20240531091613.components"
               }
             }
           },
@@ -216,10 +214,10 @@
   },
   "active": "bb24b00c4465b842",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/Linux/Linux使用/vim/vim文档编辑.md",
     "0.home page.md",
-    "归档/电网项目/学习笔记/词条/Wasserstein Distance.md",
     "components-20240531091613.components",
+    "1.学习笔记/a04.操作系统/Linux/Linux使用/vim/vim文档编辑.md",
+    "归档/电网项目/学习笔记/词条/Wasserstein Distance.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
@@ -257,7 +255,6 @@
     "5.生活/饮食指南.md",
     "5.生活/租房注意事项.md",
     "5.生活/养鱼指南.md",
-    "2.项目/时间精力管理/时间精力管理 app 构想.md",
     "2.项目/时间精力管理",
     "1.学习笔记/a04.操作系统/Resource/drawio/sched.drawio",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）",
