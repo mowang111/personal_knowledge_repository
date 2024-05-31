@@ -19,18 +19,29 @@
     },
     {
       "id": "a8ea4bee-07bb-4dd2-bb32-acb69f17daac",
-      "type": "dataview",
+      "type": "dynamicDataView",
       "titleAlign": "center",
       "tabTitle": "",
       "maxWidthRatio": -1,
-      "showBorder": true,
+      "showBorder": false,
       "showShadow": false,
-      "createAt": "2024-05-31T12:00:22.441Z",
-      "updateAt": "2024-05-31T12:00:22.441Z",
-      "query": "",
-      "queryType": "dataview",
-      "maxHeight": 300,
-      "dynamicParamComponents": []
+      "createAt": "2024-05-31T12:00:59.125Z",
+      "updateAt": "2024-05-31T12:00:59.125Z",
+      "viewType": "gallary",
+      "properties": [],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      }
     }
   ],
   "rootComponentId": "ffa6c4f6-d5fa-4dd9-a025-5ae097cc2ad0"
