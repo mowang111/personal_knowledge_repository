@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.home page.md",
+                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "4.读书笔记/认知觉醒：开启自我改变的原动力.md"
               }
             }
           },
@@ -217,12 +217,14 @@
   },
   "active": "69e0c4ca5bd1a367",
   "lastOpenFiles": [
+    "4.读书笔记/认知觉醒/认知觉醒.md",
+    "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
+    "0.home page.md",
+    "4.读书笔记/精力管理.md",
     "4.读书笔记/为什么精英都是时间控.md",
     "1.学习笔记/a04.操作系统/操作系统.md",
-    "4.读书笔记/认知觉醒/认知觉醒.md",
     "4.读书笔记/当下的力量（白金版）.md",
     "4.读书笔记/福格行为模型.md",
-    "0.home page.md",
     "components/components-20240531215050.components",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "Templates/博客笔记模板.md",
@@ -249,8 +251,6 @@
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验7 寻址方式在结构化数据访问中的应用.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/实验1  查看CPU 和内存,用机器指令和汇编指令编程.md",
     "1.学习笔记/a01.语言/汇编/王爽汇编实验/环境配置.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/中断描述符表和段描述符表.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
     "components",
     "components-20240531091613.components",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
