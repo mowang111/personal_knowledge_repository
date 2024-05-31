@@ -15,9 +15,6 @@
           "componentId": "eeb9c04e-b751-47d7-a739-4931f5b1de81"
         },
         {
-          "componentId": "13941d23-e1b0-4a41-913f-5d76510c818b"
-        },
-        {
           "componentId": "83148cf4-1674-4352-b3f8-6e1a9fcd7e2e"
         }
       ],
@@ -39,32 +36,6 @@
         "dialType": "circle",
         "showDateLabel": false
       }
-    },
-    {
-      "id": "13941d23-e1b0-4a41-913f-5d76510c818b",
-      "type": "button",
-      "titleAlign": "center",
-      "tabTitle": "",
-      "maxWidthRatio": -1,
-      "showBorder": false,
-      "showShadow": false,
-      "createAt": "2024-05-31T12:09:46.822Z",
-      "updateAt": "2024-05-31T12:09:46.822Z",
-      "text": "新建博客",
-      "buttonType": "common",
-      "clickActions": [
-        {
-          "type": "CallTemplater",
-          "id": "36a48c52-904a-4686-b1ad-ff8caf2103b7",
-          "options": {
-            "filePath": "Templates/博客笔记模板.md",
-            "fileName": "博客笔记模板.md"
-          }
-        }
-      ],
-      "checkActions": [],
-      "uncheckActions": [],
-      "isChecked": false
     },
     {
       "id": "83148cf4-1674-4352-b3f8-6e1a9fcd7e2e",

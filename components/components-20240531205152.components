@@ -33,10 +33,10 @@
       "groups": [],
       "viewOptions": {
         "openPageIn": "tab",
-        "itemSize": "components--page-card-medium",
+        "itemSize": "components--page-card-small",
         "showPropertyName": false,
         "cover": {
-          "type": "pageFirstImage",
+          "type": "none",
           "value": "",
           "fit": "contains",
           "layout": "components--page-card-cover-landscape"
