@@ -36,9 +36,9 @@
         "itemSize": "components--page-card-medium",
         "showPropertyName": false,
         "cover": {
-          "type": "pageFirstImage",
+          "type": "pageContent",
           "value": "",
-          "fit": "contains",
+          "fit": "fill",
           "layout": "components--page-card-cover-landscape"
         }
       },
