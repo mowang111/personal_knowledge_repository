@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md"
               }
             }
           },
@@ -214,8 +214,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "07854c6cad402291",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码2显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码1显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
@@ -256,9 +258,7 @@
     "1.学习笔记/a04.操作系统/Resource/xmind/文件系统底层函数.xmind",
     "Pasted image 20240530133637.png",
     "1.学习笔记/a04.操作系统/Resource/images/通过文件名最终找到对应文件磁盘块位置.png",
-    "1.学习笔记/a04.操作系统/Resource/images/ls-l显示的文件系统.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/Minix文件系统.xmind",
-    "1.学习笔记/a04.操作系统/Resource/images/Minix文件系统.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统",
     "2.项目/时间精力管理",
     "1.学习笔记/a04.操作系统/Resource/drawio/sched.drawio",
