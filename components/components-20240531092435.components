@@ -39,16 +39,29 @@
     },
     {
       "id": "13941d23-e1b0-4a41-913f-5d76510c818b",
-      "type": "timing",
+      "type": "button",
       "titleAlign": "center",
       "tabTitle": "",
       "maxWidthRatio": -1,
-      "showBorder": true,
+      "showBorder": false,
       "showShadow": false,
-      "createAt": "2024-05-31T12:09:16.507Z",
-      "updateAt": "2024-05-31T12:09:16.507Z",
-      "showStartDateTime": true,
-      "timeTextPattern": "yMdHms"
+      "createAt": "2024-05-31T12:09:46.822Z",
+      "updateAt": "2024-05-31T12:09:46.822Z",
+      "text": "新建博客",
+      "buttonType": "common",
+      "clickActions": [
+        {
+          "type": "CallTemplater",
+          "id": "36a48c52-904a-4686-b1ad-ff8caf2103b7",
+          "options": {
+            "filePath": "Templates/博客笔记模板.md",
+            "fileName": "博客笔记模板.md"
+          }
+        }
+      ],
+      "checkActions": [],
+      "uncheckActions": [],
+      "isChecked": false
     }
   ],
   "rootComponentId": "73a781a2-6696-465c-acae-e6968fbc62e4"
