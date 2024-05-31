@@ -13,9 +13,6 @@
       "components": [
         {
           "componentId": "eeb9c04e-b751-47d7-a739-4931f5b1de81"
-        },
-        {
-          "componentId": "c3d46909-88ef-4338-bd83-3054a5fe93fd"
         }
       ],
       "layoutType": "column"
@@ -35,32 +32,6 @@
         "showTimeLabel": false,
         "dialType": "circle",
         "showDateLabel": false
-      }
-    },
-    {
-      "id": "c3d46909-88ef-4338-bd83-3054a5fe93fd",
-      "type": "dynamicDataView",
-      "titleAlign": "center",
-      "tabTitle": "",
-      "maxWidthRatio": -1,
-      "showBorder": false,
-      "showShadow": false,
-      "createAt": "2024-05-31T11:59:16.676Z",
-      "updateAt": "2024-05-31T11:59:16.676Z",
-      "viewType": "gallary",
-      "properties": [],
-      "templates": [],
-      "groups": [],
-      "viewOptions": {
-        "openPageIn": "tab",
-        "itemSize": "components--page-card-medium",
-        "showPropertyName": false,
-        "cover": {
-          "type": "pageFirstImage",
-          "value": "",
-          "fit": "contains",
-          "layout": "components--page-card-cover-landscape"
-        }
       }
     }
   ],

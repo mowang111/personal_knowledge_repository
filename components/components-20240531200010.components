@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "id": "ffa6c4f6-d5fa-4dd9-a025-5ae097cc2ad0",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-31T12:00:10.440Z",
+      "updateAt": "2024-05-31T12:00:10.440Z",
+      "components": [
+        {
+          "componentId": "a8ea4bee-07bb-4dd2-bb32-acb69f17daac"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "a8ea4bee-07bb-4dd2-bb32-acb69f17daac",
+      "type": "dataview",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-31T12:00:22.441Z",
+      "updateAt": "2024-05-31T12:00:22.441Z",
+      "query": "",
+      "queryType": "dataview",
+      "maxHeight": 300,
+      "dynamicParamComponents": []
+    }
+  ],
+  "rootComponentId": "ffa6c4f6-d5fa-4dd9-a025-5ae097cc2ad0"
+}
