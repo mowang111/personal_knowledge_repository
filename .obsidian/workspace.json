@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统page.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统page.md"
               }
             }
           },
@@ -215,12 +215,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "8bb4b18964eb1849",
   "lastOpenFiles": [
+    "0.home page.md",
+    "1.学习笔记/a04.操作系统/操作系统page.md",
     "components/components-20240531205152.components",
     "Untitled.md",
     "博客",
-    "0.home page.md",
     "Templates/博客笔记模板.md",
     "smart-chats/UNTITLED CHAT 2024-05-22 10 56 31.md",
     "copilot-conversations/Chat-2024_05_31-20_07_37.md",
@@ -262,7 +263,6 @@
     "Pasted image 20240530133637.png",
     "1.学习笔记/a04.操作系统/Resource/images/通过文件名最终找到对应文件磁盘块位置.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/Minix文件系统.xmind",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
