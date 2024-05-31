@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.读书笔记/为什么精英都是时间控.md",
+                "file": "0.home page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.读书笔记/为什么精英都是时间控.md",
+                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.读书笔记/为什么精英都是时间控.md",
+                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.读书笔记/为什么精英都是时间控.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4.读书笔记/为什么精英都是时间控.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "69e0c4ca5bd1a367",
   "lastOpenFiles": [
+    "4.读书笔记/为什么精英都是时间控.md",
     "1.学习笔记/a04.操作系统/操作系统.md",
     "4.读书笔记/认知觉醒/认知觉醒.md",
     "4.读书笔记/当下的力量（白金版）.md",
@@ -224,7 +225,6 @@
     "0.home page.md",
     "components/components-20240531215050.components",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
-    "4.读书笔记/为什么精英都是时间控.md",
     "Templates/博客笔记模板.md",
     "components/components-20240531210019.components",
     "components/components-20240531205152.components",

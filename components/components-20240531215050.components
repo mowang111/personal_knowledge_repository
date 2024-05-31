@@ -10,8 +10,53 @@
       "showShadow": false,
       "createAt": "2024-05-31T13:50:50.769Z",
       "updateAt": "2024-05-31T13:50:50.769Z",
-      "components": [],
+      "components": [
+        {
+          "componentId": "21cdbce4-bc69-4c73-91db-110d45e15144"
+        }
+      ],
       "layoutType": "column"
+    },
+    {
+      "id": "21cdbce4-bc69-4c73-91db-110d45e15144",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-05-31T13:52:43.183Z",
+      "updateAt": "2024-05-31T13:52:43.183Z",
+      "viewType": "gallary",
+      "properties": [],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-small",
+        "showPropertyName": false,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      },
+      "filter": {
+        "id": "fedd8d1a-9af5-4b74-9391-5093eff68532",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "84e6a71f-a702-4507-9179-81abf653ea3e",
+            "type": "filter",
+            "operator": "has_value",
+            "property": "doc_type",
+            "value": null,
+            "conditions": []
+          }
+        ]
+      }
     }
   ],
   "rootComponentId": "3f0c8876-2978-4989-8edd-db032432783d"
