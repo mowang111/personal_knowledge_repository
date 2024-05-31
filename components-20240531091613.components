@@ -41,6 +41,21 @@
           "fit": "contains",
           "layout": "components--page-card-cover-landscape"
         }
+      },
+      "filter": {
+        "id": "2e8948c6-6e93-42ea-98ad-343253120822",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "b2d08686-0eb3-4e7d-b0c7-f51355a3cc2e",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.tags}",
+            "value": "",
+            "conditions": []
+          }
+        ]
       }
     }
   ],
