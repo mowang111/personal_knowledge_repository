@@ -56,6 +56,15 @@
             "conditions": []
           }
         ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "40e9fd37-e062-4199-9c66-c5d1cdc38364",
+            "property": "${file.mtime}",
+            "direction": "desc"
+          }
+        ]
       }
     }
   ],

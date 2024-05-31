@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a5db0ad96b60808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统.md"
               }
             }
           },
@@ -151,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统.md"
               }
             }
           },
@@ -215,12 +228,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69e0c4ca5bd1a367",
+  "active": "7a5db0ad96b60808",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统.md",
+    "0.home page.md",
     "Templates/博客笔记模板.md",
     "components/components-20240531210019.components",
-    "0.home page.md",
     "components/components-20240531205152.components",
     "Untitled.md",
     "博客",
@@ -230,7 +244,6 @@
     "components/components-20240531092435.components",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码2显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码1显示结果.png",
