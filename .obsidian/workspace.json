@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.home page.md",
+                "file": "4.读书笔记/福格行为模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "4.读书笔记/福格行为模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "4.读书笔记/福格行为模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "4.读书笔记/福格行为模型.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "4.读书笔记/福格行为模型.md"
               }
             }
           },
@@ -230,10 +230,11 @@
   },
   "active": "eba770e3e6d7605f",
   "lastOpenFiles": [
+    "0.home page.md",
+    "components/components-20240531215050.components",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "4.读书笔记/为什么精英都是时间控.md",
     "1.学习笔记/a04.操作系统/操作系统.md",
-    "0.home page.md",
     "Templates/博客笔记模板.md",
     "components/components-20240531210019.components",
     "components/components-20240531205152.components",
@@ -262,7 +263,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/Makefile文件.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）/8.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）/main.c.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/疑惑解答.md",
     "components",
     "components-20240531091613.components",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
@@ -273,7 +273,6 @@
     "1.学习笔记/a04.操作系统/Resource/xmind/文件中数据的访问操作.xmind",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统底层操作函数层次关系.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统底层函数.png",
-    "1.学习笔记/a04.操作系统/Resource/xmind/文件系统底层函数.xmind",
     "Pasted image 20240530133637.png",
     "1.学习笔记/a04.操作系统/Resource/images/通过文件名最终找到对应文件磁盘块位置.png",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
