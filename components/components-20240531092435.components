@@ -15,7 +15,7 @@
           "componentId": "25de01bf-125c-4706-b404-efc36084bae2"
         }
       ],
-      "layoutType": "tab"
+      "layoutType": "column"
     },
     {
       "id": "25de01bf-125c-4706-b404-efc36084bae2",
