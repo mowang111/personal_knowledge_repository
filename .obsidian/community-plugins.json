@@ -13,5 +13,6 @@
   "obsidian-to-anki-plugin",
   "copilot",
   "components",
-  "contribution-graph"
+  "contribution-graph",
+  "templater-obsidian"
 ]
