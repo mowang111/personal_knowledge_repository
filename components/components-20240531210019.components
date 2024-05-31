@@ -52,7 +52,7 @@
             "type": "filter",
             "operator": "contains",
             "property": "${file.path}",
-            "value": null,
+            "value": "1.学习笔记/a04.操作系统",
             "conditions": []
           }
         ]
