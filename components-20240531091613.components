@@ -19,20 +19,29 @@
     },
     {
       "id": "e91c1914-d539-487d-a1a7-07d71664d9c7",
-      "type": "button",
+      "type": "dynamicDataView",
       "titleAlign": "center",
       "tabTitle": "",
       "maxWidthRatio": -1,
       "showBorder": false,
       "showShadow": false,
-      "createAt": "2024-05-31T01:20:01.123Z",
-      "updateAt": "2024-05-31T01:20:01.123Z",
-      "text": "未命名",
-      "buttonType": "common",
-      "clickActions": [],
-      "checkActions": [],
-      "uncheckActions": [],
-      "isChecked": false
+      "createAt": "2024-05-31T01:20:36.225Z",
+      "updateAt": "2024-05-31T01:20:36.225Z",
+      "viewType": "gallary",
+      "properties": [],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      }
     }
   ],
   "rootComponentId": "0c02e1a8-f108-4c18-a728-1230efc09849"
