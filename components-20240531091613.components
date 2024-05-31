@@ -50,12 +50,15 @@
           {
             "id": "b2d08686-0eb3-4e7d-b0c7-f51355a3cc2e",
             "type": "filter",
-            "operator": "contains",
-            "property": "${file.tags}",
-            "value": "",
+            "operator": "not_contains",
+            "property": "${file.path}",
+            "value": "归档",
             "conditions": []
           }
         ]
+      },
+      "sort": {
+        "orders": []
       }
     }
   ],
