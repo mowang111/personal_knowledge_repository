@@ -68,17 +68,23 @@
     },
     {
       "id": "83148cf4-1674-4352-b3f8-6e1a9fcd7e2e",
-      "type": "timing",
+      "type": "countdown",
       "titleAlign": "center",
       "tabTitle": "",
       "maxWidthRatio": -1,
       "showBorder": true,
       "showShadow": false,
-      "createAt": "2024-05-31T12:15:52.512Z",
-      "updateAt": "2024-05-31T12:15:52.512Z",
-      "showStartDateTime": true,
-      "timeTextPattern": "yMdHms",
-      "startDateTime": "2024-01-01 20:16:16"
+      "createAt": "2024-05-31T12:16:36.640Z",
+      "updateAt": "2024-05-31T12:16:36.640Z",
+      "repeatType": "none",
+      "showEndDateTime": true,
+      "endHour": 0,
+      "endMinute": 0,
+      "endSecond": 0,
+      "title": "今年还剩",
+      "endYear": 2024,
+      "endMonth": 11,
+      "endDayOfMonth": 31
     }
   ],
   "rootComponentId": "73a781a2-6696-465c-acae-e6968fbc62e4"
