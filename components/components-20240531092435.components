@@ -12,48 +12,56 @@
       "updateAt": "2024-05-31T01:24:35.148Z",
       "components": [
         {
-          "componentId": "25de01bf-125c-4706-b404-efc36084bae2"
+          "componentId": "eeb9c04e-b751-47d7-a739-4931f5b1de81"
+        },
+        {
+          "componentId": "c3d46909-88ef-4338-bd83-3054a5fe93fd"
         }
       ],
       "layoutType": "column"
     },
     {
-      "id": "25de01bf-125c-4706-b404-efc36084bae2",
-      "type": "quote",
+      "id": "eeb9c04e-b751-47d7-a739-4931f5b1de81",
+      "type": "clock",
       "titleAlign": "center",
       "tabTitle": "",
       "maxWidthRatio": -1,
       "showBorder": true,
-      "showShadow": true,
-      "createAt": "2024-05-31T01:25:06.105Z",
-      "updateAt": "2024-05-31T01:25:06.105Z",
-      "contentType": "block",
-      "coverType": "pageFirstImage",
-      "filter": {
-        "id": "27e2112d-6b5e-45b1-a458-ceabda86312f",
-        "type": "group",
-        "operator": "and",
-        "conditions": [
-          {
-            "id": "4d8d0746-93dc-4d82-8a7c-ecf25141275a",
-            "type": "filter",
-            "operator": "not_contains",
-            "property": "${file.path}",
-            "value": "归档",
-            "conditions": []
-          },
-          {
-            "id": "b4f98015-9a4c-45c6-9ed6-e83a66bc17cc",
-            "type": "filter",
-            "operator": "not_contains",
-            "property": "${file.path}",
-            "value": "3.笔记阻塞池",
-            "conditions": []
-          }
-        ]
-      },
-      "maxHeight": 236,
-      "backgroundColor": "#b4cddeff"
+      "showShadow": false,
+      "createAt": "2024-05-31T11:58:58.000Z",
+      "updateAt": "2024-05-31T11:58:58.000Z",
+      "maxHeight": 300,
+      "clockOptions": {
+        "showTimeLabel": false,
+        "dialType": "circle",
+        "showDateLabel": false
+      }
+    },
+    {
+      "id": "c3d46909-88ef-4338-bd83-3054a5fe93fd",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-05-31T11:59:16.676Z",
+      "updateAt": "2024-05-31T11:59:16.676Z",
+      "viewType": "gallary",
+      "properties": [],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      }
     }
   ],
   "rootComponentId": "73a781a2-6696-465c-acae-e6968fbc62e4"
