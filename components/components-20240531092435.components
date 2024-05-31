@@ -13,6 +13,9 @@
       "components": [
         {
           "componentId": "eeb9c04e-b751-47d7-a739-4931f5b1de81"
+        },
+        {
+          "componentId": "13941d23-e1b0-4a41-913f-5d76510c818b"
         }
       ],
       "layoutType": "column"
@@ -33,6 +36,19 @@
         "dialType": "circle",
         "showDateLabel": false
       }
+    },
+    {
+      "id": "13941d23-e1b0-4a41-913f-5d76510c818b",
+      "type": "timing",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-31T12:09:16.507Z",
+      "updateAt": "2024-05-31T12:09:16.507Z",
+      "showStartDateTime": true,
+      "timeTextPattern": "yMdHms"
     }
   ],
   "rootComponentId": "73a781a2-6696-465c-acae-e6968fbc62e4"
