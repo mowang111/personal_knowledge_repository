@@ -10,8 +10,29 @@
       "showShadow": false,
       "createAt": "2024-05-31T01:16:13.075Z",
       "updateAt": "2024-05-31T01:16:13.075Z",
-      "components": [],
+      "components": [
+        {
+          "componentId": "e91c1914-d539-487d-a1a7-07d71664d9c7"
+        }
+      ],
       "layoutType": "column"
+    },
+    {
+      "id": "e91c1914-d539-487d-a1a7-07d71664d9c7",
+      "type": "button",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-05-31T01:20:01.123Z",
+      "updateAt": "2024-05-31T01:20:01.123Z",
+      "text": "未命名",
+      "buttonType": "common",
+      "clickActions": [],
+      "checkActions": [],
+      "uncheckActions": [],
+      "isChecked": false
     }
   ],
   "rootComponentId": "0c02e1a8-f108-4c18-a728-1230efc09849"
