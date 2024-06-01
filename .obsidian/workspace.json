@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "33370b8cfcd1b93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.读书笔记/为什么精英都是时间控.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -227,12 +215,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "43aa36b67adf2cd6",
   "lastOpenFiles": [
+    "4.读书笔记/为什么精英都是时间控.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "0.home page.md",
     "4.读书笔记/高效能人士的七个习惯（30周年纪念版）（全新增订版）.md",
     "4.读书笔记/认知觉醒：开启自我改变的原动力.md",
-    "4.读书笔记/为什么精英都是时间控.md",
     "1.学习笔记/a05.设计模式/HeadFirst设计模式/1.策略模式——Duck.md",
     "1.学习笔记/a05.设计模式/HeadFirst设计模式/2.观察者模式.md",
     "1.学习笔记/a05.设计模式/HeadFirst设计模式/3.装饰者模式.md",
@@ -257,13 +247,11 @@
     "components/components-20240531200010.components",
     "components/components-20240531092435.components",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码2显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码1显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
-    "1.学习笔记/a04.操作系统/Linux/常用工具/GDB 常用命令实战.md",
     "components",
     "components-20240531091613.components",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
