@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md"
               }
             }
           },
@@ -217,6 +217,8 @@
   },
   "active": "43aa36b67adf2cd6",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/modified-files/include/linux/kernel.h",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/modified-files/kernel/sched.c",
@@ -228,7 +230,6 @@
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/modified-files/kernel",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/modified-files/include",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/modified-files/fs",
-    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）/main.c.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
@@ -253,7 +254,6 @@
     "Templates/博客笔记模板.md",
     "Untitled.md",
     "smart-chats/UNTITLED CHAT 2024-05-22 10 56 31.md",
-    "copilot-conversations/Chat-2024_05_31-20_07_37.md",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码2显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码1显示结果.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
