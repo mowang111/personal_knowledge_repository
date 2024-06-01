@@ -1,3 +1,4 @@
+在做进程运行轨迹的跟踪与统计实验时，需要编写fprintk函数来打印日志，书上是这样写的：
 ```c
 //fprintk（）代码实现
 static char logbuf ［1024］；
@@ -14,4 +15,5 @@ int fprintk（int fd, const char *fmt，...）
 	return count;
 }
 ```
+看上去很有道理
 
