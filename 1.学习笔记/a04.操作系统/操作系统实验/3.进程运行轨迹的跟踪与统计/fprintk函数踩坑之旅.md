@@ -15,5 +15,5 @@ int fprintk（int fd, const char *fmt，...）
 	return count;
 }
 ```
-看上去很有道理
+看上去很有道理，
 
