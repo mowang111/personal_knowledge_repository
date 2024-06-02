@@ -71,7 +71,7 @@ printk.o: printk.c
 ```
 然后打印出的fd终于正确了！
 ## 坑2: do_exit的特殊
-但是还是写入不了退出的进程信息，后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了（之前以为统一在`do_exit`里回收），换成下面的写法，直接通过0号进程找文件指针，跳过`sys_write`，直接使用
+但是还是写入不了退出的进程信息，后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了（之前以为统一在`do_exit`里回收），换成下面的写法，直接通过0号进程找文件指针，跳过`sys_write`，直接使用`file_write`:
 ```c
 //fprintk（）代码实现
 static char logbuf[1024];
