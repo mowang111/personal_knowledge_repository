@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "0d1c1f05242f4f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7befbadb1391f6fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "fd1449062cb08f38",
         "type": "tabs",
         "children": [
@@ -217,8 +235,9 @@
   },
   "active": "bcc3d8a3a5642d9a",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/未命名.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/modified-files/include/linux/kernel.h",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/modified-files/kernel/sched.c",
@@ -253,7 +272,6 @@
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "Templates/博客笔记模板.md",
     "Untitled.md",
-    "smart-chats/UNTITLED CHAT 2024-05-22 10 56 31.md",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码2显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码1显示结果.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
