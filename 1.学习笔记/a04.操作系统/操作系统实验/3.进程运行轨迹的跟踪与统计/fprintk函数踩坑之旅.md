@@ -215,5 +215,7 @@ int fprintk(int fd, const char *fmt, ...)
 	return count;
 }
 ```
-到了这一步，zhi s
+到了这一步，只是把一段汇编分成两段来写，但是产生的效果完全不一样：
+[[嵌入汇编代码1显示结果.png]]
+
 
