@@ -15,5 +15,6 @@ int fprintk(int fd, const char *fmt, ...)
 	return count;
 }
 ```
-看上去很有道理，
+看上去很有道理，但是调用的时候发现很多问题。
+首先，
 
