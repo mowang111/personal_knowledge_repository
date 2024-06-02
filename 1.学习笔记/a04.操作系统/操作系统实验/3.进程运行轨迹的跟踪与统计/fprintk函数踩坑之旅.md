@@ -179,7 +179,7 @@ int fprintk(int fd, const char *fmt, ...)
     return count;
 }
 ```
-仔细看下来，发现本质是一样的啊，只不过他是用汇编实现的`file_write`调用，我是用c实现的而已，为了找出区别，然后我做了以下尝试，将代码一步一步替换成大佬的代码：
+仔细看下来，发现本质是一样的啊，只不过他是用汇编实现的`file_write`调用，我是用c实现的而已，为了找出区别，然后我做了以下尝试，将代码一步一步替换成大佬的代码，下面是代码1（大佬的代码称为代码2）：
 ```c
 static char logbuf[1024];
 int fprintk(int fd, const char *fmt, ...)
@@ -216,6 +216,36 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 到了这一步，只是把一段汇编分成两段来写，但是产生的效果完全不一样：
-[[嵌入汇编代码1显示结果.png]]
+![[嵌入汇编代码1显示结果.png]]
+接着跟踪调试，定位到具体报错代码是在调用`file_write(struct m_inode * inode, struct file * filp, char * buf, int count)`时，执行`bh=bread(inode->i_dev,block)`报错，可以猜测是`inode`的值错了，导致其中存的i节点设备不存在。
+那这个值为什么会错呢？接下来，对代码1和代码2分吧进行反汇编调试，涉及`__asm__`相关的代码如下：
+```asm 代码1
+0x84b3 <fprintk+97>     push   %fs                                        0x84b5 <fprintk+99>     push   %ds                                        0x84b6 <fprintk+100>    pop    %fs                                        0x84b8 <fprintk+102>    mov    0x18(%esp),%edi                            0x84bc <fprintk+106>    mov    0x14(%esp),%esi                            0x84c0 <fprintk+110>    mov    0x10(%esp),%ebx                            0x84c4 <fprintk+114>    push   %edi                                       0x84c5 <fprintk+115>    push   $0x1fb00
+0x84ca <fprintk+120>    push   %esi                                       0x84cb <fprintk+121>    push   %ebx                                       0x84cc <fprintk+122>    call   0xde1d <file_write>                        0x84d1 <fprintk+127>    add    $0xc,%esp                                  0x84d4 <fprintk+130>    pop    %edi                                       0x84d5 <fprintk+131>    pop    %fs
+```
+
+```asm 代码2
+0x84b3 <fprintk+97>     mov    0x18(%esp),%edi                  
+0x84b7 <fprintk+101>    mov    0x14(%esp),%esi                 
+0x84bb <fprintk+105>    mov    0x10(%esp),%ebx                  
+0x84bf <fprintk+109>    push   %fs                       
+0x84c1 <fprintk+111>    push   %ds                          
+0x84c2 <fprintk+112>    pop    %fs                 
+0x84c4 <fprintk+114>    push   %edi
+0x84c5 <fprintk+115>    push   $0x1fb00        
+0x84ca <fprintk+120>    push   %esi                 
+0x84cb <fprintk+121>    push   %ebx                
+0x84cc <fprintk+122>    call   0xde1d <file_write>
+0x84d1 <fprintk+127>    add    $0xc,%esp
+0x84d4 <fprintk+130>    pop    %edi
+0x84d5 <fprintk+131>    pop    %fs
+```
+
+可以看出两者的区别仅在于这六行代码的顺序不同，这个很好理解，`__asm__`嵌入汇编前会做一些处理。
+```asm
+0x84b3 <fprintk+97>     push   %fs                                        0x84b5 <fprintk+99>     push   %ds                                        0x84b6 <fprintk+100>    pop    %fs
+0x84b8 <fprintk+102>    mov    0x18(%esp),%edi                            0x84bc <fprintk+106>    mov    0x14(%esp),%esi                            0x84c0 <fprintk+110>    mov    0x10(%esp),%ebx
+```
+前面三行是自己写的，后面三行是将count,file,inode三个变量的值保存到寄存器中，函数中的局部变量保存在堆栈中，故它们三个都是通过esp寄存器加上一定的偏移找到，而push指令会导致esp寄存器中的值增加，相应的偏移量确没有改变，导致上述三个变量的值错了，编译器无法识别嵌入汇编中的push指令对esp寄存器的影响，所以这种嵌入汇编还是尽量写到一起。
 
 
