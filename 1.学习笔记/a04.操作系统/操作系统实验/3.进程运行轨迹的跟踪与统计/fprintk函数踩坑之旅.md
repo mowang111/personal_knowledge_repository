@@ -16,7 +16,7 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 看上去很有道理，但是调用的时候发现很多问题。
-当我`do_exit`函数中调用`fprintk`时，死活打印不出来，后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了，没辙，换成下面的写法，直接0号进程
+当我`do_exit`函数中调用`fprintk`时，死活打印不出来，后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了，没辙，换成下面的写法，直接通过0号进程找文件指针：
 ```c
 //fprintk（）代码实现
 static char logbuf[1024];
@@ -36,4 +36,5 @@ int fprintk(int fd, const char *fmt, ...)
 	return count;
 }
 ```
+但是
 
