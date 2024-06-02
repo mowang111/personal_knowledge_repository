@@ -93,4 +93,5 @@ int fprintk(int fd, const char *fmt, ...)
 ```
 这下总行了吧？
 ## 坑3: logbuf对应的段地址是内核空间
+运行后发现log文件内容变成了乱码，？？？我迷惑了，于是ge
 
