@@ -16,5 +16,5 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 看上去很有道理，但是调用的时候发现很多问题。
-首先，
+当我`do_exit`函数中调用`fprintk`时，死活打印不出来，后来tiao shi
 
