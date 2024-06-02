@@ -92,5 +92,5 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 这下总行了吧？
-## 坑3: logbufzhi zh
+## 坑3: logbuf对应的段地址是内核空间
 
