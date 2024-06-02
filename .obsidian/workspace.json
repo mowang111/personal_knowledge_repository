@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcc3d8a3a5642d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "copilot-conversations/Chat-2024_05_31-20_07_37.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "65b2827709f52f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copilot-conversations/Chat-2024_05_31-20_07_37.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "copilot-conversations/Chat-2024_05_31-20_07_37.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot-conversations/Chat-2024_05_31-20_07_37.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md"
               }
             }
           },
@@ -163,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "copilot-conversations/Chat-2024_05_31-20_07_37.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md"
               }
             }
           },
@@ -227,11 +215,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bcc3d8a3a5642d9a",
+  "active": "65b2827709f52f38",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
+    "copilot-conversations/Chat-2024_05_31-20_07_37.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验报告.md",
@@ -266,7 +255,6 @@
     "4.读书笔记/精力管理.md",
     "1.学习笔记/a04.操作系统/操作系统.md",
     "4.读书笔记/当下的力量（白金版）.md",
-    "4.读书笔记/福格行为模型.md",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码2显示结果.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/嵌入汇编代码1显示结果.png",
     "1.学习笔记/a04.操作系统/Resource/images/文件系统上层操作.png",
