@@ -216,7 +216,9 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 到了这一步，只是把一段汇编分成两段来写，但是产生的效果完全不一样：
-![[嵌入汇编代码1显示结果.png]]
+代码1显示结果：
+![[嵌入汇编代码1显示结果.png]]代码2显示结果：
+![[嵌入汇编代码2显示结果.png]]
 接着跟踪调试，定位到具体报错代码是在调用`file_write(struct m_inode * inode, struct file * filp, char * buf, int count)`时，执行`bh=bread(inode->i_dev,block)`报错，可以猜测是`inode`的值错了，导致其中存的i节点设备不存在。
 那这个值为什么会错呢？接下来，对代码1和代码2分吧进行反汇编调试，涉及`__asm__`相关的代码如下：
 ```asm 代码1
