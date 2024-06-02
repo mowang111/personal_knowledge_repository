@@ -73,7 +73,6 @@ printk.o: printk.c
 ## 坑2: do_exit的特殊
 但是还是写入不了退出的进程信息，后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了（之前以为统一在`do_exit`里回收），换成下面的写法，直接通过0号进程找文件指针，跳过`sys_write`，直接使用`file_write`:
 ```c
-//fprintk（）代码实现
 static char logbuf[1024];
 int fprintk(int fd, const char *fmt, ...)
 {
@@ -92,10 +91,28 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 这下总行了吧？
-## 坑3: logbuf对应的段地址是内核空间
+## 坑3: logbuf在内核数据段
 运行后发现log文件内容变成了乱码，？？？我迷惑了，于是跟进`file_write`函数内部查看，发现了这样一行代码：
 ```c
 get_fs_byte(buf++);
 ```
-好像有点熟悉，这不是系统调用那个实验时，从用户空间拿字符的方式吗，猛然想起`logbuf`是在内核空间的，需要先将`fs`
+好像有点熟悉，这不是系统调用那个实验时，从用户空间拿字符的方式吗，猛然想起`logbuf`是在内核数据段的的，需要手动先将`fs`换成`ds`，于是有了以下代码：
+```c
+static char logbuf[1024];
+int fprintk(int fd, const char *fmt, ...)
+{
+	va_list args;
+	int count;
+	struct file * file;
+	struct minode * inode;
+	va_start(args, fmt);
+	count = vsprintf(logbuf, fmt, args);
+	va_end(args);
+	if (!(file=task[0]->filp[fd]))    /* 从进程0的文件描述符表中得到文件句柄 */
+        return 0;
+	inode = file->f_inode;
+	count = file_write(inode,file,logbuf,count);
+	return count;
+}
+```
 
