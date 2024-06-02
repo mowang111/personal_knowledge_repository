@@ -111,6 +111,7 @@ int fprintk(int fd, const char *fmt, ...)
 	if (!(file=task[0]->filp[fd]))    /* 从进程0的文件描述符表中得到文件句柄 */
         return 0;
 	inode = file->f_inode;
+	__asm__
 	count = file_write(inode,file,logbuf,count);
 	return count;
 }
