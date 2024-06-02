@@ -48,8 +48,7 @@ printk("exit fd: %d\n", fd);
 fprintk(fd);
 ...
 ```
-实际实验中，发现打印出来的fd不是3，而是一个很奇怪的值，就不知道是为什么。经过stackoverflow上的老哥提示
-尝试修改编译器优化参数-O为-O0，禁止编译器优化（只针对exit和printk两个文件）
+实际实验中，发现打印出来的fd不是3，而是一个很奇怪的值，就不知道是为什么。经过stackoverflow上的老哥提示，尝试修改编译器优化参数-O为-O0，禁止编译器优化（只针对exit和printk两个文件）
 ```makefile
 kernel.o: $(OBJS)
 	$(LD) -m elf_i386 -r -o kernel.o $(OBJS)
@@ -70,6 +69,9 @@ printk.o: printk.c
 	$(CC) $(CFLAGS) \
 	-c -o $*.o $<
 ```
+然后打印出的fd终于正确了！
+## 坑2: do_exit的特殊
+但是还是
 后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了，没辙，换成下面的写法，直接通过0号进程找文件指针：
 ```c
 //fprintk（）代码实现
