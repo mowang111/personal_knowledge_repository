@@ -32,7 +32,7 @@ int fprintk(int fd, const char *fmt, ...)
 	if (!(file=task[0]->filp[fd]))    /* 从进程0的文件描述符表中得到文件句柄 */
             return 0;
 		inode = file->f_inode;
-	if (fd == 3) count = sys_write(fd, logbuf, count);
+	count = 
 	return count;
 }
 ```
