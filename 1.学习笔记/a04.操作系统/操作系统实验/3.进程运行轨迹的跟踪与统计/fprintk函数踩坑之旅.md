@@ -16,8 +16,39 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 看上去很有道理，但是调用的时候发现很多问题。
-当我`do_exit`函数中调用`fprintk`时，死活打印不出来，我想着可能是fd出了问题，然后把fd打印出来：
-
+## 坑1：编译器优化
+当我`do_exit`函数中调用`fprintk`时，死活打印不出来，我想着可能是fd出了问题，于是简化了一下函数，然后把fd打印出来：
+```c
+// static char logbuf[1024];
+int fprintk(int fd)
+{
+	printk("--------------------------------------\n");
+	printk("fprintk called with fd: %d\n", fd);  // 调试信息
+	// va_list args;
+	// int count;
+	// va_start(args, fmt);
+	// count = vsprintf(logbuf, fmt, args);
+	// va_end(args);
+	// printk("fprintk: formatted string: %s\n", logbuf);  // 调试信息
+	// if (fd == 3) {
+	// 	count = sys_write(fd, logbuf, count);
+	// 	printk("fprintk: written %d bytes to fd %d\n", count, fd);  // 调试信息
+	// }
+	printk("--------------------------------------\n");
+	// return count;
+	return 0;
+}
+```
+接着在`/kernel/exit.c`的`do_exit()`函数中添加该函数调用：
+```c
+int fd = 3;
+......
+printk("exit fd: %d\n", fd);
+// fprintk(fd, "%ld\t%c\t%ld\n", current->pid, 'E', jiffies);
+fprintk(fd);
+...
+```
+实际实验中，发现打印出来的fd不是3，而是一个很奇怪的值，就不知道是为什么。
 后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了，没辙，换成下面的写法，直接通过0号进程找文件指针：
 ```c
 //fprintk（）代码实现
