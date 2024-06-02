@@ -179,8 +179,41 @@ int fprintk(int fd, const char *fmt, ...)
     return count;
 }
 ```
-仔细看下来，发现本质是一样的啊，只不过他是用汇编实现的`file_write`调用，我是用c实现的而已，然后我做了以下尝试，将代码改成：
+仔细看下来，发现本质是一样的啊，只不过他是用汇编实现的`file_write`调用，我是用c实现的而已，为了找出区别，然后我做了以下尝试，将代码一步一步替换成大佬的代码：
 ```c
-
+static char logbuf[1024];
+int fprintk(int fd, const char *fmt, ...)
+{
+	va_list args;
+	int count;
+	struct file * file;
+	struct m_inode * inode;
+	va_start(args, fmt);
+	count = vsprintf(logbuf, fmt, args);
+	va_end(args);
+	if (fd == 3) {
+		// get file by 1 process
+		if (!(file=task[0]->filp[fd]))    /* 从进程0的文件描述符表中得到文件句柄 */
+            return 0;
+		inode = file->f_inode;
+		__asm__("push %%fs\n\t"
+				"push %%ds\n\t"
+				"pop %%fs\n\t"
+				::);
+		__asm__("pushl %0\n\t"
+				"pushl $logbuf\n\t"
+				"pushl %1\n\t"
+				"pushl %2\n\t"
+				"call file_write\n\t"
+				"addl $12,%%esp\n\t"
+				"popl %0\n\t"
+				"pop %%fs\n\t"
+				::"r"(count), "r"(file), "r"(inode):"ax","cx","dx");
+		printk("logbuf: %s\n", logbuf);
+		printk("write %d bytes\n", count);
+	}
+	return count;
+}
 ```
+到了这一步，zhi s
 
