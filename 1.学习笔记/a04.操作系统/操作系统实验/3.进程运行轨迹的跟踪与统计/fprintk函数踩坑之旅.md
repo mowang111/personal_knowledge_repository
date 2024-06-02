@@ -16,5 +16,5 @@ int fprintk(int fd, const char *fmt, ...)
 }
 ```
 看上去很有道理，但是调用的时候发现很多问题。
-当我`do_exit`函数中调用`fprintk`时，死活打印不出来，后来tiao shi
+当我`do_exit`函数中调用`fprintk`时，死活打印不出来，后来调试发现进程调用`do_exit`前已经把log相关的fd关闭了，没辙
 
