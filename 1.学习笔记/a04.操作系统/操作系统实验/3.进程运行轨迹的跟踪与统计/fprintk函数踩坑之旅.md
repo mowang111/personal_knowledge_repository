@@ -93,5 +93,9 @@ int fprintk(int fd, const char *fmt, ...)
 ```
 这下总行了吧？
 ## 坑3: logbuf对应的段地址是内核空间
-运行后发现log文件内容变成了乱码，？？？我迷惑了，于是ge
+运行后发现log文件内容变成了乱码，？？？我迷惑了，于是跟进`file_write`函数内部查看，发现了这样一行代码：
+```c
+get_fs_byte(buf++);
+```
+
 
