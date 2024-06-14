@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
+                "file": "0.home page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
+                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
+                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -218,6 +218,7 @@
   },
   "active": "cdefe96328d4aea1",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统.md",
     "Templates/博客笔记模板.md",
     "Templates",
@@ -255,7 +256,6 @@
     "归档/y02.实习/项目文档/点击输入/点击/点击业务整理.md",
     "归档/y02.实习/Windows开发/Windows核心编程/1.程序员必读/2.Unicode.md",
     "归档/y02.实习/Windows开发/Windows核心编程/1.程序员必读/1.对程序错误的处理.md",
-    "归档/y02.实习/Windows开发/Windows开发不完全指南/编程基础/结构体内存对齐.md",
     "归档/硕士论文/线路失稳情况.png",
     "归档/硕士论文/暂态稳定判断算法.png",
     "归档/硕士论文/数据分类流程图.png",
