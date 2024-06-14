@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "8f53ab04-628c-4b35-8545-5f26622f5cd1",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-13T07:58:55.776Z",
+      "updateAt": "2024-05-13T07:58:55.776Z",
+      "components": [
+        {
+          "componentId": "8e0978ff-9aed-45f9-b50b-585d59078a23"
+        },
+        {
+          "componentId": "aeffeb64-7ebc-4a7e-8c9e-e6d526d51adf"
+        },
+        {
+          "componentId": "230e99b7-8642-49dd-a891-92bf291eb110"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "8e0978ff-9aed-45f9-b50b-585d59078a23",
+      "type": "countdown",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-24T12:32:24.018Z",
+      "updateAt": "2024-05-24T12:32:24.021Z",
+      "repeatType": "daily",
+      "showEndDateTime": true,
+      "endHour": 23,
+      "endMinute": 30,
+      "endSecond": 0,
+      "timeTextPattern": "Hms",
+      "title": "😴\n我发誓\n今天不熬夜"
+    },
+    {
+      "id": "aeffeb64-7ebc-4a7e-8c9e-e6d526d51adf",
+      "type": "dateProgress",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-24T12:37:45.477Z",
+      "updateAt": "2024-05-24T12:37:45.477Z",
+      "showDateIndicator": true,
+      "showProgressIndicator": true,
+      "startDateTimeType": "$specifiedDateTime",
+      "endDateTimeType": "$specifiedDateTime",
+      "uiType": "bar",
+      "title": "😎\n何以解忧\n唯有退休",
+      "startDateTime": "2000-04-11 00:00:00",
+      "endDateTime": "2060-04-11 00:00:00"
+    },
+    {
+      "id": "230e99b7-8642-49dd-a891-92bf291eb110",
+      "type": "timing",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-05-24T12:39:16.902Z",
+      "updateAt": "2024-05-24T12:39:16.902Z",
+      "showStartDateTime": true,
+      "timeTextPattern": "y",
+      "startDateTime": "2000-04-11 00:00:00",
+      "title": "🌏\n欢迎登入\n地球 Online"
+    }
+  ],
+  "rootComponentId": "8f53ab04-628c-4b35-8545-5f26622f5cd1"
+}

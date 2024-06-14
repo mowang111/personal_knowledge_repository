@@ -1,0 +1,63 @@
+{
+  "components": [
+    {
+      "id": "5faa678d-9bd5-4e3f-a638-5e485485f063",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-06-13T12:14:55.775Z",
+      "updateAt": "2024-06-13T12:14:55.775Z",
+      "components": [
+        {
+          "componentId": "a10b2255-339d-4324-8c41-5c169e21260c"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "a10b2255-339d-4324-8c41-5c169e21260c",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-06-13T12:21:10.384Z",
+      "updateAt": "2024-06-13T12:21:10.384Z",
+      "viewType": "table",
+      "newPageNameFormat": "{{date: YYYYMMDDHHmmss}}",
+      "properties": [
+        {
+          "id": "cb9ec2d2-8bef-409c-ac81-4fb7954bcfa2",
+          "alias": "",
+          "name": "未命名",
+          "type": "text",
+          "isShow": true,
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "hideFileName": false,
+        "wrapFileName": true,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      },
+      "newPageLocation": {
+        "location": "1.学习笔记/b01.英语/口语/口语短语积累"
+      }
+    }
+  ],
+  "rootComponentId": "5faa678d-9bd5-4e3f-a638-5e485485f063"
+}

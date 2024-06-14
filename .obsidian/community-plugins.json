@@ -12,7 +12,7 @@
   "convert-url-to-iframe",
   "obsidian-to-anki-plugin",
   "copilot",
-  "components",
   "contribution-graph",
-  "templater-obsidian"
+  "templater-obsidian",
+  "components"
 ]

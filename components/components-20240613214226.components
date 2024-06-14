@@ -1,0 +1,100 @@
+{
+  "components": [
+    {
+      "id": "f7459b32-a14b-4402-8071-4f397ebbd57b",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-06-13T13:42:26.321Z",
+      "updateAt": "2024-06-13T13:42:26.321Z",
+      "components": [
+        {
+          "componentId": "2b4c9fbc-5d22-4a6d-b750-505b6d9708e8"
+        }
+      ],
+      "layoutType": "list"
+    },
+    {
+      "id": "2b4c9fbc-5d22-4a6d-b750-505b6d9708e8",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-06-13T13:42:30.928Z",
+      "updateAt": "2024-06-13T13:42:30.928Z",
+      "viewType": "table",
+      "newPageNameFormat": "{{date: YYYYMMDDHHmmss}}",
+      "properties": [
+        {
+          "id": "642b4775-26fb-4a73-97ee-1bba2955a4bf",
+          "name": "熟悉度",
+          "isShow": true,
+          "type": "number",
+          "options": {
+            "prefix": "",
+            "suffix": "",
+            "totalValueType": "constant",
+            "color": "components--color-none",
+            "uiType": "progressRing",
+            "total": 5
+          },
+          "alias": ""
+        }
+      ],
+      "templates": [
+        {
+          "id": "0513496b-642a-42ee-84e2-3a4b96e7368f",
+          "path": "1.学习笔记/b01.英语/口语/短语积累/I don't up to much.md",
+          "name": "I don't up to much.md",
+          "type": "normal"
+        }
+      ],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "hideFileName": false,
+        "wrapFileName": true,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      },
+      "newPageLocation": {
+        "location": "1.学习笔记/b01.英语/口语/短语积累"
+      },
+      "filter": {
+        "id": "1070110a-1da1-4949-b0ed-bb813ff0c0d4",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "0a886856-f9c9-4517-92dd-75938cec70c2",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "1.学习笔记/b01.英语/口语/短语积累",
+            "conditions": []
+          },
+          {
+            "id": "8a00bb6a-2f9d-45cf-8484-f9ef35607544",
+            "type": "filter",
+            "operator": "less_than_or_equal",
+            "property": "熟悉度",
+            "value": "4",
+            "conditions": []
+          }
+        ]
+      }
+    }
+  ],
+  "rootComponentId": "f7459b32-a14b-4402-8071-4f397ebbd57b"
+}

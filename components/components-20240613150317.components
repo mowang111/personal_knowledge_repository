@@ -1,0 +1,63 @@
+{
+  "components": [
+    {
+      "id": "51b0882c-1e7d-4731-86f4-b33d8fe01624",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-06-13T07:03:17.159Z",
+      "updateAt": "2024-06-13T07:03:17.159Z",
+      "components": [
+        {
+          "componentId": "46dbb397-b95a-414a-8891-fe923326baee"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "46dbb397-b95a-414a-8891-fe923326baee",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-06-13T07:04:20.724Z",
+      "updateAt": "2024-06-13T07:04:20.724Z",
+      "viewType": "gallary",
+      "properties": [],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      },
+      "filter": {
+        "id": "5d2c8a1f-eee1-4dbd-8365-419ec3d69898",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "177b7516-d9b6-4a17-9ed1-0ff6e78b1d41",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.tags}",
+            "value": "#待办",
+            "conditions": []
+          }
+        ]
+      }
+    }
+  ],
+  "rootComponentId": "51b0882c-1e7d-4731-86f4-b33d8fe01624"
+}
