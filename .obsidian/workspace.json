@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df09794609efd08e",
+        "id": "115fe839124b411c",
         "type": "tabs",
         "children": [
           {
-            "id": "cdefe96328d4aea1",
+            "id": "2c365cd98ec2216f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cdefe96328d4aea1",
+  "active": "2c365cd98ec2216f",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
