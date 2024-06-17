@@ -216,11 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "cdefe96328d4aea1",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/未命名",
-    "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
+    "conflict-files-obsidian-git.md",
     "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享",
+    "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
@@ -244,7 +245,6 @@
     "components/打工人不熬夜.components",
     "components/微信读书.components",
     "components/components-20240613214226.components",
-    "components/components-20240613211037.components",
     "其他/部署常用命令.md",
     "其他/时间管理工作流.md",
     "其他/学习问题.md",
