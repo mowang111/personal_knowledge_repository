@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cc9516048823792b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/短语积累/make the time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bafcaf6aadba91ae",
             "type": "leaf",
             "state": {
@@ -242,8 +254,9 @@
   },
   "active": "4fe4148447b82a39",
   "lastOpenFiles": [
-    "1.学习笔记/b01.英语/口语/短语积累/meant to be.md",
+    "1.学习笔记/b01.英语/口语/短语积累/make the time.md",
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
+    "1.学习笔记/b01.英语/口语/短语积累/meant to be.md",
     "1.学习笔记/b01.英语/口语/短语积累/work out.md",
     "1.学习笔记/b01.英语/口语/短语积累/未命名.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
@@ -280,7 +293,6 @@
     "components/微信读书.components",
     "其他/部署常用命令.md",
     "其他/时间管理工作流.md",
-    "其他/学习问题.md",
     "归档/硕士论文/线路失稳情况.png",
     "归档/硕士论文/暂态稳定判断算法.png",
     "归档/硕士论文/数据分类流程图.png",
