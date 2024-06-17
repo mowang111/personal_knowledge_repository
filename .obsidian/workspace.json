@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df09794609efd08e",
+        "id": "cb784eefc168f342",
         "type": "tabs",
         "children": [
           {
-            "id": "cdefe96328d4aea1",
+            "id": "4fe4148447b82a39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,10 +206,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cdefe96328d4aea1",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/深入理解Linux虚拟内存管理.md",
+    "1.学习笔记/b01.英语/口语/短语积累/未命名.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
+    "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/深入理解Linux虚拟内存管理.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/linux内存分配.md",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
@@ -256,7 +247,6 @@
     "其他/学习方法.md",
     "归档/y02.实习/项目文档/代码文档/uia/java/java捕获元素.md",
     "归档/y02.实习/Windows开发/Windows核心编程/2.编程的具体方法/进程/1.进程.md",
-    "归档/电网项目/学习笔记/论文/电网切机综述相关/总结.md",
     "归档/硕士论文/线路失稳情况.png",
     "归档/硕士论文/暂态稳定判断算法.png",
     "归档/硕士论文/数据分类流程图.png",
