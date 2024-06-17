@@ -13,5 +13,6 @@
   "copilot",
   "contribution-graph",
   "templater-obsidian",
-  "components"
+  "components",
+  "obsidian-git"
 ]
