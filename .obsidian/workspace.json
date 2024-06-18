@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
               }
             }
           },
@@ -218,6 +218,9 @@
   },
   "active": "4fe4148447b82a39",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/短语积累/made in.md",
@@ -251,12 +254,9 @@
     "Excalidraw",
     "copilot-conversations/Chat-2024_05_31-20_07_37.md",
     "copilot-conversations",
-    "config/代理.md",
-    "config/pagenote.md",
     "config",
     "components/打工人不熬夜.components",
     "components/微信读书.components",
-    "其他/部署常用命令.md",
     "归档/硕士论文/线路失稳情况.png",
     "归档/硕士论文/暂态稳定判断算法.png",
     "归档/硕士论文/数据分类流程图.png",
