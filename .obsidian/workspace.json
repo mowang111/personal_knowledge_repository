@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md"
               }
             }
           },
@@ -218,10 +218,11 @@
   },
   "active": "4fe4148447b82a39",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/短语积累/made in.md",
     "1.学习笔记/b01.英语/口语/短语积累/make the time.md",
@@ -252,7 +253,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "copilot-conversations/Chat-2024_05_31-20_07_37.md",
     "copilot-conversations",
     "config",
     "components/打工人不熬夜.components",
