@@ -31,6 +31,13 @@
       "newPageNameFormat": "{{date: YYYYMMDDHHmmss}}",
       "properties": [
         {
+          "id": "bd9c6af6-e0c5-4f3c-9672-6909a7626a26",
+          "name": "重要度",
+          "isShow": true,
+          "type": "text",
+          "options": {}
+        },
+        {
           "id": "642b4775-26fb-4a73-97ee-1bba2955a4bf",
           "name": "熟悉度",
           "isShow": true,
@@ -99,6 +106,20 @@
             "property": "${file.basename}",
             "value": "模版",
             "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "e8da706c-e91a-4e5d-b081-402b105db30e",
+            "property": "重要度",
+            "direction": "asc"
+          },
+          {
+            "id": "281adc30-c7d2-4ecf-b0dd-0fe9b2ace31c",
+            "property": "熟悉度",
+            "direction": "asc"
           }
         ]
       }
