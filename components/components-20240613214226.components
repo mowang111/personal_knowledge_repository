@@ -96,8 +96,8 @@
             "id": "d143f549-e908-4b45-a557-11e3f1b5d23c",
             "type": "filter",
             "operator": "not_contains",
-            "property": "title",
-            "value": "mo",
+            "property": "${file.basename}",
+            "value": "模版",
             "conditions": []
           }
         ]
