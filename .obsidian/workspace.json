@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93149a76d34a7540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/in a long time.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/got to.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/got to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/got to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
+                "file": "1.学习笔记/b01.英语/口语/短语积累/got to.md"
               }
             }
           },
@@ -163,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
+                "file": "1.学习笔记/b01.英语/口语/短语积累/got to.md"
               }
             }
           },
@@ -229,8 +217,9 @@
   },
   "active": "bcdc30cc680fa951",
   "lastOpenFiles": [
-    "1.学习笔记/b01.英语/口语/短语积累/in a long time.md",
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
+    "1.学习笔记/b01.英语/口语/短语积累/got to.md",
+    "1.学习笔记/b01.英语/口语/短语积累/in a long time.md",
     "1.学习笔记/b01.英语/口语/连读例句.md",
     "1.学习笔记/b01.英语/口语/托福口语分类.md",
     "1.学习笔记/b01.英语/口语/短语积累/模版.md",
@@ -259,7 +248,6 @@
     "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/5.Linux内核体系结构/5.5 Linux系统调用.md",
     "Templates",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
