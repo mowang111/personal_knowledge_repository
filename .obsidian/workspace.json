@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3c95b3a5aedd87a6",
+        "id": "f237781d409ae294",
         "type": "tabs",
         "children": [
           {
-            "id": "bcdc30cc680fa951",
+            "id": "4a02eec81d7c8369",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e43223e7bb66e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/if it weren't(wasn't) for me....md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/if it weren't(wasn't) for me....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/if it weren't(wasn't) for me....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/if it weren't(wasn't) for me....md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/if it weren't(wasn't) for me....md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e43223e7bb66e9a",
+  "active": "4a02eec81d7c8369",
   "lastOpenFiles": [
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/短语积累/if it weren't(wasn't) for me....md",
