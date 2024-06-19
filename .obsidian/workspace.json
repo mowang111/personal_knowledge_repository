@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/I don't up to much.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/back when.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/模版.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/模版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
+                "file": "1.学习笔记/b01.英语/口语/短语积累/模版.md"
               }
             }
           },
@@ -163,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
+                "file": "1.学习笔记/b01.英语/口语/短语积累/模版.md"
               }
             }
           },
@@ -204,12 +205,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,12 +228,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6784b9739650e004",
+  "active": "27b32a9cb47c6a5e",
   "lastOpenFiles": [
     "1.学习笔记/b01.英语/口语/短语积累/back when.md",
-    "1.学习笔记/b01.英语/口语/口语短语积累.md",
+    "1.学习笔记/b01.英语/口语/短语积累/模版.md",
     "1.学习笔记/b01.英语/口语/短语积累/I don't up to much.md",
-    "1.学习笔记/b01.英语/口语/短语积累/未命名.md",
+    "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
