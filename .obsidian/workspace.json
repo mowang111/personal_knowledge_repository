@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcdc30cc680fa951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/短语积累/back when.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/back when.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/b01.英语/口语/短语积累/back when.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
+                "file": "1.学习笔记/b01.英语/口语/短语积累/back when.md"
               }
             }
           },
@@ -151,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
+                "file": "1.学习笔记/b01.英语/口语/短语积累/back when.md"
               }
             }
           },
@@ -216,22 +229,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "bcdc30cc680fa951",
   "lastOpenFiles": [
+    "1.学习笔记/b01.英语/口语/口语短语积累.md",
+    "1.学习笔记/b01.英语/口语/短语积累/back when.md",
+    "1.学习笔记/b01.英语/口语/短语积累/I don't up to much.md",
+    "1.学习笔记/b01.英语/口语/短语积累/未命名.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/Linux 0.11地址翻译调试.xmind",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
-    "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/短语积累/made in.md",
     "1.学习笔记/b01.英语/口语/短语积累/make the time.md",
     "1.学习笔记/b01.英语/口语/短语积累/meant to be.md",
     "1.学习笔记/b01.英语/口语/短语积累/work out.md",
-    "1.学习笔记/b01.英语/口语/短语积累/未命名.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/深入理解Linux虚拟内存管理.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/linux内存分配.md",
@@ -247,10 +262,8 @@
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）/main.c.md",
     "0.home page.md",
     "1.学习笔记/a04.操作系统/操作系统.md",
-    "Templates/博客笔记模板.md",
     "Templates",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
