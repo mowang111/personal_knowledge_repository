@@ -11,8 +11,12 @@
             "id": "6784b9739650e004",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md"
+              }
             }
           },
           {
