@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f237781d409ae294",
+        "id": "1cca7bde584825ca",
         "type": "tabs",
         "children": [
           {
-            "id": "4a02eec81d7c8369",
+            "id": "06bb40bc1888036b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+                "file": "1.学习笔记/a01.计算机语言/GCC支持嵌入汇编代码的模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+                "file": "1.学习笔记/a01.计算机语言/GCC支持嵌入汇编代码的模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
+                "file": "1.学习笔记/a01.计算机语言/GCC支持嵌入汇编代码的模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
+                "file": "1.学习笔记/a01.计算机语言/GCC支持嵌入汇编代码的模板.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md"
+                "file": "1.学习笔记/a01.计算机语言/GCC支持嵌入汇编代码的模板.md"
               }
             }
           },
@@ -216,8 +216,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a02eec81d7c8369",
+  "active": "06bb40bc1888036b",
   "lastOpenFiles": [
+    "1.学习笔记/a01.计算机语言/汇编/基本语法.md",
+    "1.学习笔记/a01.计算机语言/汇编/汇编课程笔记/01_QuickView使用说明及regtest调试步骤 .md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/13.内存管理（mm）",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/7.初始化程序（init）/main.c.md",
@@ -244,9 +247,6 @@
     "1.学习笔记/b01.英语/口语/短语积累/make the time.md",
     "1.学习笔记/b01.英语/口语/短语积累/meant to be.md",
     "1.学习笔记/b01.英语/口语/短语积累/work out.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/深入理解Linux虚拟内存管理.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/linux内存分配.md",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/段页式内存机制.drawio",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享",
