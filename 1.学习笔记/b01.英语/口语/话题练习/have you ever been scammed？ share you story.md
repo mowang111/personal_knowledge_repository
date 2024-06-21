@@ -1,1 +1,1 @@
-When I first see the topic, my 
+When I see this topic, my first thought is that 
