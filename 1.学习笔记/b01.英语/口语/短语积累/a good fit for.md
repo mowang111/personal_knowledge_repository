@@ -2,6 +2,6 @@
 重要度: 🌟🌟🌟🌟🌟
 熟悉度: 
 tags:
-  - job
+  - 工作
 ---
-I think I am a good fit for this job.
+I think I am a good fit/match for this job.
