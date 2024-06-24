@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md",
+                "file": "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md",
+                "file": "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md",
+                "file": "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md"
+                "file": "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md"
+                "file": "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md"
               }
             }
           },
@@ -255,10 +255,13 @@
   },
   "active": "a2385dcf7123f2f9",
   "lastOpenFiles": [
+    "1.学习笔记/b01.英语/口语/cammbly/chatgpt.md",
+    "1.学习笔记/b01.英语/口语/cammbly/1. ready for the first lesson.md",
+    "1.学习笔记/b01.英语/口语/托福口语分类.md",
+    "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md",
     "1.学习笔记/b01.英语/口语/短语积累/模版.md",
     "1.学习笔记/b01.英语/口语/短语积累/a good fit for.md",
     "1.学习笔记/b01.英语/口语/短语积累/back when.md",
-    "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md",
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/短语积累/tie in well with.md",
     "1.学习笔记/b01.英语/口语/短语积累/I don't up to much.md",
@@ -284,9 +287,6 @@
     "1.学习笔记/b01.英语/口语/短语积累/make the time.md",
     "1.学习笔记/b01.英语/口语/短语积累/meant to be.md",
     "1.学习笔记/b01.英语/口语/话题练习",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/12.1 总体功能.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）/8.1 总体功能.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/8.内核代码（kernel）/signal.c.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/13.内存管理（mm）",
     "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/Linux 0.11地址翻译调试.xmind",
