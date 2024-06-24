@@ -9,3 +9,4 @@ I am excited to showcase my skills.
 # 相近表达
 I am eager to make a contribution.
 I'm sure I could bring a lot to this job.
+I never shy away from hard work.
