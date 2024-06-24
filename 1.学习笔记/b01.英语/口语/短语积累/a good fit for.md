@@ -4,7 +4,8 @@
 tags:
   - 工作
 ---
-I think I am a good fit/match for this job.
+I think I am a good fit for this job.
 
 # 相近表达
-This job
+I think I am a good match for this job.
+This job suits me down to the ground.
