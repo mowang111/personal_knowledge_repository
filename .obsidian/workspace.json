@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/未命名.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/execve.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/未命名.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/execve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/未命名.md",
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/execve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/未命名.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/execve.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/未命名.md"
+                "file": "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/execve.md"
               }
             }
           },
@@ -219,7 +219,7 @@
   "active": "55d5fe65ed2cf65f",
   "lastOpenFiles": [
     "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/未命名.md",
+    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/execve.md",
     "1.学习笔记/a04.操作系统/Resource/images/execve函数.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/execve函数.xmind",
     "1.学习笔记/b01.英语/口语/Keith网课/1. talk about your hobbies.md",
