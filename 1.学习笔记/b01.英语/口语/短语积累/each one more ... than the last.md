@@ -1,5 +1,6 @@
 ---
-重要度: 
-熟悉度:
+重要度: 🌟🌟🌟🌟🌟
+熟悉度: 
+tags:
 ---
-Each one more incompetant than the last
+Each one more incompetant than the last.
