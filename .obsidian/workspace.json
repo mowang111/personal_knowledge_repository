@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62968f0901507472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md"
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
               }
             }
           },
@@ -151,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md"
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
               }
             }
           },
@@ -216,10 +229,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55d5fe65ed2cf65f",
+  "active": "62968f0901507472",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制/实验报告.md",
+    "1.学习笔记/b01.英语/口语/短语积累/each one more ... than the last.md",
+    "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验七实验结果2.png",
     "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制/实验说明.md",
@@ -233,7 +248,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/execve函数.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/execve函数.xmind",
     "1.学习笔记/b01.英语/口语/Keith网课/1. talk about your hobbies.md",
-    "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/cammbly/chatgpt.md",
     "1.学习笔记/b01.英语/口语/cammbly/1. ready for the first lesson.md",
     "1.学习笔记/b01.英语/口语/托福口语分类.md",
@@ -256,7 +270,6 @@
     "1.学习笔记/a04.操作系统/Resource/drawio/linux进程执行文件权限检查.drawio",
     "1.学习笔记/a04.操作系统/Resource/images/memory.c.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/memory.c.xmind",
-    "1.学习笔记/b01.英语/口语/话题练习/have you ever been scammed？ share you story.md",
     "1.学习笔记/b01.英语/口语/话题练习",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/13.内存管理（mm）",
     "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
