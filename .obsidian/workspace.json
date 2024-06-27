@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/连读例句.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/连读例句.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/连读例句.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/连读例句.md"
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/连读例句.md"
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
               }
             }
           },
@@ -229,8 +229,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "62968f0901507472",
   "lastOpenFiles": [
+    "1.学习笔记/b01.英语/口语/连读例句.md",
     "1.学习笔记/b01.英语/口语/短语积累/each one more ... than the last.md",
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/短语积累/20240627105540.md",
@@ -265,7 +266,6 @@
     "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/Resource/images/linux进程执行文件权限检查.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/linux进程执行文件权限检查.drawio",
     "1.学习笔记/a04.操作系统/Resource/images/memory.c.png",
