@@ -26,5 +26,5 @@ Therefore, it becomes important to establish specific criteria for making a choi
 
 There are several factors to consider, such as salary, work location, corporate culture, etc. However, the most important thing is that your core values align with the job.
 
-which means, if you seek stability, you might choose a state-owned enterprise. However, if you aim to earn more and desire personal growth, a private company might be a better option.
+which means, if you seek stability, you might choose a state-owned enterprise.  if you aim to earn more and desire personal growth, a private company might be a better option.
 
