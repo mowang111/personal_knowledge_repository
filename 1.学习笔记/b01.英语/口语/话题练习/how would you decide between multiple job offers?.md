@@ -20,9 +20,11 @@ When you have multiple offers, think about where you see growth for yourself. I 
 
 I would be thrilled to receive multiple job offers, especially given the challenging job market we’re currently facing.
 
-but when facing different choices, I also would feel overwhelmed by the possibilities and unsure of which one is the best choice.
-
 However, when faced with multiple options, I often feel overwhelmed by the possibilities and uncertain about which one is the best choice.
 
 Therefore, it becomes important to establish specific criteria for making a choice.
+
+There are several factors to consider, such as salary, work location, corporate culture, etc. However, the most important thing is that your core values align with the job.
+
+which means, if you seek stability, you might choose a state-owned enterprise. However, if you aim to earn more and desire personal growth, a private company might be a better option.
 
