@@ -16,3 +16,13 @@ Beyond that, they should try to speak with a few employees at each company, eith
 
 When you have multiple offers, think about where you see growth for yourself. I don't just mean upward promotional opportunities — where will you be challenged, where will you learn and where will you be able to step out of your comfort zone? Choosing the obvious or comfortable path may not always be the best decision. Take a risk! 
 
+
+
+I would be thrilled to receive multiple job offers, especially given the challenging job market we’re currently facing.
+
+but when facing different choices, I also would feel overwhelmed by the possibilities and unsure of which one is the best choice.
+
+However, when faced with multiple options, I often feel overwhelmed by the possibilities and uncertain about which one is the best choice.
+
+Therefore, it becomes important to establish specific criteria for making a choice.
+
