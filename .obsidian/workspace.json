@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62968f0901507472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/b01.英语/口语/话题练习/how would you decide between multiple job offers?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/话题练习/how would you decide between multiple job offers?.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/话题练习/how would you decide between multiple job offers?.md",
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/话题练习/how would you decide between multiple job offers?.md"
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
               }
             }
           },
@@ -164,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/b01.英语/口语/话题练习/how would you decide between multiple job offers?.md"
+                "file": "1.学习笔记/b01.英语/口语/口语短语积累.md"
               }
             }
           },
@@ -229,10 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62968f0901507472",
+  "active": "55d5fe65ed2cf65f",
   "lastOpenFiles": [
-    "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md",
     "1.学习笔记/b01.英语/口语/话题练习/how would you decide between multiple job offers?.md",
+    "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md",
     "1.学习笔记/b01.英语/口语/口语短语积累.md",
     "1.学习笔记/b01.英语/口语/连读例句.md",
     "1.学习笔记/b01.英语/口语/短语积累/each one more ... than the last.md",
