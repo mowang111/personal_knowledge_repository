@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a93abebdf75594a",
+        "id": "8b7f28d9ab8e2058",
         "type": "tabs",
         "children": [
           {
-            "id": "ece575217ebe3a1b",
+            "id": "7a6c11872b6157fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,10 +206,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ece575217ebe3a1b",
+  "active": "7a6c11872b6157fa",
   "lastOpenFiles": [
-    "1.学习笔记/a04.操作系统/操作系统实验/4.基于内核栈完成进程切换/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/4.基于内核栈完成进程切换/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目",
@@ -255,8 +247,6 @@
     "1.学习笔记/b01.英语/口语/Keith网课/1. talk about your hobbies.md",
     "1.学习笔记/b01.英语/口语/cammbly/chatgpt.md",
     "1.学习笔记/b01.英语/口语/cammbly/1. ready for the first lesson.md",
-    "1.学习笔记/b01.英语/口语/托福口语分类.md",
-    "1.学习笔记/b01.英语/口语/短语积累/showcase my skills.md",
     "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制",
     "1.学习笔记/a04.操作系统/Resource/images/linux进程执行文件权限检查.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/linux进程执行文件权限检查.drawio",
