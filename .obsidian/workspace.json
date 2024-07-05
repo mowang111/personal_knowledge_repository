@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/系统调用过程.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 310.5
   },
   "right": {
     "id": "29a4d99b1967dd6d",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/系统调用过程.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/系统调用过程.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/系统调用过程.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/系统调用过程.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md"
               }
             }
           },
@@ -218,10 +218,11 @@
   },
   "active": "7a6c11872b6157fa",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统笔记/系统调用过程.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
     "1.学习笔记/a04.操作系统/Resource/images/系统调用.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/系统调用.drawio",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/系统调用过程.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/4.基于内核栈完成进程切换/实验报告.md",
@@ -263,7 +264,6 @@
     "1.学习笔记/a04.操作系统/Resource/drawio/linux进程执行文件权限检查.drawio",
     "1.学习笔记/a04.操作系统/Resource/images/memory.c.png",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
     "未命名.canvas"
   ]
