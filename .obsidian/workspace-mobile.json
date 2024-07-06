@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.📑学习笔记/b01.英语/口语/待整理.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/系统调用过程.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.📑学习笔记/b01.英语/口语/待整理.md",
+            "file": "1.学习笔记/a04.操作系统/操作系统笔记/系统调用过程.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1.📑学习笔记/b01.英语/口语/待整理.md",
+            "file": "1.学习笔记/a04.操作系统/操作系统笔记/系统调用过程.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1.📑学习笔记/b01.英语/口语/待整理.md"
+            "file": "1.学习笔记/a04.操作系统/操作系统笔记/系统调用过程.md"
           }
         }
       }
@@ -135,6 +135,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
