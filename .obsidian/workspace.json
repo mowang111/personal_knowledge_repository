@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7f28d9ab8e2058",
+        "id": "e282cade57d3200a",
         "type": "tabs",
         "children": [
           {
-            "id": "7a6c11872b6157fa",
+            "id": "04f4569635240dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
+                "file": "config/pagenote.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
+                "file": "config/pagenote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
+                "file": "config/pagenote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md"
+                "file": "config/pagenote.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md"
+                "file": "config/pagenote.md"
               }
             }
           },
@@ -216,15 +216,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "04f4569635240dd0",
   "lastOpenFiles": [
+    "config/代理.md",
+    "copilot-conversations/Chat-2024_05_31-20_07_37.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/系统调用过程.md",
     "1.学习笔记/a04.操作系统/Resource/images/系统调用.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/系统调用.drawio",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/4.基于内核栈完成进程切换/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现",
@@ -252,13 +254,11 @@
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验七实验结果2.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验七结果1.png",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/10.字符设备驱动程序/keyboard.S.md",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/12.文件系统/execve.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/10.字符设备驱动程序",
     "1.学习笔记/a04.操作系统/Resource/images/keyboard.S.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/keyboard.S.xmind",
     "1.学习笔记/a04.操作系统/Resource/images/execve函数.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/execve函数.xmind",
-    "1.学习笔记/b01.英语/口语/Keith网课/1. talk about your hobbies.md",
     "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制",
     "1.学习笔记/a04.操作系统/Resource/images/linux进程执行文件权限检查.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/linux进程执行文件权限检查.drawio",
