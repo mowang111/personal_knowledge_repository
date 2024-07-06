@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e282cade57d3200a",
+        "id": "e398ff52b0e41ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "04f4569635240dd0",
+            "id": "f422637bf47cf992",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "config/pagenote.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/pagenote.md",
+                "file": "其他/学习问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/pagenote.md",
+                "file": "其他/学习问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/pagenote.md"
+                "file": "其他/学习问题.md"
               }
             }
           },
@@ -151,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "config/pagenote.md"
+                "file": "其他/学习问题.md"
               }
             }
           },
@@ -216,8 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04f4569635240dd0",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "其他/学习方法.md",
+    "其他/时间管理工作流.md",
+    "其他/部署常用命令.md",
+    "config/pagenote.md",
     "config/代理.md",
     "copilot-conversations/Chat-2024_05_31-20_07_37.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
@@ -247,13 +247,9 @@
     "1.学习笔记/b01.英语/口语/连读例句.md",
     "1.学习笔记/b01.英语/口语/短语积累/each one more ... than the last.md",
     "1.学习笔记/b01.英语/口语/短语积累/20240627105540.md",
-    "Templates/英语短语模版.md",
-    "1.学习笔记/b01.英语/口语/短语积累/20240627105513.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验七实验结果2.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验七结果1.png",
-    "1.学习笔记/a04.操作系统/Linux/Linux源码分析/10.字符设备驱动程序/keyboard.S.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/10.字符设备驱动程序",
     "1.学习笔记/a04.操作系统/Resource/images/keyboard.S.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/keyboard.S.xmind",
