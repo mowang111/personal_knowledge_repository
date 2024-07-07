@@ -11,8 +11,12 @@
             "id": "f422637bf47cf992",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/学习问题.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/学习问题.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/学习问题.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md"
               }
             }
           },
@@ -147,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "其他/学习问题.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md"
               }
             }
           },
@@ -212,8 +216,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "f422637bf47cf992",
   "lastOpenFiles": [
+    "其他/学习问题.md",
     "其他/学习方法.md",
     "其他/时间管理工作流.md",
     "其他/部署常用命令.md",
@@ -246,7 +251,6 @@
     "1.学习笔记/b01.英语/口语/Keith网课/2.jobs.md",
     "1.学习笔记/b01.英语/口语/连读例句.md",
     "1.学习笔记/b01.英语/口语/短语积累/each one more ... than the last.md",
-    "1.学习笔记/b01.英语/口语/短语积累/20240627105540.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验七实验结果2.png",
     "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验七结果1.png",
