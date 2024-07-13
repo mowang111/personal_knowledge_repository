@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d5ac1c7bb39dd5d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
+                "file": "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
+                "file": "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png"
               }
             }
           },
@@ -151,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md"
+                "file": "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png"
               }
             }
           },
@@ -216,16 +227,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9b2d9ded4dc764b",
+  "active": "2d5ac1c7bb39dd5d",
   "lastOpenFiles": [
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/fprintk函数踩坑之旅.md",
     "1.学习笔记/a04.操作系统/操作系统实验/提问.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/1.操作系统引导.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md",
