@@ -1,5 +1,5 @@
 ---
-重要度: 🌟🌟
+重要度: 🌟🌟🌟
 熟悉度: 1
 ---
 this is one of those things where talking about it is not going to make it better.
@@ -9,4 +9,4 @@ this is one of those situations where...
 this is one of those situations where...
 this is one of those relationships where... 
 
-Sometimes you have one of those days where you are surround many people, but you still feel pretty lonely.
+Sometimes you have one of those days where you are surrounded by people, but you still feel pretty lonely.
