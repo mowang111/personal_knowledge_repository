@@ -11,4 +11,4 @@ this is one of those relationships where...
 
 Sometimes you have one of those days where you are surrounded by people, but you still feel pretty lonely.
 
-I think this may be one of those situations where he feels you are crossing the boundary.
+I think this might be one of those situations where he feels like you are crossing a boundary.
