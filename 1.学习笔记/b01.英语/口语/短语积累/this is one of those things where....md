@@ -13,4 +13,4 @@ Sometimes you have one of those days where you are surrounded by people, but you
 
 I think this might be one of those situations where he feels like you are crossing a boundary.
 
-This is one of those times where the best things you can do is do noting.   
+This is one of those times when the best things you can do is do noting.   
