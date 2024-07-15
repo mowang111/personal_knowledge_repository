@@ -1,0 +1,51 @@
+{
+  "components": [
+    {
+      "id": "3bb63f73-3f09-4d89-89fb-26b369bc9edf",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-07-15T11:44:18.651Z",
+      "updateAt": "2024-07-15T11:44:18.651Z",
+      "components": [
+        {
+          "componentId": "cad55493-e365-4c82-b327-6e6720223929"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "cad55493-e365-4c82-b327-6e6720223929",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-07-15T11:44:37.478Z",
+      "updateAt": "2024-07-15T11:44:37.478Z",
+      "viewType": "calendar",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} new",
+      "properties": [],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "hideFileName": false,
+        "wrapFileName": true,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        }
+      }
+    }
+  ],
+  "rootComponentId": "3bb63f73-3f09-4d89-89fb-26b369bc9edf"
+}
