@@ -1,9 +1,15 @@
-<mxfile host="Electron" modified="2024-07-17T14:20:46.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="hjAOxB5F4Qgna9JfwXea" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-17T14:22:30.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="aoVYMZjSyxbIXQdQRD8h" version="24.6.4" type="device">
   <diagram name="第 1 页" id="AyjAl2v3ILEnbYBMGDvT">
-    <mxGraphModel dx="2051" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uJo4-5_zxJS7b9FVZKjq-12" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="623" y="-160" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="uJo4-5_zxJS7b9FVZKjq-39" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=#FF0000;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="702" y="-132.5" width="152" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uJo4-5_zxJS7b9FVZKjq-1" target="uJo4-5_zxJS7b9FVZKjq-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -28,25 +34,22 @@
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-8" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="583" y="136.25" width="350" height="247.5" as="geometry" />
         </mxCell>
+        <mxCell id="uJo4-5_zxJS7b9FVZKjq-11" value="typedef struct {&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Elf32_Word sh_name;&lt;br&gt;Elf32 Word sh_type;&lt;br&gt;Elf32_Word shflags;&lt;br&gt;Elf32_Addr sh_addr;&lt;br&gt;Elf32_Off sh_offset;&lt;br&gt;Elf32_Word sh_size;&lt;br&gt;Elf32_Word sh_link;&lt;br&gt;Elf32_Word shinfo;&lt;br&gt;Elf32_Word sh_addralign;&lt;br&gt;Elf32_Word sh_entsize;&lt;/blockquote&gt;}Elf32_Shdr;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="673" y="-152.5" width="220" height="192.5" as="geometry" />
+        </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-15" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=#FF0000;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="661" y="245" width="220" height="15" as="geometry" />
         </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-10" value="&lt;div style=&quot;text-align: justify;&quot;&gt;typedef struct {&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;unsigned char e_ident [16];&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_type;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_machine;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Word e_version;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Addr e_entry;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Off ephoff;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Off e_shoff; //段表在文件中的偏移&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Word e_flags;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_ehsize;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_phentsize;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_phnum;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_shentsize;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_shnum;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Elf32_Half e_shstrndx;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;}Elf32_Ehdr;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;rounded=0;spacing=0;spacingBottom=0;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="623" y="126.25" width="270" height="267.5" as="geometry" />
         </mxCell>
-        <mxCell id="uJo4-5_zxJS7b9FVZKjq-12" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="623" y="-160" width="310" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="uJo4-5_zxJS7b9FVZKjq-11" value="typedef struct {&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Elf32_Word sh_name;&lt;br&gt;Elf32 Word sh_type;&lt;br&gt;Elf32_Word shflags;&lt;br&gt;Elf32_Addr sh_addr;&lt;br&gt;Elf32_Off sh_offset;&lt;br&gt;Elf32_Word sh_size;&lt;br&gt;Elf32_Word sh_link;&lt;br&gt;Elf32_Word shinfo;&lt;br&gt;Elf32_Word sh_addralign;&lt;br&gt;Elf32_Word sh_entsize;&lt;/blockquote&gt;}Elf32_Shdr;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673" y="-152.5" width="220" height="192.5" as="geometry" />
-        </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJo4-5_zxJS7b9FVZKjq-15" target="uJo4-5_zxJS7b9FVZKjq-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="208.1" as="sourcePoint" />
             <mxPoint x="520" y="30" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="661" y="213" />
-              <mxPoint x="500" y="213" />
+              <mxPoint x="661" y="250" />
+              <mxPoint x="500" y="250" />
               <mxPoint x="500" y="-160" />
             </Array>
           </mxGeometry>
