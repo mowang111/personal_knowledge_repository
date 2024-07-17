@@ -22,3 +22,5 @@ int main(void){
 ```
 
 
+![[objdump-h.png]]
+代码段，数据段，bss段，zhi du

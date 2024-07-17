@@ -216,8 +216,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0459a09a738f6262",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/Resource/images/objdump-h.png",
     "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md",
     "1.学习笔记/b01.英语/口语/口语短语.md",
@@ -246,7 +247,6 @@
     "1.学习笔记/a04.操作系统/操作系统笔记/内存分配/段页式内存机制.md",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
     "1.学习笔记/a04.操作系统/操作系统实验/2.系统调用/实验说明.md",
-    "0.home page.md",
     "1.学习笔记/a04.操作系统/Resource/images/系统调用.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/系统调用.drawio",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现",
