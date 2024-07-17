@@ -25,8 +25,10 @@ int main(void){
 ![[objdump-h.png]]
 + 代码段，
 + .data 数据段
-	+ 保存了
-+ bss段，
-+ 只读数据段，
-+ 注释信息段，
+	+ 保存了初始化了的全局静态变量和局部静态变量
+	+ global_init_var，static_var
++ bss段
+	+ 
++ 只读数据段
++ 注释信息段
 + 堆栈提示段
