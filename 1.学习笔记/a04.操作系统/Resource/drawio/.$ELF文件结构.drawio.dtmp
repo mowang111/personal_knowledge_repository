@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-07-17T14:04:56.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="wDwNuPCWXf5Ny4B_cyyH" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-17T14:05:51.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="BJCDiyg51iBqN0cPd1Qn" version="24.6.4" type="device">
   <diagram name="第 1 页" id="AyjAl2v3ILEnbYBMGDvT">
     <mxGraphModel dx="2051" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-1" value="ELF Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="200" height="40" as="geometry" />
+          <mxGeometry x="240" y="240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-2" value=".text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="200" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-6" value="Section Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-80" width="200" height="40" as="geometry" />
+          <mxGeometry x="240" y="-120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-7" value=".symtab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" width="200" height="40" as="geometry" />
@@ -47,7 +47,7 @@
             <Array as="points">
               <mxPoint x="661" y="213" />
               <mxPoint x="500" y="213" />
-              <mxPoint x="500" y="-40" />
+              <mxPoint x="500" y="-80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,8 +100,11 @@
         <mxCell id="uJo4-5_zxJS7b9FVZKjq-5" value="...&lt;div&gt;other section&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uJo4-5_zxJS7b9FVZKjq-30" value=".text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="200" height="40" as="geometry" />
+        <mxCell id="uJo4-5_zxJS7b9FVZKjq-30" value=".rela.text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uJo4-5_zxJS7b9FVZKjq-31" value="0x40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
