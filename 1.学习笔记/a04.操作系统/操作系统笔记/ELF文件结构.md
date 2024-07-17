@@ -37,4 +37,4 @@ int main(void){
 ![[ELF常见段.png]]
 ![[readelf-h.png]]
 
-el
+`/usr/include/elf.h`中存放了ELF文件头结构及相关常识
