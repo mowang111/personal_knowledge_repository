@@ -216,8 +216,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "0459a09a738f6262",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/Resource/drawio/ELF文件结构.drawio",
     "1.学习笔记/a04.操作系统/Resource/images/readelf-h.png",
     "1.学习笔记/a04.操作系统/Resource/images/ELF常见段.png",
     "1.学习笔记/a04.操作系统/操作系统笔记/字节序.md",
@@ -261,7 +262,6 @@
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/10.字符设备驱动程序",
     "1.学习笔记/a04.操作系统/Resource/images/keyboard.S.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/keyboard.S.xmind",
-    "1.学习笔记/a04.操作系统/Resource/images/execve函数.png",
     "1.学习笔记/a04.操作系统/Resource/xmind/execve函数.xmind",
     "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制",
     "0.学习笔记/a04.操作系统/操作系统实战/未命名.canvas",
