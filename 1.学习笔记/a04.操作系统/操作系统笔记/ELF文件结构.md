@@ -57,3 +57,10 @@ typedef struct
   Elf64_Half    e_shstrndx;             /* Section header string table index */
 } Elf64_Ehdr;
 ```
+## 段表
+
+## 重定位表
+
+## 字符串表
+
+## 
