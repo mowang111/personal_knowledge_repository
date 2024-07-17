@@ -60,7 +60,8 @@ typedef struct
 ## 段表
 
 ## 重定位表
+`.rela.text`段，
 
 ## 字符串表
 
-## 
+## 符号表
