@@ -36,3 +36,5 @@ int main(void){
 + .note.GNU-stack 堆栈提示段
 ![[ELF常见段.png]]
 ![[readelf-h.png]]
+
+el
