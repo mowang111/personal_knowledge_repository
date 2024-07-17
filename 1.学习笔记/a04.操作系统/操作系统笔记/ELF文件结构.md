@@ -28,7 +28,7 @@ int main(void){
 	+ 保存了初始化了的全局静态变量和局部静态变量
 	+ global_init_var，static_var
 + bss段
-	+ 
+	+ 为未初始化的全局变量和局部静态变量预留了空间
 + .rodata 只读数据段
 	+ 保存了字符串常量 `%d\n`
 + 注释信息段
