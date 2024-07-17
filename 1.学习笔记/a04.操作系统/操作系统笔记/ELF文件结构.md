@@ -35,3 +35,4 @@ int main(void){
 	+ 存放编译器版本信息
 + .note.GNU-stack 堆栈提示段
 ![[ELF常见段.png]]
+![[readelf-h.png]]
