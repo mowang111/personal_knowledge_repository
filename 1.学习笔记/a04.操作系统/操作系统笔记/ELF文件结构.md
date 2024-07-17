@@ -66,3 +66,4 @@ typedef struct
 `.strtab`段或`.shstrtab`段，分别是字符串表和段表字符串表
 
 ## 符号表
+![[符号表.png]]
