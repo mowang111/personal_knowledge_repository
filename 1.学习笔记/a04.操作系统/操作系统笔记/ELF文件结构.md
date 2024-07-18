@@ -72,5 +72,6 @@ typedef struct
 + 符号大小 st_size
 + 符号类型及绑定信息 st_info
 	+ 符号绑定信息![[符号绑定信息.png]]
-	+ 符号类型
+	+ 符号类型![[符号类型.png]]
 + 符号所在段 st_shndx
+![[readelf-s.png]]
