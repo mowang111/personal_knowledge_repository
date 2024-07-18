@@ -74,5 +74,5 @@ typedef struct
 	+ 符号绑定信息![[符号绑定信息.png]]
 	+ 符号类型![[符号类型.png]]
 + 符号所在段 st_shndx
-	+ 符号所在段在
+	+ 符号所在段在段表中的下标
 ![[readelf-s.png]]
