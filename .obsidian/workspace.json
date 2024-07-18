@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md"
               }
             }
           },
@@ -216,8 +216,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "0459a09a738f6262",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
+    "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md",
+    "1.学习笔记/a04.操作系统/Resource/images/ELF文件结构.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/images/readelf-s.png",
     "1.学习笔记/a04.操作系统/Resource/images/符号类型.png",
     "1.学习笔记/a04.操作系统/Resource/images/符号绑定信息.png",
@@ -226,8 +229,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/readelf-h.png",
     "1.学习笔记/a04.操作系统/Resource/images/ELF常见段.png",
     "1.学习笔记/a04.操作系统/操作系统笔记/字节序.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/ELF文件结构.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/Linux分区.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/寄存器.md",
@@ -254,11 +255,9 @@
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
-    "1.学习笔记/a04.操作系统/Resource/images/系统调用.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/系统调用.drawio",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目",
-    "1.学习笔记/a04.操作系统/操作系统实验/Resource/images/操作系统实验8结果.png",
     "1.学习笔记/a04.操作系统/操作系统笔记/文件系统",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/10.字符设备驱动程序",

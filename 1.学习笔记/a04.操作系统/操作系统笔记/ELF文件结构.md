@@ -1,3 +1,5 @@
+![[ELF文件结构.drawio.png]]
+
 示例代码
 ```c
 int printf(const char *format, ...);
