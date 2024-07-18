@@ -1,0 +1,52 @@
+{
+  "components": [
+    {
+      "id": "b765219b-e213-4ec2-bdb1-00e66c62e93c",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-07-18T06:21:07.735Z",
+      "updateAt": "2024-07-18T06:21:07.735Z",
+      "components": [
+        {
+          "componentId": "f95572d9-5b43-4a40-8095-09b0012e585b"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "f95572d9-5b43-4a40-8095-09b0012e585b",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-07-18T06:21:15.853Z",
+      "updateAt": "2024-07-18T06:21:15.853Z",
+      "viewType": "calendar",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} new",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "dateProperty": "title"
+      }
+    }
+  ],
+  "rootComponentId": "b765219b-e213-4ec2-bdb1-00e66c62e93c"
+}

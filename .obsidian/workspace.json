@@ -11,8 +11,12 @@
             "id": "b52a071422adf23c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.home page.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.home page.md"
+              }
             }
           },
           {
@@ -142,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0.home page.md"
+              }
             }
           },
           {
@@ -208,6 +218,7 @@
   },
   "active": "b52a071422adf23c",
   "lastOpenFiles": [
+    "components/components-20240718142107.components",
     "1.学习笔记/a04.操作系统/操作系统.md",
     "components/components-20240718095629.components",
     "1.学习笔记/a04.操作系统/操作系统笔记/EFI分区.md",
@@ -245,7 +256,6 @@
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/实验说明.md",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现/实验报告.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/实验说明.md",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/系统调用.drawio",
     "1.学习笔记/a04.操作系统/操作系统实验/大型实践项目/1.内核级线程的设计与实现",
