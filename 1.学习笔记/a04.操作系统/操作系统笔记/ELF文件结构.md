@@ -76,3 +76,7 @@ typedef struct
 + 符号所在段 st_shndx
 	+ 符号所在段在段表中的下标
 ![[readelf-s.png]]
+
+## 特殊符号
++ `__executable_start` 程序起始地址
++ `__etext```
