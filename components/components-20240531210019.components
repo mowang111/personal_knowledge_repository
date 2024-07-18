@@ -39,7 +39,8 @@
           "type": "pageContent",
           "value": "",
           "fit": "fill",
-          "layout": "components--page-card-cover-landscape"
+          "layout": "components--page-card-cover-landscape",
+          "pageContentPreview": false
         }
       },
       "filter": {
@@ -65,7 +66,8 @@
             "direction": "desc"
           }
         ]
-      }
+      },
+      "newPageNameFormat": ""
     }
   ],
   "rootComponentId": "1a5a1fd7-9522-4d61-b21b-73d898877afe"
