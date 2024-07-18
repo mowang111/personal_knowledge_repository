@@ -80,5 +80,5 @@ typedef struct
 ## 特殊符号
 + `__executable_start` 程序起始地址
 + `__etext`或`_etext`或`etext` 代码段结束地址
-+ `_edata`或`edata`
-+ `_end`或`end`
++ `_edata`或`edata` 数据段结束地址
++ `_end`或`end` 程序结束地址
