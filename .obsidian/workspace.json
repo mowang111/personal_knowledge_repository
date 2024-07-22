@@ -192,12 +192,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +215,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0313837ab48da082",
+  "active": "d6ab5b8c7db999f6",
   "lastOpenFiles": [
     "Templates/博客笔记模板.md",
     "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/实验报告.md",
