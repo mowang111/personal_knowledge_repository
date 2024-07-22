@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +215,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0313837ab48da082",
+  "active": "97312fc640307feb",
   "lastOpenFiles": [
     "Templates/博客笔记模板.md",
     "1.学习笔记/a04.操作系统/Linux/Linux源码分析/6.引导启动程序（boot）/6.1 总体功能.md",
