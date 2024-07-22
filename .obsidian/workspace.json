@@ -216,11 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97312fc640307feb",
+  "active": "0313837ab48da082",
   "lastOpenFiles": [
+    "Templates/博客笔记模板.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/实验报告.md",
     "1.学习笔记/a04.操作系统/操作系统实验/0.环境准备.md",
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
-    "1.学习笔记/a04.操作系统/操作系统实验/1.操作系统引导/实验报告.md",
     "1.学习笔记/b01.英语/口语/口语短语.md",
     "1.学习笔记/b01.英语/口语/短语积累/go so far as to.md",
     "0.home page.md",
@@ -255,7 +256,6 @@
     "1.学习笔记/b01.英语/口语/托福口语分类.md",
     "1.学习笔记/b01.英语/口语/连读例句.md",
     "1.学习笔记/b01.英语/口语/短语积累/this is one of those things where....md",
-    "1.学习笔记/a04.操作系统/Linux/常用工具/GDB 常用命令实战.md",
     "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/系统调用.drawio",
