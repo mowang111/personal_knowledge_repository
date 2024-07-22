@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/6.地址映射与共享.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验报告.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/6.地址映射与共享.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/6.地址映射与共享.md",
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/6.地址映射与共享.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验报告.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/6.地址映射与共享.md"
+                "file": "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验报告.md"
               }
             }
           },
@@ -215,8 +215,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d6ab5b8c7db999f6",
+  "active": "0313837ab48da082",
   "lastOpenFiles": [
+    "1.学习笔记/a04.操作系统/操作系统实验/7.终端设备字符显示的控制/7.终端设备字符显示的控制.md",
+    "1.学习笔记/a04.操作系统/操作系统实验/6.地址映射与共享/6.地址映射与共享.md",
     "1.学习笔记/a04.操作系统/操作系统实验/5.信号量的实现和应用/5.信号量的实现与应用.md",
     "1.学习笔记/a04.操作系统/操作系统实验/4.基于内核栈完成进程切换/4.基于内核栈完成进程切换.md",
     "1.学习笔记/a04.操作系统/操作系统实验/3.进程运行轨迹的跟踪与统计/3.进程运行轨迹的跟踪与统计.md",
@@ -251,10 +253,8 @@
     "1.学习笔记/a04.操作系统/操作系统笔记/系统调用过程.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/计算机是如何启动的？.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/操作系统篇-分段机制与GDT_LDT - 卫卐 - 博客园.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/3264位操作系统区别.md",
     "1.学习笔记/a04.操作系统/Resource/images/objdump-h.png",
     "components/components-20240715194418.components",
-    "1.学习笔记/b01.英语/口语/短语积累/get this.md",
     "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
     "1.学习笔记/a04.操作系统/Resource/images/段页式内存机制.drawio.png",
     "1.学习笔记/a04.操作系统/Resource/drawio/系统调用.drawio",
