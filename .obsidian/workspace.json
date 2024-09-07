@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eac721a3cae65779",
+        "id": "63c73fc53488881f",
         "type": "tabs",
         "children": [
           {
-            "id": "107c0d16722c22c2",
+            "id": "e1d31a4948900d1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/时间管理工作流.md",
+                "file": "0.home page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/时间管理工作流.md",
+                "file": "0.home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/时间管理工作流.md",
+                "file": "0.home page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/时间管理工作流.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "其他/时间管理工作流.md"
+                "file": "0.home page.md"
               }
             }
           },
@@ -215,8 +215,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "107c0d16722c22c2",
+  "active": "e1d31a4948900d1f",
   "lastOpenFiles": [
+    "其他/时间管理工作流.md",
     "其他/部署常用命令.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md",
     "1.学习笔记/a04.操作系统/Resource/xmind/鸟哥的Linux私房菜.xmind",
@@ -255,7 +256,6 @@
     "1.学习笔记/a04.操作系统/Resource/images/ELF常见段.png",
     "1.学习笔记/a04.操作系统/操作系统笔记/字节序.md",
     "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/PCB数据结构.md",
     "1.学习笔记/a04.操作系统/Resource/images/objdump-h.png",
     "components/components-20240715194418.components",
     "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
