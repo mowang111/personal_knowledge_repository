@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.home page.md",
+                "file": "5.生活/星星科技租房.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.home page"
-            }
-          },
-          {
-            "id": "afd3d65094ff306b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "星星科技租房"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.home page.md",
+                "file": "5.生活/星星科技租房.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "0.home page 的反向链接列表"
+              "title": "星星科技租房 的反向链接列表"
             }
           },
           {
@@ -135,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.home page.md",
+                "file": "5.生活/星星科技租房.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "0.home page 的出链列表"
+              "title": "星星科技租房 的出链列表"
             }
           },
           {
@@ -162,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.home page.md"
+                "file": "5.生活/星星科技租房.md"
               },
               "icon": "lucide-list",
-              "title": "0.home page 的大纲"
+              "title": "星星科技租房 的大纲"
             }
           },
           {
@@ -184,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0.home page.md"
+                "file": "5.生活/星星科技租房.md"
               },
               "icon": "lucide-info",
-              "title": "0.home page的笔记属性"
+              "title": "星星科技租房的笔记属性"
             }
           },
           {
@@ -258,8 +245,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afd3d65094ff306b",
+  "active": "e1d31a4948900d1f",
   "lastOpenFiles": [
+    "5.生活/租房注意事项.md",
+    "5.生活/星星科技租房.md",
+    "0.home page.md",
     "其他/时间管理工作流.md",
     "其他/部署常用命令.md",
     "1.学习笔记/a04.操作系统/操作系统实验/8.Proc文件系统的实现/实验说明.md",
@@ -282,7 +272,6 @@
     "1.学习笔记/a04.操作系统/操作系统实验/编译环境问题复盘.md",
     "1.学习笔记/b01.英语/口语/口语短语.md",
     "1.学习笔记/b01.英语/口语/短语积累/go so far as to.md",
-    "0.home page.md",
     "components/components-20240718142107.components",
     "1.学习笔记/a04.操作系统/操作系统.md",
     "components/components-20240718095629.components",
@@ -297,8 +286,6 @@
     "1.学习笔记/a04.操作系统/Resource/drawio/ELF文件结构.drawio",
     "1.学习笔记/a04.操作系统/Resource/images/readelf-h.png",
     "1.学习笔记/a04.操作系统/Resource/images/ELF常见段.png",
-    "1.学习笔记/a04.操作系统/操作系统笔记/字节序.md",
-    "1.学习笔记/a04.操作系统/操作系统笔记/x86 CPU程序执行的三种模式.md",
     "1.学习笔记/a04.操作系统/Resource/images/objdump-h.png",
     "components/components-20240715194418.components",
     "1.学习笔记/a04.操作系统/Resource/images/Linux 0.11地址翻译调试.png",
