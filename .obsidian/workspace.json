@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.生活/星星科技租房.md",
+                "file": "5.生活/租房注意事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "星星科技租房"
+              "title": "租房注意事项"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.生活/星星科技租房.md",
+                "file": "5.生活/租房注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "星星科技租房 的反向链接列表"
+              "title": "租房注意事项 的反向链接列表"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.生活/星星科技租房.md",
+                "file": "5.生活/租房注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "星星科技租房 的出链列表"
+              "title": "租房注意事项 的出链列表"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.生活/星星科技租房.md"
+                "file": "5.生活/租房注意事项.md"
               },
               "icon": "lucide-list",
-              "title": "星星科技租房 的大纲"
+              "title": "租房注意事项 的大纲"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5.生活/星星科技租房.md"
+                "file": "5.生活/租房注意事项.md"
               },
               "icon": "lucide-info",
-              "title": "星星科技租房的笔记属性"
+              "title": "租房注意事项的笔记属性"
             }
           },
           {
@@ -247,8 +247,8 @@
   },
   "active": "e1d31a4948900d1f",
   "lastOpenFiles": [
-    "5.生活/租房注意事项.md",
     "5.生活/星星科技租房.md",
+    "5.生活/租房注意事项.md",
     "0.home page.md",
     "其他/时间管理工作流.md",
     "其他/部署常用命令.md",
